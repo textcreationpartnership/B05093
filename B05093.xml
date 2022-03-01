@@ -1,0 +1,928 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Y rhybuddiwr Christnogawl yn cynnwys annogaeth ddifrifol i fuchedd sanctaidd. : Gyda rhai hyfforddiadau tuag-at yr unrhyw. : Wedi el sgrifennu mewn ffordd eglur ahawdd, i bôb mâth ar bobl. : A'i gyfieithu allan o'r ddeuddegfed At-graphiad yn y Saisonaeg.</title>
+            <title>Christian monitor. Welsh. 1699</title>
+            <author>Rawlet, John, 1642-1686.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 140 KB of XML-encoded text transcribed from 36 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05093</idno>
+            <idno type="STC">Wing R360AA</idno>
+            <idno type="STC">ESTC R182379</idno>
+            <idno type="EEBO-CITATION">49520966</idno>
+            <idno type="OCLC">ocm 49520966</idno>
+            <idno type="VID">174199</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05093)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174199)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2675:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Y rhybuddiwr Christnogawl yn cynnwys annogaeth ddifrifol i fuchedd sanctaidd. : Gyda rhai hyfforddiadau tuag-at yr unrhyw. : Wedi el sgrifennu mewn ffordd eglur ahawdd, i bôb mâth ar bobl. : A'i gyfieithu allan o'r ddeuddegfed At-graphiad yn y Saisonaeg.</title>
+                  <title>Christian monitor. Welsh. 1699</title>
+                  <author>Rawlet, John, 1642-1686.</author>
+               </titleStmt>
+               <extent>68 p.   </extent>
+               <publicationStmt>
+                  <publisher>gan J.R. i S. Manship ...,</publisher>
+                  <pubPlace>Argraphedig yn Llundain,  :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to John Rawlet by Wing.</note>
+                  <note>Imperfect: stained, with some loss of print.</note>
+                  <note>Reproduction of original in: Llyfrgell Genedlaethol Cymru/National Library of Wales.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="wel">wel</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Jayne Henley</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Jayne Henley</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="wel">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:174199:1"/>
+            <pb facs="tcp:174199:1"/>
+            <p>Y Rhybuddiwr Chriſtnogawl, Yn cynnwys ANNOGAETH DDIFRIFOL I <hi>FVCHEDD SANCTAIDD.</hi>
+            </p>
+            <p>
+               <hi>Gyda rhai</hi> HYFFORDDIADAU <hi>tuag-at yr unrhyw.</hi>
+            </p>
+            <p>Wedi ei ſgrifennu mewn ffordd eglur a hawdd, i bôb mâth ar Bobl.</p>
+            <p>
+               <hi>A'i gyfieithu allan o'r ddeuddegfed A<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>graphiad yn y Saiſonaeg.</hi>
+            </p>
+            <q>
+               <p>Dilynwch Heddwch â phawb, a ſancteiddrwydd<g ref="char:punc">▪</g> heb yr hwn ni chaiff nêb weled yr Arglwydd.</p>
+               <bibl>
+                  <hi>Heb. 12.14.</hi>
+               </bibl>
+            </q>
+            <p>Argraphedig yn <hi>Llundain,</hi> gan <hi>I. R. i S. Mar<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> tan Lûn y Llong, yn 'r Heol a elwir (Yd-fryn) <hi>Cor<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hil</hi> yn agos i'r (Cyfnewidtŷ Brenhinawl) <hi>Royal Exch<gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+               </hi> 1699.</p>
+            <p>Yr ail Argraph iad yn Gymraeg.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:174199:2" rendition="simple:additions"/>
+            <pb facs="tcp:174199:2"/>
+            <head>Y Rhybuddiwr Chriſtnogawl, <hi>&amp;c.</hi>
+            </head>
+            <div type="chapter">
+               <head>
+                  <hi>PEN. I.</hi> Annogaeth i <hi>Fuchedd Dduwiol,</hi> gyd â Chynnhyrfiadau at yr unrhyw.</head>
+               <p>MAe'n reſynol iawn yſtyried, nid yn un<g ref="char:EOLhyphen"/>ig leied o genedlaethau ſydd yn y byd yn proffeſſu Chriſtnogeiddrwydd, ond hefyd o'r rhai a'i proffeſſant, anamled yw 'r rhai ſydd yn cyffelybol-fucheddu yn ôl eu proffeſs. Gan hynny fe weddai yn dda i ffyddlon waſanaethwyr Chriſt, yn enwedig i Weinidogion ei Efengyl ef, arferu eithaf eu gallu, drwy fuchedd ac A<g ref="char:EOLhyphen"/>thrawiaeth, drwy gyhoedd a dirgel annogaethau, drwy bregethu a ſgrifennu, a thrwy bob ffordd ag y medrant, ddyrchafu gwîr Dduwioldeb a Sancteiddrwydd ym myſg pôb mâth a'r ddynion, pa un bynnag ai uchel ai iſel, cyfoethogion ai tlodion, heb pa un ni ddichon neb fôd yn ddedwŷdd, naill ai'n y bŷd hwn, ai'n 'r hwn ſy 'i ddyfod. Ac er y gwn i'n dda, i Dduw y b'o'r dlolch, fôd gennym amlder o lyfrau rhagorol a ſgrifennwyd i'r diben hwd; etto nid yw'r cyfryw hyfforddiadau byrrion a'r rhai'n ſy'n canlyn i'w heuog farnu megis yn ddiddef<g ref="char:EOLhyphen"/>nydd, oblegid, mae'n debygol, y tenir hwynt yn fŵy cyffredinol, a hynny ym mhlith y rhai gwaelaf o'r bobl, ac y gellir yn haws eu darllain a'u cofio gan y rhai nid oes ganddynt nag amſer i ddarllain llyfrau mawrion, nag arian i'w prynnui. A'r cyfryw rai y mae i mi achos yn fynych i gyfarfod, ac er eu mŵyn hwynt yn bennaf yr ŵyl yn cyhoeddi y Pappur bychan hwn, wedi cael fy nghefnogi i wneuthur felly gan rai gwŷt Duwiol, Dinaſaidd
+<pb n="4" facs="tcp:174199:3"/>
+a Gwladaidd, y rhai ſy'n bwriadu rhoi rhai o honynt i Dlodion o'u hamgylch, ac a feddyliaſont y gallai era<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll wneuthur y cyffelyb. A rhynged bodd i Dduw roddi ben<g ref="char:EOLhyphen"/>dith i'r cyfryw anturiaeth wael a hon, a'i llwyddo er daio<g ref="char:EOLhyphen"/>ni Eneidiau; Ni wnaf i fawr-gyfrif o farn y Rhodreſgar, gan goho dywediad o'r eiddo Sgrifennydd duwiol y cy<g ref="char:EOLhyphen"/>farfûm i yn rhyw fan ag e', yn tueddu at y perwyl hwn; ſef, y chwennychai fôd ei Lyfrau wedi eu tanu ar lêd ym marchnadfa Pedleriaid, ac odd i yno eu dyfod i ddwylo y bobl gyffredin er chwanegu gwybodaeth a duwioldeb, <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yttrach na'u cynnefinol roi i fynu a'u cuddio yn Llyfr<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ai y rhai dyſgedig.</p>
+               <p>Gan hynny heb ddim y chwaneg o Ragymadrodd, mi <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> m cyfeiriaf fy hunan attoch chwl y rhai yr ŵyf yn ſgri<g ref="char:EOLhyphen"/>fennu y liniau hŷn er eich mŵyn, megis annogaeth i ſanctaidd a crefyddol fywyd. Yn awr, yn gyfattebol at hynny, gadewch i mi erfyn arnoch edrych yn ôl ar eich <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uchedd a aeth heibio, a'ch galw eich hunain i gyfrif, A fu eich gofal a'ch aſtudrwydd chwi ar fyw yn y cy<g ref="char:EOLhyphen"/>fryw fodd Duwiol ag y gweddai i rai a fedoddiwyd i Enw Chriſt, ac yn ei ôl ef a elwir yn Griſtnogion. A ddarfu i chwi yſtyried yn dda beth yw ſynnied yr Enw hwn, a pha rwymedigaeth i fuchedd ſanctaidd yr ydych chwi'n gorwedd dani wrth ei gymmeryd arnoch yn eich Bedydd? Ac ydych chwi'n cofio 'n dda eich Adduned yn eich bedydd, ym mha un yr ymwrthodaſoch a Diafol, y Bŷd a'r Cnawd, ac yr addawſoch fôd yn filwŷr ffydd<g ref="char:EOLhyphen"/>lon ac yn waſnaethwŷr i Griſt, a pharhâu felly holl ddyddiau eich bywyd? A ddarfu i chwi ddeall ac yſtyr y pethau hyn cyn belled, a gwneuthur o honoch yn or<g ref="char:EOLhyphen"/>chwyl pennaf i chwi rodio yn ôl yr unrhyw? a ydych chwi 'n gwilied yn ofalus ac yn ymladd yn wrol yn erbyn eich gelynion yſprydol? a ydych chwi'n byw megis rhai yn credu'r. Efengyl, gan wneuther eich gorau yn ddiragrith ym mhôb dim i wybod ewyllys Daw â'i wneuthur? Gan eich bôd chwl'n henwi enw Chriſt, a ydych chwi'n ofalus ar ymadel a phôb anghyfiawnder? Mewn gair, ai eich aſtudrwydd a'ch arfaeth fwyaf chwi yw bodloni a gogoneddu Duw, a gweithio allan eich iechydwriaeth' eich hunain? Os gall eich Cydwybod dyſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>olaethu gyd â chwi mewn gwirionedd fôd y peth yn
+<pb facs="tcp:174199:3"/>
+ddiai felly, ac yn yr hyn yr ydych un amſer yn fyrr neu 'n gwneuthur ar fai, fôd yn ddrwg gan eich calonnau, a'ch bôd beunydd yn ymegnïo i wellhau: Os fel hyn y mae gyda chwi, meddaf, yna bendithiwch Duw am ei râs a'i drugaredd, ewch rhagoch a llwyddwch, ac nac ofnwch na bŷdd Duw gyda chwi, efe a'ch cymmer chwi megis ei blant, ac er mŵyn ei fab Ieſu, efe a faddeua eich pechodau ac a'ch cynnorthwya chwi a'i ras; fe a'ch cyfarwydda chwi a'i gyngor, ac yn y diwedd a'ch derbyn i'w ogoniant.</p>
+               <p>Ond attolwg gwnewch ffyddlondeb a'ch Eneidiau eich hunain a mynegwch i mi, Ond ffordd arall yn hollawl y bu gyda chwy-chwi? Oni fodlonaſoch chwi eich hu<g ref="char:EOLhyphen"/>nain a'r enw a phroffes noeth o Griſtnogaeth, ac yn y cyfamſer arwainaſoch helynt buchedd ddrygionus, yn union yngwrthwyn<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>b i'ch proffes? Oni ddarfu I chwi fŷw mewn anwybodaeth gwirfodd o'ch dyledſwydd, neu mewn pechodau tramawr yn erbyn eich gwybodaeth? Onid ydyw profedigaethau Diafol, hudoliaethau y Bŷd a'r Cnawd lawer o amſerau yn eich gorfod yn hyttrach na gorchymmynion yr holl alluog Dduw a llais eich Cyd<g ref="char:EOLhyphen"/>wybod eich hunain? Ond ydych chwi'n gynnefin o eſceu<g ref="char:EOLhyphen"/>luſo addoliad a gwaſanaeth Duw, yn yr Eglwys a char<g ref="char:EOLhyphen"/>tref? ïe, onid ydych chwi yn halogi ei Enw ſanctaidd ef drwy dyngu a rhegu? Onid ydych chwi'n fynych yn eu<g ref="char:EOLhyphen"/>og o gelwydd ac enllib, o dŵyll a ſommedigaeth, ac fe allai o ledrad uniawngyrch? Onid iaith arferedig i chwi yn eich digter yw cablu a difenwi? neu onid ydych chwi'n bŷw mewn cenfigen a bwriad drwg gan geiſio dial ar y rhai a wnaethant ddim cam a chwy-chwi? Onid ydych chwi yn eich cynwys eich hunain mewn meddwdod a phutteindra, neu mewn rhŷw bechod gwybyddus a gwir<g ref="char:EOLhyphen"/>fodd arall? I fôd yn fyr, onid oes rhyw beth neu eî gilydd yn y bŷd yr ydych chwi'n ei garu yn fŵy na Duw ei hûn a'i fab Ieſu? Onid ydych chwi yn darbod droes eich Cyrph yn fŵy o lawer na thros eich Eneidiau gwerthfawr? Ac onid ydych chwi yn ym<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ais yn ddifrach am ym<g ref="char:EOLhyphen"/>borth a dillad, a phethau da y bywyd hwn, nag am y dragwyddol deyrnas o ogoniant a addawodd Duw i'w waſanaeth-ddynion ffyddlon yn y bŷd a ddaw?</p>
+               <p>Os fel hyn yn ddïai y mae eich cyflwr, ſefwch attolwg, ac yſtyriwch yn dda beth y buoch yn ei wneuthur; pa gy<g ref="char:EOLhyphen"/>flwr
+<pb n="6" facs="tcp:174199:4"/>
+greſſynol a pheryglus y dygaſoch chwi eich hunain iddo, a pha beth a fydd ei ddiwedd os deliwch chwi rha<g ref="char:EOLhyphen"/>goch yn y cyfryw helyntiau drygionus. Ufudd-ymbili<g ref="char:EOLhyphen"/>wch a Duw ar iddo eich gwneuthur chwi beunydd yn deimladwy o'ch pechod a'ch perygl, a chadw o honaw ef y deimledigaeth honno mor dynn at eich meddyliau, fel y dyccer chwi nid yn unig i alaru am eich pechodau, ond i'w cashâu a'u ffieiddio, ac yn hollawl i ymwrthod a'r un<g ref="char:EOLhyphen"/>rhyw, gan ymrol o hyn allan drwy ras Duw í'ch rhoddi eich hunain yn gwbl i'w waſanaeth ef, ac i rodio yn ddïyſ<g ref="char:EOLhyphen"/>gog yn y ſanctaidd a'r daionus lwybrau a oſſododd efe i chwi. I hyn yr ydwyf yn dradifrifol yn chwennych eich ymannog chwi. Ac fel y gwnelwyf fy eithaf ar dyccio, mi a oſſodaf o'ch blaen chwi rai Rheſymmau pwysfawr, y rhai yr ŵyf yn erfyn arnoch eu difrifol yſtyried yn eich calonnau wrth eu darllain, a Duw a ganniatta o iddŷnt gael gwir-waith ar galon pob darllennydd. <hi>Amen.</hi>
+               </p>
+               <p n="1">(1.) Fel y ffynno eich ennill chwi, i fôd yn waſanaeth<g ref="char:EOLhyphen"/>ddynion ffyddlon i Dduw, yſtyriwch, yn gyntaf, <hi>Mai hwn oedd y diben mawr er mwyn pa un y gwnaeth Duw chwi, ac y mae efe yn eich cadw chwi yn fyw, ac yn rhoddi i chwi gynni<g ref="char:EOLhyphen"/>fer c bôb mâth ar fendithion.</hi> Chwi a fedrwch ddywedyd, 'r wyf yn gobeithio. Mai Duw a'ch gwnaeth chwi, ac iddo, eich gwneuthur i'w waſanaethu ef, gan ſyw yn ôl ei orchymmynion. Hyn yw un o'r pethau cyntaf y mae plant yn ei ddyſgu, a da fyddai pan gynnyddont i fôd yn wŷr ac yn wragedd, pe ymarferent yn ddifrifol o'i gofio, ac o wneuthur ar ei ôll, Y Duw doeth a wnaeth bôb crea<g ref="char:EOLhyphen"/>dur i ryw ddiben da neu ei gilydd, ac a'n cymhwyſodd hwynt ôll i'r dibenion a'r amcanion hynny er mwyn pa rai y gwnaeth efe hwynt. I ddŷn gan hynny y rhoddes efe Reſwm, yn bennaf i'w gymhwyſo ef at grefydd, ac i'w gyfaddaſu ef i adnabod, i garu ac i waſanaethu ei Greawdr mawr a'i Nodded: A Chrefydd yw'r peth ſydd yn gwneuthur y rhagor mawr rhwng Dŷn ac Anifail, o blegid nid oes gan Greaduriaid direſwm wybodaeth o Dduw, na pharch iddo, ond hwy a arweinir yn hollawl gan eu hannian; ac ni feddyliant am ddim arall ond y peth ſŷdd o'n blaen yn y bŷd hwn. Ond y dŷn tlottaf ar y ddaiar yr hwn y mae rheſwm ganddo, ſydd a charennydd agos rhyngtho a'r <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ngylion eu hunain; ei nattur fydd geffelyb r eiddynt hwy<g ref="char:punc">▪</g> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> nid yw ond ychydig i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> na hwynt, fel
+<pb n="7" facs="tcp:174199:4"/>
+yn galler mawr-dderchafel ei feddwl ef yn yr ûn gorchwy<g ref="char:EOLhyphen"/>lion ſanctaidd ag y maenthwythau yn gweini ynddynt, ſef yn caru ac yn moli, ac yn addoli y Duw mawr daionus. I'r diben ymma ef a ddichon ſtudio gweithredoedd Duw a'i air, y rhai a'i datcuddia ef i ni, ac a ddylo' 'n oeſtadol ein coſthâu ni am dano. A'r holl bethau da yr ydym ni yn eu mwynhâu a ddylent yn oeſtad beri i ni ſynnied daioni Duw oddïwrth ba ûn y maent yn deilliaw: a llenwi ein calonnau ni o gariad a diolchgarwch, a'n genenau a ben<g ref="char:EOLhyphen"/>dith a mawl. Dymma'r defnydd mwya cyfyddas o'n rhe<g ref="char:EOLhyphen"/>ſwm ni, a hyn y mae Duw yn gyfiawnaf yn ei ddiſgwil oddïwrthym ni greaduriaid rheſymmol; a hyn a ddichon y tlawd ei draddodi heb ddim rhwyſtr i'w lafur beunyddi<g ref="char:EOLhyphen"/>ol; ac a all gadw y cyfryw ſynniad arſwyddus o Dduw ar ei feddwl ef ag a ddichon ei attal ef oddïwrth bechod gwirfodd, a'i wneuthur ef yn oeſtad yn ofalus i fodloni ei Wneuthurwr. Ac felly ein rheſwm a roddwyd i ni i ffrwyno ac i lywodraethu ein chwantau, ein hysfa a'n Gwyniau; fel na'n harweinier ymaith i lothineb a medd<g ref="char:EOLhyphen"/>dod, i anlladrwydd ac aflendid, nac i ffromder a Ilid<g ref="char:EOLhyphen"/>iogrwydd, megis Anifeiliaid yſgrublaidd y rhai ſydd heb ddeall ganthynt: ond bôd i ni fyw 'n ſobr ac yn ddi<g ref="char:EOLhyphen"/>wair, yn dangnheddyfus ac yn heddychol a phob dŷn; gan wneuthur iddynt bob daioni a allom. Er mwyn y cyfryw ddibennion ſanctaidd a'r rhai'n yn bennaf y rhodd<g ref="char:EOLhyphen"/>wydein Rheſwm i ni, ac fel hyn gan hynny ydylid ei ddefny<g ref="char:EOLhyphen"/>ddio. Yn ſiccr gan i Dduw ein gwneuthur ni o naturiaeth fŵy rhagorol nag ader ac anifeiliaid, mae efe 'n diſgwil oddiwrthym amgengorchwylion a gwa<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>anaeth nagoddiwr<g ref="char:EOLhyphen"/>thynt hŵy. Ni wyddant hŵy ddim o Dduw a'u gwnaeth, nac oes ganthynt hwy ddim gwybodaeth o fywyd arall ar ôl hwn, ond pan fyddont feirw, dynu ben am danynt. Ond i ni y rhoddes Duw Eneidiau anfarwol gwerthfawr<g ref="char:EOLhyphen"/>occach na'r holl fŷd: ac er mwyn y diben hwn y creodd efe ni, fel y byddai i ni ei waſanaethu a'i anrhydeddu ef yma yn y bywyd hwn, ac felly cael byw gyd ag ef, a 'i fwynhau'n dragywydd yn y bŷd ſydd i ddyfod.</p>
+               <p>Yn awr, os dyma ddiben ein creadigaeth ni, oni ddylem ni fyw i fynu atto? Oni welwn ni bob peth arall yn atteb i'r diben y gwnaethpwyd hwynt o'i blegid? Yr haul yn rhoddi goleuni y dŷdd, a'r llenad y nôs. Y ddaiar yn
+<pb facs="tcp:174199:5"/>
+dŵyn ŷd a gwellt, a'r prennau yn dŵyn ffrŵych. Y march, y fuwch a'r ddafad, gyda llawer o Greaduriaid eraill, yn edfryd i ni waſanaeth a bûdd lawer. Ac a gaiff dŷn yn unig fod yn annefnyddiol ac yn anffrwythlon, heb fyw i un perwyl da? Pan ydynt hwy ôll cyn barotted i'n gwaſanaethu ni, oni chawn ninnau yn gyſſurus ei waſanae<g ref="char:EOLhyphen"/>thu ef yr hwn a'n gwnaeth ni i'w waſanaeth ei hûn? Yn ſiccr nid allwn ni dybied ddarfod i'r Duw doeth ein danfon ni i'r bŷd yn unig i fwytta ac i yfed, i gyſgu ac i chwareu, neu i weithio'n galed am fywiolaeth dlawd. Pe hyn fuaſai'r cwbl, gwell a fuaſai i ni fod wedi ein gwneuthur yn greaduriaid direſwm, neu na'n gwnelſid fŷth. Llai o lawer y gallwn ni dybio wneuthur o'r Duw ſanctaidd ni yn un ſŵydd i bechu yn ei erbyn, i ddïanrhyd<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ddu ei enw, a'i gyffroi i ddigofaint. Nid i'n gwneuther yn gall ac yn gyfrwys at y bŷd y rhoes efe reſwm i ni, fel y gwypem pa fôdd i dwyllo ac i ſommi ein cymmydogion. Ni roddes efe dafodau i ni i dyngu a rhegi a hwynt, neu i ſiarad ynfydrwydd a ſerthedd; gadewch i ni gan hynny na ar<g ref="char:EOLhyphen"/>ferom mo'nynt i'r cyfryw ddrwg ddibennion. Gan roi o Dduw i ni Eneidiau gwerthfawr anfarwol, gadewch i ni na b'om bŷw megis anifeiliaid a ddiſethir, gan ymdrobaeddu yn nhom trachwant brwnt annianol a difyrrwch. Fel hyn yr ydym ni yn mynd yn waeth na'r anifeiliaid eu hunain, canys yr ydym ni yn dîyſtyru 'ein natturiaeth ein hunain, yr ydym yn dirmygu ein rheſwm, er cywilydd a niwed i ni ein hunain, ac er anfodlondeb i Dduw. Fel hyn yr y'm ni yn croeſi diben ein Creadigaeth, ac yn hurtach ac yn anniolchgarac<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a'r ych neu 'r aſſyn: canys hwy <hi>a ad<g ref="char:EOLhyphen"/>waenant eu meddiannudd,</hi> ac a wnânt waſanaeth da i'r rhai a'u cadwant ac a'u porthant, <hi>Eſ.</hi> 1.2.3. O! gadewch i ni na rothom achos i Dduw i achwyn arnom, fel y mae efe yno ar yr Iddewon <hi>iddo fagu a meithrin meibion a gwrth<g ref="char:EOLhyphen"/>ryfelu o honynt i'w erbyn:</hi> Cofiwch mor ofidus ydyw i chwi y rhai y mae plant gennych, wedi eich hôll ofal a'ch caredigrwydd, wedi eich hôll drael a'ch llafur, eu cael yn gyndyn ac yn anufudd, yn anllywodraethys ac yn Afradwyr ſegurllyd. O! edrychwch gan hynny na b'o i chwi fôd yn gyiryw tuag-at eich Tâd nefol, yr hwn a'ch gwnaeth ac ſydd yn eich cadw, ac ſydd beunydd yn adne<g ref="char:EOLhyphen"/>wyddu ei drugareddau tuag-attoch. Efe ſydd yn ein cadw ni'n fŷw ac yn gwneuthur ein heinioes ni yn gyſſurus. Efe
+<pb n="9" facs="tcp:174199:5"/>
+ſydd yn rhoi ac yn cynnal i ni ein Rheſwm a'n ſynhwyrau, ein hiechyd a'n cryfder, ymborth a dillad, a'r holl bethau da yr ŷm ni yn eu mwynhâu. Efe ſy'n cyflowni ein deffy<g ref="char:EOLhyphen"/>gion, ac yn ein cynnorthwyo yn ein holl gyfyngderau. Mae efe yn rhoi i ni olenni'r dydd, ac eſmwythdra'r nôs. Mae efe yn rhoddi i ni allu i ddilyn ein galwedigaethau, ac yn rhoi bendith ar ein llafur ni, fel y gallom ddarparu i ni ein hunain a'n <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>euluoedd. Ac onid ydyw y Duw daionus hwn yn haeddu yn dda yr holl gariad a'r gwaſanaeth a fyddo poſſibl i ni ei draddodi iddo ef? O pa fôdd y clown ni ar ein calonnau ei anfoddhâu ef o'n gwirfodd, yr hwn ſydd fel hyn yn omddigrifo yn gwneuthur i ni dda<g ref="char:EOLhyphen"/>ioni! Ys, trueiniaid ynfyd ac anniolchgar ydym, i dalu 'r pŵyth mor ddrwg a hyn, am holl dirion drugareddau 'r Arglwydd. Nid allem ni wneuthur felly ag ûn Cyfaill na chymmydog ar y ddaiar, a fuaſai yn oeſtad yn addfwyn ac yn garedig wrthym. Onid yw gweiſion yn rhwym i weithio i'r rhai a'u cadwant ac a dalant gyflogau iddynt? Ac oni ddylai plant ufuddhâu i'w Rhïeni y rhai a'u cenhedlaſont ac a'u dygaſont i fynu? Pa faint mŵy gan hynny y dylem ni ufuddhau i Dduw ein Tad, yr hwn yn gyntaf a roes fywyd i ni, ac ſydd yn oeſtad o ddŷdd bwy<g ref="char:EOLhyphen"/>gilydd yn ei hwyhâu, pan allai efe mewn moment ein torri ymaith yn ein pechodau, a'n taflu i uffern. Ond mewn mawr drugaredd y mae efe yn ein heiriach, ac yn rhoddi i ni adeg i edifarhâu, a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> anewyllyſgar iawn ydyw i'n deſtrywio ni, ac o herwydd hynny mae'n hir-ddiſgwil i fôd yn raſuſol i ni. O! gan hynny bydded i'w hîr-yma<g ref="char:EOLhyphen"/>ros a'i holl ddaioni ef o'r diwedd gael y gweithrediad ded<g ref="char:EOLhyphen"/>wyddol hwn arnom; gadewch iddo ein tywŷs i wîr edi<g ref="char:EOLhyphen"/>feirwch, ac bŷth o hyn allan ein rhwymo ni i ddiwŷdr<g ref="char:EOLhyphen"/>wydd a dianwadalwch yn ei waſanaeth. <hi>Rhuf.</hi> 2.4. 2 <hi>Pet.</hi> 3.9.</p>
+               <p n="2">(2.) I'r perwyl hwn yſtyriwch drachefn mai <hi>dymma'r diben, er mwyn pa un yr anfonodd Duw ei fab Ieſu i'r byd,</hi> ſef i'n ceiſio ac i'n cadw ni bechaduriaid truain cyfrgoll<g ref="char:EOLhyphen"/>edig, i'n dwyn i edifeirwch a newydd-deb buchedd fel felly i'n hadferid i ffafr a chariad Duw, y rhai a go<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>laſem. ni drwy bechu yn ei erbyn ef, Ein Rhïeni cyntaf ni Add<g ref="char:EOLhyphen"/>a ac Efa a grëwyd mewn tra-ſanctaidd a dedwyddol gyflwr, ond hwy a gwympaſont drwy bechu yn erbyn
+<pb n="10" facs="tcp:174199:6"/>
+Duw, ac felly y daeth pôb trueni i'r bŷd. Ac yna y cym<g ref="char:EOLhyphen"/>merth ein Tad nefol doſturi arnom, ac a anfonodd ei fab o'i fynwes i fôd yn Iachawdwr ac yn Bryniawdwr i ni, i'n hadgyweirio ni o'n <hi>pechodau,</hi> ac felly i'n gwared oddïwrth <hi>drueni:</hi> Yn gyntaf fe a'n gwna ni <hi>'n Sanctaidd,</hi> ac yno i'n gwneir <hi>yn Ddedwyddol.</hi> Canys fel y darfu i ddŷn golli ei ddedwyddwch drwy annufuddhâu i orchymmyn Duw, felly rhaid iddo ei ail-ynnill drwy fôd yn ufudd i'w ewyllys ef ym mhôb dim. I'r diben hwn y cyflawn-ddatcuddiodd yr Argi<g ref="char:EOLhyphen"/>wydd Ieſu feddwl ac ewyllys Duw i ni pan oeddym mewn anwybodaeth a thywyllwch. Fe a roes i ni athrawiaethan ſanc<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aidd i reoli ein bywyd: Ac a wnaeth dra-goludog'a gwerthfawr addewidion i ni i'n hannog i'n dyledſwyddau, ac a gyhoeddodd fygythion ofnadŵy i'n dychrynnu ni o'n drygioni.</p>
+               <p>A phan oeddym yn haeddu digofaint Duw am ein pe<g ref="char:EOLhyphen"/>chodau, yna y tywalltodd Ieſu Griſt ei werthfawroccaf Waed i wneuthur cymmod droſom, ac i ennill i ni bardwn a maddeuant. <hi>Efe a fu farw dros ein pech<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>dau, ac a gyfod<g ref="char:EOLhyphen"/>wyd i'n cyfiawnhau.</hi> Rhuf. 4.25. Ac yn ei Efengyl a roes lawn ſiccrwydd o ewyllys da Duw tuag at ddynol rŷw, y bydd efe trugarog wrthym ac y maddeuai efe i ni, os gwîr-edifarhawn ni am ein pechodau ac ymwr<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hod a hwynt. Fel hyn yr agorodd Chriſt ddrŵs gobaith i ni, i roi calonnau ynom i ddychwel at Dduw: Canys pe na buaſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i obaith o drugaredd, ni'n tynneſid bŷth i Edifeir<g ref="char:EOLhyphen"/>wch, ond megis y Cythreuliaid eu hunain yr aroſaſem yn llawn câs a digaſedd yn erbyn Duw, gan anobeithio yn holl<g ref="char:EOLhyphen"/>awl am ymwared oddïwrtho. Ond tra bo marwolaeth Chriſt yn rhoi cymmaint rhwymedigaeth a chalon ynom i <hi>ymwrthod</hi> a'n pechodau, nid ydyw yn rhoi i ni yr achlyſur lleiaf i <hi>barhau</hi> ynddynt. Na thybiwn <hi>farw</hi> o Griſt dros ein pechodau fel y cäem rydd-did i fŷw ynddynt, ac etto bod yn gadwedig yn y diwedd. Na ddô, eithr efe a ddaeth i'n gwared ni oddiwrth ein pechodau, ac nid <hi>ynddynt.</hi> Mae efe yn ein bendithio gan ein troi oddiwrth ein han wireddau. Efe a fu farw i'n hachub ni oddiwrth ofer<g ref="char:EOLhyphen"/>drwg ymarweddiad, i buro ein calonnau, ac i adgyweirio ein Bucheddau, <hi>a'n gwneuthur yn bobl briodol eddo ei hûn, awyddus i weithredoedd da,</hi> Mat. 1.21. Act. 3.26. Tit. 2.14. 1 Pet. 1.18.</p>
+               <p>Marwolaeth Chriſt droſom ni bechaduriaid ffiaidd ſy'n
+<pb n="11" facs="tcp:174199:6"/>
+dangos annherfynol gariad Duw yn cael allan y fford hon er ein hiechydwriaeth: Ond yna mae'n dangos hefyd pa ddrygbeth yw pechod, ac mor gâs gan Dduw, gan na roddai ef faddeuant i ni heb ddioddef o'i anwyl Fab ei hûn o'n hachos ni. A chan hynny oni ddŵg yr yſtyriaeth o <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yn ei gŷd nyni i gaſhâu ac i ffieiddio ein pechodau, ac i waſanaethu ein Duw a'n Hiachawdwr, nid ydym ni fŷth debyg i gael dim llês o farwolaeth Chriſt. Ein holl broffes ni o'i garu ef a chredu ynddo a ſai yn ddiddim i ni heb ufuddhâu iddo ef. Gwir ffydd gadwedigol yng Nghriſt yw yr hon <hi>ſy'n gweithio drwy gariad</hi> i Dduw ac i'n cymmydog. Nid yw Chriſt yn cyfrif nêb yn gyfeillion iddo ef ond y rhai a gadwant ei orchymmynion, ac i'r cy<g ref="char:EOLhyphen"/>fryw rai yn unig y caniattâ efe faddeuant ac iechydwriaeth <hi>Gal.</hi> 5.6. <hi>Ioan</hi> 15.14, <hi>Heb.</hi> 5.9. 1 <hi>Ioan</hi> 3.8.</p>
+               <p>Gan ddyfod gan hynny o'r tragywyddol fendigedig Ie<g ref="char:EOLhyphen"/>ſu mab Duw i lawr o'r nefoedd, a chymmeryd o hono ddynolia<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th arno, a marw marwolaeth dra phoenedig ar y Groes, fel i'n gwaredai oddiwrth bechod a thrueni. Oni chymmerwn ni ef yn Arglwydd ac yn Iachawdwr, yr hwn ſydd yn dyfod i'n gwared ni oddiwrth allu diafol a'n trachwantau ein hunain, i'n gwneuthur ni yn Blant i Dduw ac yn Etifeddion Gogoniant, yr hyn ſydd fil o weithiau yn fŵy ymwared na'r hwn a gâs <hi>yr Iſraeliaid o</hi> gaethiwed <hi>yr Aipht?</hi> Oni chynhyrfir chwi gan yr hyn ôll a wnaeth ac a ddioddefodd Chriſt droſoch? Oni chaiff ei gariad ef eich cymmell chwi i'w garu yntau, ac i gashâu pôb pechod yr hyn a fu achos o'i ddioddefaint ef? A ſethrwch chwî dan draed ei werthfawroccaf Waed ef, a'i groeshoelio ef dra<g ref="char:EOLhyphen"/>chefn, a'i roddi i wradwydd cyhoeddus? Fel hyn mewn rhyw feſur y mae Dynion drygionus yn arfer o wneuthur a'u Hiachawdwr, tra'r elont ym mlaen yn eu pechodau y thai ydynt mor anfodlonol iddo. Y rhai a ddywedant gelwydd ac a dŵyllant er mwyn ychydig elw, Beth y mae 'nt yn ei wneuthur <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd megis Judas gwerthu ymmaith Griſt er arian. Y rhai ſydd yn byw mewn câs a digaſedd, ac a wnânt ddrwg i'w Cymmydogion, maent mewn effaith yn gwahanu yſtlys Chriſt a gwaywffon, ac yn gyrru Hoelion i'w ddwylo a'i draed ef. A'r rhai a ymroant i dry<g ref="char:EOLhyphen"/>thyllwch a meddwdod, maent yn cymyſcu Buſtl a Finegr ddo ef i'w yfed. Maent yn gwneuthur y cwbl ôll hyd y
+<pb n="12" facs="tcp:174199:7"/>
+mae ynthynt drwy eu difyrwch pechadurus, ar ei <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oddi ef drachefn i <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng a Phoenau. Ond ar y llaw arall, mae'n hyfrydwch gan yr Arglwydd ein gweled yn ymddaroſt<g ref="char:EOLhyphen"/>wng am ein pechodau, ac yn ymroi i ymwrthod a hwynt. Efe a ſydd yn barod iawn i gyfryngu troſom ac a'i gwna yn effeithiol ddigon gyda 'n Tad nefol, yr hwn ſydd dra ewyllyſgar i dderbyn Afradlonwŷr dychweledig. Mae llawenydd yn y Nef pan edifarhao pechaduriaid ar y Ddai<g ref="char:EOLhyphen"/>ar. Ie ein dychweliad hyn at Dduw drwy wîr edifeirwch yw'r gobrwy goreu a allwn ni ei wneuthur i'n Hiachawd<g ref="char:EOLhyphen"/>wr bendigedig am ei holl boen a'i ddioddefaint. <hi>Pan lwyddo ewyllys yr Arglwydd yn ei law</hi> drwy ddychweliad pe<g ref="char:EOLhyphen"/>chaduriaid, <hi>o lafur ei enaid y gwel ac y diwellir,</hi> Eſay 53.10, 11. Ac oni chawn ni adroi y bodlonrwydd hwn i'n Prynnwr, yr hwn a ddug arno gymmaint er ein mŵyn, ac ſydd yn oeſtad o'i dyner gariad i'n heneidiau yn ein dilyn a'r cyfryw ddifrifol wahoddiadau i ddyfod atto am fywyd a dedwyddwch? A allem ni ei naccâu ef o'r dy<g ref="char:EOLhyphen"/>muniad tra rheſymmol hwn, pe gwelem ni ef yr awr hon yn ſefyll o'n blaen yn berſonol, gan erfyn arnom droi a bŷw? A hyn y mae efe yn awr yn ei wneuthur drwy ei Yſpryd a thrwy ei Weinidogion. Ond hyn ſydd yn fy arwain i at y neſaf.</p>
+               <p n="3">(3.) Yſtyriwch gan hynny, mai <hi>hwn hefyd oedd y diben<g ref="char:EOLhyphen"/>er mwyn pa ûn y rhoddwyd yr Yſpryd glan, ac yr adferwyd holl foddion gras,</hi> ſef i ſancteiddio ein calonnau ac i'n gwneu<g ref="char:EOLhyphen"/>thur yn Bobl ſanctaidd ac ufudd. Duw a edwŷn wendid a llygredigaeth ein naturiaethau ni, gan hynny mewn mawr drugaredd mae efe yn caniattau i ni gymmorth ei lân Yſpryd, i oleuo ein meddyliau, ac i buro ein calon<g ref="char:EOLhyphen"/>nau, i adnewyddu ac i newid ein naturiaethau ni, ac i'n byfforddi yn llwybrau ſancteiddrwydd ymma, fel felly i'n cymhwyſer i dragwyddol ddedwyddwch gyda'r Duw ſancteiddiaf yn y bŷd a ddaw. <hi>Ioan</hi> 3.3, 5 <hi>Rhuf.</hi> 8.9. Ac i'r diben hwn yr yfgrifennwyd yr Yſgrythyrau-ſanctaidd gan wŷr wedi eu cynhyrchio a'u hyſprydoliaethu gan yr Yſpryd glân, i fôd yn lluſern i'n traed ac yn lle<g ref="char:EOLhyphen"/>wyrch i'n llwybr, i'n cy<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arwyddo ni yn y ffordd eglur i fywyd tragywyddol, 2 <hi>Tim.</hi> 3.15, 16, 17. A'r ſanctaidd Sacramentau a drefnwyd er cynnydd grâs i'r rhai ôll a'n hiawn-arferont. A'n Hiachawdr bendigedig ar y cyn<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>af
+<pb n="13" facs="tcp:174199:7"/>
+a anfonodd ar lêd ei Apoſtolion i Bregethu'r Efengyl i'r holl Fŷd, ac fŷth er y pryd hynny a gynhaliodd ddilyn<g ref="char:EOLhyphen"/>niad parhâus o Weinidogion yn ei Eglwys ſwydd gwaſta<g ref="char:EOLhyphen"/>dol pa rai yw gweinyddu y Gair a'r Sacramentau, gwilied dros Eneidiau y Bobl, eu haddyſgu a'u cynghori yn gyhoeddus ac yn ddirgel, ac arferu eithaf eu diwydrwydd i'w dŵyn hwynt i wybodaeth a chariad Duw, a'i Fab Ie<g ref="char:EOLhyphen"/>ſu. A Duw ſydd yn oeſtad yn barod i fôd a'i fendith yn breſennol gyda eu llafur hwynt. Onid ydych chwi yn fynych yn deimladwy fod ei Yſpryd daionus ef yn rhoddi bwriadau a chynnhyrfiadau da yn eich meddyliau chwi, gan eich tueddu chwi at yr hyn ſydd ſanctaidd a da, a'ch attal pan fôch yn rhedeg i ddrygioni? Ond ar y llaw arall yr Yſpryd drwg, ïe Diafol ei hûn, ſydd yn ceiſio gwall arnoch i bechu, ac a fynnai eich rhwyſtro oddiwrth eich dyledſwydd. Diafol ſydd yn denu Dynion i falchder a bwriad drwg ac i bob mâth ar ddrygioni. Canys gan ei fod ef yn falch, yn faleiſgar ac vn Yſpryd tra drygionus, fe fynnai i Ddynion fôd yn gyffelyb iddo ei hun, fel felly y buddont mewn trueni tragywyddol gydag ef. Oni wrthwynebwch chwi gan hynny y Cythraul, gelyn mawr eich Eneidiau, a chymmeryd eich arwain a'ch hyfforddi gan Yſpryd daionus Duw, a dilyn ei gynnhyrfiadau a hyfforddiadau ei air ef y rhai ſydd yn arwain i ddedwydd<g ref="char:EOLhyphen"/>wch? O na thriſtewch ei yſpryd bendigedig ef, yr hwn yn unig a ddichon roddi i chwi wîr ddiddanwch, na wrthwynebwch ac na ddiffoddwch et gynnhyrfiadau ac na chyffrowch ef i ymado oddïwrthych, a'ch gadel i'ch trachwantau eich hunain, ac i al<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r Satan, yr hwn ſydd yn ceiſio eich diniſtrio.</p>
+               <p>Ymmhellach, megis ag y mae ga<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>di<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fol ei offerynnau i dynnu Dynion i ddrygioni, y naill Ddrwg weithredwr, yn denu 'r llall, felly Gweinidogion a anionir oddïwrth Dduw i'ch tynnu chwi i gyfiawnder a ſancteiddrwydd. Cennadon a negeſwŷr Chriſt ydynt, ac yn ei enw ef y maent yn erfyn arnoch gymmodi a Duw, yr hwn ſydd dra-ewyllyſgar i fôd, yn gymmodlon a chwy-chwi, os gwnewch chwi ond taflu ymmaith y gweithredoedd drygionus ſydd yn ei annog ef i ddigofaint, 2 <hi>Cor.</hi> 5.20
+<pb n="14" facs="tcp:174199:8"/>
+O fel y gorfoledda calonnau eich Gweinidogion y rhai fydd yn gwîr garu eich Eneidiau, weled eu llafur yn ffyn<g ref="char:EOLhyphen"/>nu, a'ch dyfod attynt gan ymofyn beth a wnewch i fod yn gadwedig, gan adrodd eich edifeirwch am eich He<g ref="char:EOLhyphen"/>lyntiau drygionys o'r blaen, a'ch ymroad o hyn allan i fod yn Greaduriaid newydd! Yn ſiccr nid ydym ni yn annog mo'noch i ddim ond ſydd dra rheſymmol ac er budd i chwi eich hunain, tra bôm ni yn eich cymmell i ddychwelyd i ffafr Duw. Pa ham gan hynny na wrandewch chwi arnom? Pe 'r anfonid Cenadwri o drugaredd i chwi oddiwrth y Brenin, pan faech mewn perygl marwolaeth am deyrnfrad, Oni dderbyniech chwi ef yn orfoleddus ac yn ddïolchgar? Ac oni byddwch chwi mor ddïolchgar ac ufudd i frenin y Brenhinoedd, ac mor ſynhwyrol i achub eich Eneidiau ag i gadw eich Cyrph?</p>
+               <p>Ac heb law ei Aira'i Weinidogion, Mae Duw drwy ei Ragluniaeth yn ymreſymmu a chwi i'ch dŵyn i edifeirwch, Weithiau y mae 'n danfon helbulion i'ch'ceryddu am eich beiau, i ddangos i chwi ddrygioni pechod, ac i'ch dŵyn adre atto ei hun; ac amſerau eraill mae efe 'n danfon aml drugareddau, fel y mynegais i chwi, i feddalhau eich calonnau, i'ch rhwymo ac i'ch denu i'w waſanaeth: A'r cyfryw ddefnydd da a ddylem ni ei wneuthur o holl ym<g ref="char:EOLhyphen"/>driniad Duw a nyni.</p>
+               <p n="4">(4.) Yſtyriwch ymhellach <hi>Pa rwymedigaethau i fywyd duwiol yr ydych chwi yn gorwedd danynt wrth eich proffes eich hu<g ref="char:EOLhyphen"/>naïn, addewidion ac addunedau.</hi> Yr ydych chwi yn eich proffeſu ac yn eich galw eich hunain yn Griſt<g ref="char:EOLhyphen"/>nogion, Diſgyblion a dilynnwŷr Chriſt: Oni ddylech chwi gan hynny ddilyn ei eſampl ef, ac ufuddhau i'w orchymmynion, os gwnewch chwi yn dda yr <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nw hwnnw? Chwi a'i tybiech yn ammarch mawr i chwi gael eich galw nid yn Griſtion onid yn Iddew neu Dyrc. Gochelwch gan hynny rhag tynnu yr ammarch hwn arnoch eich <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> drwy dymmer meddwl angnghriſtnogawl, a helynt bu<g ref="char:EOLhyphen"/>chedd ddrwg. Os ydych yn ffals neu 'n llidiog, yn gy<g ref="char:EOLhyphen"/>byddaidd neu 'n drachwantus megis Tyrc neu Iddew, ni waeth fawr pa fôdd y galwoch chwi eich hunain. Nid
+<pb n="15" facs="tcp:174199:8"/>
+yw efe Griſtion yr hwn ſydd felly oddïallan, ond yr hwn y mae yr un meddwl ac Yſpryd gantho ag oedd yng Nghriſt Ieſu. Ni farn Duw yn y dydd diweddaf mo ddynion yn ôl eu henwau a'u teitlau, ond yn ôl eu calon<g ref="char:EOLhyphen"/>nau a'u bucheddau. Yn unig gwaeth o lawer a fŷdd i'r hwn a'i galwo ei hun yn Griſtion, ac etto a fo'n bŷw megis un o'r Cenhedloedd neu fel y diffydd.</p>
+               <p>Ac attolwg yſtyriwch fel yr ydych chwi wrth eich Bedydd wedi eich cyhoedd-rwymo eich hunain dan faner Chriſt, i ymladd yn erbyn Diafol y Bŷd a'r Cnawd; Ac wrth gadw'r Adduned hon y dangoſwch chwi eich bôd eich hunain yn Griſtnogion mewn gwirionedd. Ond os arweinir chwi ymaith gan brofedigaethau Satan, a gwneuthur o honoch ei waſanaeth ef, a'ch bôd wedi eich rhwydo gan wagedd y Bŷd, chwantau a difyrrwch y Cnawd, 'r ydych chwi mewn effaith yn ymwrthod a'ch Bedydd.</p>
+               <p>Heb law hyn, Oni ddarfu i chwi adnewyddu yr unrhyw adduned hon yn y Cymmun Sanctaidd, ac yno cyhoedd<g ref="char:EOLhyphen"/>gyfaddef eich crediniaeth yng-ngroes Chriſt, gan addo ufudddod iddo ef? Os chwi ni dderbyniaſoch y Sacrament Sanctaidd hwn, er eich bôd, er ys talm o fewn pedran pŵyll a dealltwriaeth, yr ydych chwi gan hynny yn eich dangos eich hunain drwy'r eſceuluſtra hwn nad ydych yn ddiſgyblion ufudd i Griſt, gan nad ydych yn ufuddhau i'w orchymmyn eglur ef, ſef, <hi>Gwnewch hyn er coffa am danaf,</hi> Luc. 22.19. Ac yn ddiai yr wyf yn ofni <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ôd llawer o bobl diofal heb ddyfôd i'r Cymmun, oblegid en bôd o'r meddwl y rhwymai hynny hwynt i arwain y cyfryw fy<g ref="char:EOLhyphen"/>wyd caeth a dwyfol, yr hwn nid ydynt yn bwriadu ei ddilyn. Etto ai nid ydynt hwy yn taflu ymmaith Ieſu Griſt oddïwrth fôd yn Feiſtr iddynt, y rhai ydynt yn edrych ar ei orchymmynion ef megis yn thy gaethion ac yn rhy dôſt, ac ni addawant ufuddhâu iddo? ie onid ydynt hwy drwy hynny yn gwadu eu Bedydd, drwy ba un y rhwymwyd hwynt i'r ufudd-dod hwn? Gan hynny y mae 'n debygol mai yr un rheſwm ag ſydd yn eu cadw hwynt oddïwrth y Cymmun, a'u cadwai hwynt oddïwrth
+<pb n="16" facs="tcp:174199:9"/>
+fedydd, pe bae o etto i'w wneuthur. A pha fâth Griſt<g ref="char:EOLhyphen"/>nogion ydyw y rhai a ymwrthodent a Bedydd Chriſtno<g ref="char:EOLhyphen"/>gol, oblegid ei fôd yn eu rhwymo hwynt i fuchedd ſanctaidd?</p>
+               <p>Os ydych chwi yn ddïeuog o'r eſceuluſdra hwn, ac yn dyfod weithiau i ſwpper yr Arglwydd, i gadw coffa<g ref="char:EOLhyphen"/>dwriaeth am ei farwolaeth a'i ddioddefaint ef: Yna attolwg yſtyriwch eich bôd drwy dderbyn y Sacrament Sanctaidd hwn, yn cyhoedd-adnewyddu eich addunedau o fôd yn Waſnaethwŷr ffyddlon ac yn Ddiſgyblion i Griſt, ac i rodio mewn ufudd-dod diragrith i'w hôll Ddeddfau Sanc<g ref="char:EOLhyphen"/>taidd ef fel yr ydych yn gobeithio cael Iechydwriaeth drwy ei farwolaeth ef. Gan hynny ond da y gallaf i erfyn arnoch gymmeryd pob gofal dyledus ar fyw yn ôl eich addewid hon a'ch rhwymedigaeth. Pa gywilydd ydyw i ŵr fôd yn ffals i'w Air, mwy o lawer i'w Lwf? O na thorrwch gan hynny mo'r llwf a wnaethoch chwi i Dduw ei hun wrth dderbyn y Sacrament Sanctaidd hwn. A gelwch i'ch côf oni ddarfu i chwi weithiau ar eich clâf<g ref="char:EOLhyphen"/>wely neu mewn rhyw berygl dirfawr wneuthur yr un<g ref="char:EOLhyphen"/>rhyw addewid ac adduned: ac oni arbedodd Duw chwi i weled pa fôdd y cyflawnech chwi yr unrhyw? Gochel<g ref="char:EOLhyphen"/>wch gan hynny ddïyſtyru ei drugaredd ef a thorri eich <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ddewid.</p>
+               <p>Ymmhellach, mi a allwn ddangos i chwi pa fôdd y mae eich proffes chwi o gredu y Credo, yn eich rhwymo chwi i fŷw yn ddeddfol, yn ôl y Ffydd Sanctaidd yr ydych yn ei phroffeſſu, <hi>Yr hon ſydd Athrawiaeth yn ôl Duwioldeb.</hi>
+               </p>
+               <p>Ond, yn ddiweddaf, mae hyd yn oed y gweddïau yr ydych yn eu rhoddi i fynn i Dduw yn rhoi yr un rhwymedigaeth arnoch, ſef, i waſnaethu ac i fodloni yr un Duw hwn yr ydych chwi yn ei Addoli. I roi eſampl ar fyrr yngweddi 'r Arglwydd, Tra 'r ŷm ni yn galw Duw <hi>Ein Tâd,</hi> &amp;c. Oni ddylem ni ei garu a'i a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rhydeddu ef, ufuddhau ac ymddaroſtwng iddo megis ein Tad Nefol? Tra y gweddïwn ni <hi>Sancteiddio ei Enw ef, dyfod
+<pb n="17" facs="tcp:174199:9"/>
+o'i Deyrnas, a gwneuthur ei ewyllys ar y ddaiar megis yn y nefoedd,</hi> Oni ddylem ni ein hunain anrhydeddu ei enw ef, a derchafu ei Deyrnas ef, gan ufuddhâu i'w ddeddfau, a chan wneuthur ei Ewyllys ef yn ddïanwadal ac yn gyſſurus fel y gwna 'r Angylion yn y nefoedd, hyd at ei<g ref="char:EOLhyphen"/>thaf ein gallu? Gweddïo am <hi>ein bara beunyddiol</hi> ſydd yn dy<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gu i ni ein pwys a'n hyder ar Dduw, ac yn ein rhwymo i'w waſnaethu ef gan ba un i'n cynhelir. Pan weddion ar Dduw <hi>ar faddeu i ni ein dyledion fel y maddeuwn i eraill,</hi> mae hynny yn ein rhwymo ni yn gaeth i faddeu i'r ſawl a wnêl ar fai i'n herbyn, fel y mae gennym obaith cael fŷth dru<g ref="char:EOLhyphen"/>garedd gan Dduw. A Phan weddîom <hi>na'n harweinier i brofedigaeth eithr ein gwared ni rhag drwg,</hi> hyn a ddylai ein ffrwyno ni rhag rhedeg i brofedigaeth, a'n gwneuthur ni yn ofalus i ochel pob pechod a'i achoſion ef. I'r an perwyl mi a allwn hefyd grybwyll am Weddiau yr Eglwys i'r hon'r ŵyf yn gobeithio fôd eich cynniweirfu yn aml. Yno yr ydych yn dechreu a Chyffes o'ch pechodau, ai ni ddylech chwi hefyd ymwrthod a hwynt yn gyſtadl a'u cyffeſſu? Ac yn niwedd y Gyffes yr ydych yn gweddio <hi>ar dduw er mwyn Chriſt fyw o honoch rhag llaw mewn duwiol, union a ſobr fuchedd.</hi> Ac agos ym mhôb gweddi chwi a gewch ryw beth i'r effaith hyn. Yn awr yr wy'n gobei<g ref="char:EOLhyphen"/>thio eich bôd chwi mewn difrif calon yn eich gweddiau hyn, onid ô gwatwar Duw a dal gŵg iddo yr ydych, yn lle ei addoli a'i fodloni ef. Ond os ydych chwi o'ch ca<g ref="char:EOLhyphen"/>lonnau yn deiſyfu y pethau hyn yr ydych chwi yn gweddi<g ref="char:EOLhyphen"/>o am danynt, yna chwi a wnewch eich rhan i'w mwyn<g ref="char:EOLhyphen"/>hau hwynt, a chwi a wnewch eich goreu yn ddiwŷd ar fyw yn y cyfryw fodd Sanctaidd a daionus ag yr ydych yn gweddio ar i chwi wneuthur. Ac os 'chwanegwch chwi fel hyn ddiwydrwydd at eich Gweddiau, ni bydd arnoch fŷth eiſiau Grâs Duw i'ch cynnorth<g ref="char:EOLhyphen"/>wyo.</p>
+               <p n="5">(5.) Yſtyriwch hefyd mor gyfiawn ac uniawn yw holl orchmynion Duw, y cyfryw na all ein Rheſwm ni ein hunain amgen na chydſynio a hwynt, megis yn fwyaf cyttunol a nyni fel yr ydym ni yn Greaduriaid Rheſym<g ref="char:EOLhyphen"/>mol. I roi eſampl yn y pennaf o honynt; ond tra
+<pb n="18" facs="tcp:174199:10"/>
+chyfiawn ac addas yw y carem ni Dduw uwchlaw pôb peth, yr hwn yw'r gorau a'r perffeithiaf o'r holl Hanfodau, ac oddïwrth ba ûn yr ydym ni 'n derbyn ein holl bethau daionus? Oni ddylem ni weddïo arno ef yr hwn yn unig a ddichon ein gwrando a'n cynnorthwyo ni; a rhoi diolch a moliant iddo ef yr hwn yw Tâd y trugareddau? Onid ydyw yn dra rheſymmol i Blant ufuddhau i'w Rhieni, a Deiliaid i'w Rheolwŷr? a bôd i bôb dŷn fyw mewn heddwch a chariad a'u gilydd, a dywedyd gwirionedd, a gwneuthu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> goneſtrwydd fel y mynnent wneuthur a nhwythau? Onid yw 'n drachymmwys a gweddaidd i bob dŷn fwytta ac yfed yn gymhedrol, fel y mae 'n orau e<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> mŵyn ei iechyd? Bôd yn ardymherus ac yn ddiwair yn ei holl Ymarweddiad? Oni chydnebydd Rheſwm poh dŷn uniondeb ac addaſrwydd y Deddfau hyn a'r cyffelyb? Ac am rai fydd yn ymddangos â mwy toſtrwydd yn<g ref="char:EOLhyphen"/>ddynt, fe ellir rhoi rheſwm da iawn am y rhei'ni hefyd. Gan hynny y mae yn eglur, fôd holl orchymmynion Duw yn gynghorion doethion ac iachuſol Tâd tra-thyner, yr hwn nid yw yn gwahardd i'w Blant ddim ond ſydd er daioni iddynt eu hunain, ſef <hi>gwneuthur barn, a hoffi trugaredd, ac ymostwng i rodio gyda eu Duw.</hi> Mic. 6.8. <hi>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Chriſt ſydd efmwyth, a'i faich ſydd yſgafn.</hi> Mat. 11.30. Gw<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſanaeth Duw yw'r gwir fraint, fel yr ydym ni beu<g ref="char:EOLhyphen"/>nydd yn ei alw yn ein Gweddiau, A'i <hi>orchymmynion of nid ydynt drymmion,</hi> 1 Ioan 5.3. Oni byddwn ni gan hynny mor oſtyngedig i'n Tâd nefol, ïe mor ſynhwyrol er ein daioni <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>in hunain ag ufuddhau i'r Deddfau tra-rheſymmo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a graſuſol a roddes efe i ni? Mor gyfiawn ac uniawn ydynt, na allwn ni dorri mo 'nynt heb gynnyg math ar gam i ni ein hunain, gan fyned yn groes i reſwm ein meddyliau.<hi>Gol<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uni ydynt i'r llygaid, a gorfôledd i'r galon, melyſach i wr <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> na'r mel, ac na diferiad diliau mol,</hi> megis y mae y Pſalm<g ref="char:EOLhyphen"/>ydd yn fynych yn adrodd. Mor gyfaddas yw gorchym<g ref="char:EOLhyphen"/>mynion Duw i'n natturiaethau ni, ac mor ddefnyddiol ac iachus i'n Heneidiau ni ag ydyw'r lluniaeth iachaf i'n Cyrph. Ac mae yn gymmaint doethineb i ddŷn hwylio ei ymddygiad a'i ymarweddlad oll yn ôl deddfau Duw, ag ydyw iddo of fyned mewn gwiſg weddaidd, a bwytta ac yfed yr hyn a fo da er ymborth iddo. Ond ar y llaw arall ped fae un yn rhedeg yn noeth o amgylch yr heolydd, ac
+<pb n="19" facs="tcp:174199:10"/>
+yn llenwi ei enau o dom a budreddi, a phe torrai efe ac y dragiai ei gnawd ei hûn, ni fyddai hynny ddim yn arwydd mwy o ynfydrwydd a gwallgof, nag a fyddai iddo ef fyw yn ôl ei drachwantau ei hunan, yn hyttrach nag yn ôl deddfau Duw, y rhai ſydd mor gyttunol a'n Rheſwm ni, ac mor eglur yn cŷd-arwain at ein gwir les<g ref="char:EOLhyphen"/>hâd a'r elw pennaf i ni ein hunain, yn y bywyd hwn, a'r hwn ſydd i ddyfod, fel yr ymddengys wrth yr hyn ſy'n <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>anlyn.</p>
+               <p n="6">(6.) Yſtyriwch gan hynny yn y lle neſaf, mai gwirionedd tra-ſiccr ydyw, <hi>Fôd arwain buchedd dda ſancteiddiol ymmbob moddion er tramawr fudd a chyſſur i ddyn ei hunan, ie yn y bud preſennol hwn. Duwioldeb ſydd fuddiol</hi> i <hi>bob peth.</hi> Mae'n peri llonyddwch i'n Meddyliau, iechyd i'n Cyrph, yn 'chwanegu ein cyfoeth, ac yn dwyn i ni fawr barch a chymmeriad, mawr gariad ac ewyllys da ym myſg ein Cymmydogion. Iê mae 'n gyffredinol yn dwyn gydag ê bob mâth ar Fendithion, ac yn gwneuthur eu mwyniant hwynt yn felyſach ac yn hyfryda<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h, ac mae yn cadw ymmaith lawer iawn o helbul yr hyn y mae rhai drygionus yn eu tynnu arnynt eu hunain, ac yn rhoddi i ni gynnorthwy mawr ac eſmwythder dan y blinderau hynny y rhai a all Rhagluniaeth Duw eu goſod arnom. Yn gymmaint ag na ddichon ûn dŷn o ba râdd neu gyflwr bynnag, arwain gwîr gyſſurus fywyd, oni bydd iddo arwain Buchedd Sanctaidd a daionus. A hyn oll a fynych-ddyſgir yn yr Yſgrythyr, ac a ellir yn hawdd ei egluro drwy Reſwm golau: Neu oni bydd hynny yn ddigon, mae yn dra eglur i'w ddirnad drwy brawf bounyddiol; fôd i'r rhai a wîr ofnant Dduw; fwy he<g ref="char:EOLhyphen"/>ddwch a diddanwch yn y bŷd hwn, nag i ddrwg fucheddwŷr afreolus, y rhai ni wnant Gydwybod o'u ffyrdd.</p>
+               <p>Pe gwnawn i y gyffely biaeth yn unig rhwng Gŵr ſobr a Meddwŷn, pa ûn dybygech chwi ſy'n cael y gorau yn y Bywyd hwn? Pa ſawl gwaith y mae'r Yfwŷr mawrion nid yn unig yn difrodi eu Meddiannau, ond yn diniſtrio eu Hicehyd, yn gwanhâu eu Hymmenyddiau, ac yn byrhâu eu Heinioes? Pa nifer o weithiau y maent yn
+<pb n="20" facs="tcp:174199:11"/>
+cwympo mewn cynhennau, yn cael yſigtod ac archollion, ac weithiau marwolaeth ei hunan, naill ai drwy ymladd neu drwy ryw ddigwyddiad greſynol neu ei gilydd. Weithiau hyd yn oed y plant yn yr heolydd a redant ai eu hôl hwynt, gan floeddio a gwneuthur gwatworgerdd o honynt. Ac os dilynwch chwi hwynt i'w Trigfannau eu hunain, pa fâth gythryfwl a mowrddrwg y maent yn ei wneuthur yno? Pa dyngu a rhegu, pa fonllefain ac ymleflef, pa fâth gynhennu ac ymladd ſydd yno? Pa fath ddolefain a galarnadau y mae Gwraig a phlant yn eu gwneuthor? y rhai y prŷd hyn ond odid ſydd dda gan<g ref="char:EOLhyphen"/>ddynt ddïange ymmaith o ofal am eu heinioes, fel yr oeddynt o'r blaen yn eiſtedd gan newynu am yr arian a ddifrododd yr Hwſmyn drwg hyn yn y dafarn. (Pechod a chywilydd ydyw i'r rhai a'u croeſawant.) Ac wedi iddynt fyw ennyd yn ôl yr helynt wŷllt ddrygionus hon, y newŷdd neſſa<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> yn g<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ffredinol ydyw, eu bôd naill ai am Ddylêd ai Afreol wedi eu bwrw i Garchar, ac weithiau gan y Bobl hynny yn Nhai pa rai yr yfaſant hwy ymaith yr hyn oll a ennillaſant. Ac yn awr y cymmhellir hwynt gan angenhoctid i fyw ar fara a dwfr, ac i oedi allan fy<g ref="char:EOLhyphen"/>wyd greſynol newynllyd, mewn ceudwll oeredd drewllyd, nes naill ai i gariad Cyfneſyfiaid, neu farwo<g ref="char:EOLhyphen"/>laeth ei hûn eu rhyddhau oddïyno. (Ac ar y ffordd, a ydyw hon yn gyfryw fuchedd hyfryd ag y tâl hi fôd yn ddamnedig o'i herwŷdd i boenau Uffern yn dragwyddol? Ond mi a adawaf hyn tan yn y man.)</p>
+               <p>Fel hyn hefyd y gallwn i adrodd am reſynol ffrwythau Putteindra, yr hwn yn gyffredin a ddilynir <hi>â</hi> thlodi ac â gwradwydd, ac yn fynych iawn a ffïeiddglwyf aflan, yr hwn a wna i ddynion bydru uwch daiar. Ac fel hyn pobl digllon be<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lchion maleiſus, ymddïalgar, ydynt yn boen waſtadol iddynt eu hunain ac i bawb o'u hamgylch ac nid oes na heddwch na llonyddwch ond yn anaml rhyngddynt a'u Cymmydogion nac a'u Teuluoedd eu hunain. Y cyffelyb a ellir ei ddangos am bôb beiau eraill y rhai ydynt gynnefin yn oeſtad o ddŵyn eu coſpedig aeth eu hunain gyda hwy<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, heb ſôn dim am yr hyn y mae neu a ddylai y Swyddog ei wneuthur iddynt. Yn enwedig y cyfryw
+<pb n="21" facs="tcp:174199:11"/>
+ddrwg. weithredwŷr a Lladron a Lleiddiaid, Teyrnfrad<g ref="char:EOLhyphen"/>wŷr a Gwrthryfelwŷr, ydynt yn anfynych yn dïangc o ddwylo Cyfiawnder cyhoeddus. <hi>Ond pwy a wna niwaid i ddynion os dilynant hwy yr hyn ſydd ddae?</hi> Neu pa ddïaledd y mae dŷn yn ei ddŵyn arno ei hûn wrth fyw 'n ſobr ac yn ddiwair, wrth ofni Duw ac anrhydeddu'r Brenin; Pa ddrwg a ddaw i ddŷn o ddilyn ei negeſeuau ei hûn, ac o fyw yn llonydd ac yn dangnheddyfus ymmyſg ei Gymmy<g ref="char:EOLhyphen"/>dogion? yn hytrach onid ellwch chwi weled mor ddedwyddol y mae rhai, ïe y ſalaf o honom yn byw, y rhai ydynt ddïwyd yn eu Galwedigaethau, a ſobr ac ardymherus, ac yn ofalus am fodloni Duw, ac am gadw Cydwybod dda yn eu holl ffyrdd. Anfynych iawn y cyfyngir arnynt gan fawr angen, neu pe cwympent yn iſel eu cyflwr, etto pob Dyn da a'u hadwaen, ſydd barod i doſturio ac i roddi ymwared iddynt: ac yn fynych a'u coelia am arian neu eu gwerch hyd onid allont dalu. A phawb ſydd ewyllyſgar i roi Gŵr goneſt gofalus ar waith, fel na bo arno ond yn anfynych eiſiau Gwaith neu Farſi<g ref="char:EOLhyphen"/>andïaeth. Ond Dynion ſegur, anllywodraethus, a ddily<g ref="char:EOLhyphen"/>nant feddwdod a phutteindra, chwaryddiaeth, a thŵyll, a lledrad; a eſgeuluſant waſanaeth Duw, ac a halogant ddydd yr Arglwydd, gan fôd yn fynych yn y Dafarn pan ddylent fôd yn yr Eglwys; y rhai'n yw'r Bobl, os deliwch chwi ſulw, a gwympant yn gyffredin i'r eiſiau a'r trueni gwaelaf; ac eraill ni thoſturiant ond ychydig wrthynt, o herwŷdd dwyn o honynt hyn oll arnynt eu hunain. O mor ddedwŷdd y gallai bôb mâth ar ddynnion fôd, ïe mewn meſur mawr iawn yn breſennol, pe deuent hwy i fôd yn wîr grefyddol ac yn dda. Eu pechod a'u hynfyd<g ref="char:EOLhyphen"/>rwydd eu hunain, eu trachwantau a'u gwyniau yw'r achoſion o'r rhan fwyaf o'r trafferthion a'r trueni y maent hwy yn cyfarfod a hwynt; er y gwn i'u dda eu bôd hŵy'n arfer o lefain allan fôd eu tynghedfen yn galed, ac o fwrw y bai ar eraill, ac weithiau o rwgnach yn erbyn Duw ei hun. Ond nid ydynt hwy yn yſtyried fel y maent beunydd yn annog Duw i ddigofaint drwy eu hechryſlon bechodau, ac a allant gan hynny fôd yn wîr deimladwy o'i farnedigaethau trymmion ef am yr unrhyw, heb law yr holl fowrddrwg ſydd yn anocheladwy yn gorddiwes dry<g ref="char:EOLhyphen"/>gioni.
+<pb n="22" facs="tcp:174199:12"/>
+A hyn ſydd yn gwneuthur eu cyflwr hwynt yn wir-reſynol, eu bôd hwynt yn ogwyddedig yn waſtadol i ddigofaint Duw, ac allant yn gyfiawn ddiſgwil ei ddialedd ef i gwympo arnynt, ac i'w noethi hwynt o'i holl gyſſur, a'u taflu i'r dinyſtr blînaf.</p>
+               <p>Ond yn y gwrthwyneb, yn hyn uwchlaw'r cwbl y mae dîogelwch a chyſſur gŵr da yn gynnwyſedig, ei fôd ef yn mwynhâu bendith a ffafr yr Holl-alluog Dduw, ac am hynny mae iddo ſiccrwydd na bydd arno eiſiau dim ſydd wîr-dda ar ei fês ef. Felly mae 'r addewid, Pſal. 84.11, 12. Mat. 6.33. <hi>Y rhai yn gyntaf a geiſiant deyrnas Dduw, a'i gyfiawnder ef, a gânt bôb cyfreidiau yn ychwaneg.</hi> Fel na ddichon gŵr tlawd gymmeryd un ffordd ſiccrach, i ddar<g ref="char:EOLhyphen"/>paru iddo ei hûn ac i'w Deulu, na dyfod i fôd yn wir grefyddol; fe allai na chaiff efe bethau mowrion yn y Byd, etto fe a gaiff ymborth cyfaddas. Ac yna, yr hyn ſydd well na'r cwbl ôll, ef a gaiff fendith Duw gyda'r hyn y mae efe yn ei fwynhâu? a hyn a ddyry iddo ef fwy o wîr fodlondeb a chyſſur yn yr ychydig ſydd ganddo, nag a ddichon Gwr drygionus ei gael yn ei holl Dryſorau mowrion. Duwioldeb gyda bodlonrwydd ydyw 'r elw mwyaf, Pſal 37.16. 1 Tim. 6.6. Gŵr tlawd ac ſydd gantho ond dymuniad <hi>Jacob,</hi> Lluniaeth i'w fwytta, a Gwîſg i'w roi am dan<g ref="char:punc">▪</g> Os oes gantho hefyd Dduwioldeb <hi>Jacob,</hi> ac ydyw yn cymmeryd yr Arglwydd yn Dduw iddo, ac yn byw yn ei ofn ef a'i waſanaeth, ac yn mwyn<g ref="char:EOLhyphen"/>hâu teimledigaeth o'i ffafr ef, o mor fendigedig ydyw helynt y gŵr hwn! mor gyſſurus y gall efe fyw bob amſer, er ei fôd mewn tlodi! Beth er bod ei Drigfa yn wael, ei Ymborth yn o arw ac yn galed, a'i Wîſg yn ddiſyml iawn; etto tra y caro efe Dduw yn ddi-ragrith, ac yr addolo efe ef beunydd yn ddefoſionol, efe a all droi ei gaban tlawd yn Balas ïe yn Deml; a'r Duw bendigedig a ymwel ag ef a'i breſennoldeb, a gymmer yn gymeradwy ei waſanaeth ef, ac a'i llonna ef a llewŷrch ei wynebpryd. Ac ar y gwybodaeth a'r mwynhâd hwn o Dduw, y mae gwîr gyſſur bywyd dŷn yn pwyſo, beth bynnag a fo ei gyflwr ef oddîallan. Hyn yn unig ſydd yn rhoddi hedd<g ref="char:EOLhyphen"/>wch a bodlonrwydd i'w feddwl ef oddimewn, ac yn
+<pb n="23" facs="tcp:174199:12"/>
+pereiddio ei holl drugareddau, ac uwchlaw pôb peth yn cynnal i fynu ei galon dan y blinderau y cyferfydd ef a hwynt. Canys mae 'n rhaid i'r gorau o ddynlon diſgwil eu rhan o'r gorthrymderau oddïallan yn y Byd hwn, megis clefyd a dolur, colled am Gyfeillion ac am dda bydol, a'r cyfryw, y rhai'n ydyw y gofidiau cyffred<g ref="char:EOLhyphen"/>in i bawb. Ond ymma y mae y gwr da yn eglur yn rhagori, gan ei fôd yn edyrch ar bôb peth a ddigwydd iddo ef megis yn dyfod oddiwrth ddwylo Duw tra doeth a graſuſol, yr hwn a ŵyr beth ſydd orau iddo ef, ac i ewyllys pa un y mae efe yn rhwydd yn ei roddi ei hunan i fynu, a'i holl negeſeuau, gan ddywedyd gyda'i Feiſtr bendigedig. <hi>Nid fel yr ydwyfi yn ewyllyſio, ond fel yr ydwyt ti.</hi> Ië, mae efe yn derbyn blinderau megis wedi eu danfon mewn addfwynder, i'w geryddu ef am ei feiau, i ymarfer ac i ychwanegu ei Raſau, ac felly i'w barodtoi ef i Ogoniant. A dymma fawr elw Crefydd, ei bôd yn dyſgu i Ddŷn i ba le i fyned am gyſſur ac ymwared yn ei holl ing a'i gyfyngder, ſef at y Duw mawr daionus, yr hwn ſydd alluoccaf a pharottaf i gynnorthwyo ei Bobl yn holl amſer eu trallod. Hyn yr ydym ni yn oeſtad yn ei ddarllain yn yr Yſgrythyr oedd arfer Gwŷr Sanctaidd, a hwy a ddeallaſant nad ofer ydoedd. Ac hyd y dydd hwn y caiff hôll weiſion ffyddlon Duw ddyfod o hŷd i'r ffrwythau daionus o roi eu gogwydd yn ddefoſionol fel hyn at Dduw drwy weddi. <hi>Canys mae ei olwg ef bôb amſer ar y rhai cyfiawn, a'i gluſt yn agored i'w llefain hwynt.</hi> Mae efe yn toſturio wrthynt, yn eu cyſſuro ac yn eu cynnal hwynt. Ni eſyd ef ddim ychwaneg arnynt nag y rhoddo efe allu iddynt i'w ddŵyn; ac yn ei amſer da, efe a gyflawna eu deffygion, ac a'i gwared hwynt o'u gorthrymderau, ïe, efe a'u trŷ hwynt yn fendithion, ac a wnai <hi>bôb peth gyd-weithio er daioni iddynt,</hi> fel yr addawodd efe i'r rhai <hi>a'i carant ef,</hi> Rhuf. 8.28. O pa fâth dded<g ref="char:EOLhyphen"/>wyddwch ydyw bôd yn gydnabyddus a Duw, a bôd gennym wîr deimledigaeth o'i Ragluniaeth ef, fel felly y bô i ni fŷw arni a gwneuthur y goreu o honi, <hi>Job.</hi> 22.21.</p>
+               <p>Ond mor reſynol yw cyflwr y drygionus, yr hwn nid
+<pb n="24" facs="tcp:174199:13"/>
+oes ganddo ddim o'r cyfryw wybodaeth o Dduw, dim cariad iddo, na dim diſgwiliad am gymmorth ac ymwared oddiwrtho. Y mae efe yn ei hawddfyd mwyaf yn ŵr annedwŷdd iawn, tra bô efe byw heb Dduw yn y bŷd; ond yna y deall efe ac y bydd ei hun yn deimladwy o hynny yn ddi-ai, gan gwympo ef i ryw adfyd tramawr; ac nis gŵyr pa ffordd y trŷ efe am gyſſur ac ymwared. Canys fel y mae drygioni yn oeſtad yn dŵyn dŷn i drueni (megis y dangoſais i o'r blaen) felly yno y mae yn ei ado ef mewn cyflwr tra-gofidus ac anobeithiol. A thymmer ddrwg eu meddyliau ſydd yn'chwanegu pŵys llwythog at eu gofidiau, ac yn mwyhau yn dra-boenedig eu gerwindeb hwynt. Synnied eu heuogrwydd eu hunain ſydd wei<g ref="char:EOLhyphen"/>thiau yn arteithio en Cydwybodau hwynt: ac yn eu llenwi ag ofn a dychryn: weithiau maent yn ffrommi ac yn ymddigio wrth y rhai a roeſant gymmorth tuag-at ddwyn ymlaen eu dioddefiadau, ac weithiau y maent ïe yn cablu Duw ei hûn, ac yn grwgnach yn erbyn ei rag<g ref="char:EOLhyphen"/>luniaeth ef. Y pryd y bo'r gwr da gyda <hi>Job</hi> yn bendithio Duw yn ei holl orthrymderau, mae y rhai'n yn barod i ganlyn cyngor ei wraig ef, ſef i felldithio Duw a marw. Canys gan eu bôd yn llawn o gyfyngder ac anobaith, maent ymron amhwyllo ac yn flîn ganddynt eu heinioes, fel yr ydym ni yn darllain am <hi>Gain,</hi> a <hi>Judas,</hi> a'r cyfryw yn yr Yſgrythyr ac mewn Hiſtorïâu eraill. O'm rhan i 'rwy'n tybied mewn gwirionedd, yn neſaf at y Cythreuliaid a'r rhei'ni ſydd yn Uffern, nad oes Greaduriaid yn y bŷd druanach na phobl annuwiol drygionus; a thra y gwelom ni beth yw ffrwyth cyffredin pechod ymma ar y Ddaiar, hawdd y gellir ein gorfod ei fôd yn arwain i Uffern a Damnedigaeth yn ôl hyn. A hyn ôll y mae dynion yn wall-gofus ac yn unchwant yn rhedeg iddo drwy en drwg weithredoedd eu hunain; megis y mae dŷn a wthio ei ddwylo i'r tân, yn debyg i gael dolur a lloſgfa. <hi>Drwy ymwrthod a Duw, maent yn gwrthod trugareddau iddynt eu hunain, a thrwy bechu yn ei erbyn, maent yn gwneuthur cam a'u Heneidiau,</hi> ïe, a'u Cyrph hefyd, ac a'u Perthynas oll. Fel hyn y gwelwch chwi fôd Bywyd ſanctaidd yn dra<g ref="char:EOLhyphen"/>buddiol i ni ïe yn y Byd preſennol hwn, yn lluddias llawer o ddrwg, ac yn dŵyn gydag ê bôb mâth ar ddaioni. Neu
+<pb n="25" facs="tcp:174199:13"/>
+os ſyrth dŷn i'r cyfryw amſeroedd blinion, a dioddef o honaw yn unig o achos Crefydd a Chydwybod dda, y prŷd hynny y caiff efe yn gyffredinol y cyfryw ryfeddol gyſſur a bodlondeb meddwl, ag y caiff efe fuddugoliaeth a gorfoledd yng-nghanol ei ddioddefiadau, fel y gwydd<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m gael o'r Apoſtolion a'r prif-Griſtnogion, a hynny yn enwedig mewn gobaith o'r Gobrwy gogoneddus a rodd<g ref="char:EOLhyphen"/>wyd i gadw i Wŷr da yn y Nefoedd. Ond hynny a'm dŵg i at yr Yſtyriaeth ddiwaethaf y crybwyllaf fi am dani.</p>
+               <p n="7">(7.) Sef, <hi>Mai Bywyd Sanctaidd drwy oludog drugaredd Dduw, a'n gwna ni yn berffaith ac yn dragwyddol-fendigedig yn y Byd a ddaw, ond helynt Buchedd ddrwg a arwain i dragywyddol drueni a phoenedigaeth.</hi> Yn ôl fel y bôm ni byw yn y Bŷd hwn, felly y mae yn rhaid i ni gael yn ŷ neſſaf: canys y Bywŷd hwn ſydd fuchedd o Brawf mewn trefn i Dragwyddoldeb. Iê ym Marwolaeth y mae gan Wr da ſail o gyſſur mawr, gan fôd gantho dyſtiolaeth Cydwybod dda, a ſynied o gariad Duw, yn yr hyn y gall efe gyda ſanct <hi>Stephan,</hi> orchymmyn ei Enaid i ddwylo 'r Arglwydd Ieſu, yr hwn ſydd barod i'w dderbyn ef. Ond pa mor reſynol ydyw i'r Gŵr drygionus, pan fyddo heb law holl ddoluriau ei Gorph, ei Feddwl hefyd yn cael ei benydio a choffadwriaeth o'i bechodau, ac âg ofnedigaeth digofaint Duw. Ond y rhagoriaeth mawr a wn eir yn nŷdd y Farn, pan <hi>oſoder y defaid a'r ddeheulaw Chriſt, a'r geifr ar yr aſſwy,</hi> fel y cewch chwi wedi ei egluro Mat. 25.31. <hi>&amp;c.</hi> I'r rhai ar y llaw ddeha<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, hynny ydyw i'r rhai Duwiol a da, yr adroddir y farn orfoleddus honno, <hi>Dunwch chwi fendigedig blant fy Nhad, etifeddwch y Deyrnas a barottowyd i chwi er pan ſeiliwyd y Byd.</hi> Ac yno y cânt hwy fyned i'r Deyrnas dra-ogoneddus honno, lle ni chaiff na phechod na thriſtwch fŷth aflonyddu mo'nynt mŵy, lle ni chânt hwy fŷth nac ofn na theim<g ref="char:EOLhyphen"/>ledigaeth o fâth yn y bŷd ar ddrygion i na phoendod i'r Enajd na'r Corph: ond hwy a gânt eu derbyn yn ddïattreg i breſennoldeb Duw, lle mae cyflownder o orfoledd bŷth. Hwy a gânt y cyfryw eglur wybodaeth o'r bŷth-fendigedig Dduw, a'r cyfryw fywiol ſynnied o'i
+<pb n="26" facs="tcp:174199:14"/>
+annherfynol Berfeithrwydd ag a'u lleinw hwynt <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Ryfeddod, Cariad a Mawl: a hwy a gant deimledigaeth'o gariad Duw a'u Hiachawdwr wedi ei dywallt mor helaeth arnynt, y cyfryw ag a dderchafa eu Calonnau, hyd yr uchder eithaf o lawenydd a dïolchgarwch, a'u geneuau a lenwir o Halelniahau a Chaniadau Mawl, ac yn y Gorchwyl tra hyfryd hwn y cânt hwy bŷth bythoedd fôd yn gyfrannog a'r gymmanfa fendigedig yn y Nef. Dyna berffeithrwydd y cwbl ôll, ſef na bŷdd i orfoledd y Nefoedd fŷth ddiben. Mae <hi>yn odidog-ragorol yn gweith<g ref="char:EOLhyphen"/>redu tragwyddol bwys Gogoniant i ni,</hi> yn ôl yr addewid 2 Cor. 4.17, 18. <hi>Ni a gawn fôd gyda 'r Arglwydd yn oeſtadol.</hi> 1 Theſ. 4.17. Y Duw tragwyddol a fydd y Rhan a gaiff ei Bobl ef; a'u gorfoledd ynddo ef ni leiheir ac ni tholir drwy bob tragwyddoldeb. Hwy a fyddant yn oeſtadol yn ei fendigo a'i foli ef, yn oeſtadol wedi cael eu bo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>loni a'u digrifo wrth edrych ar ei Ogoniant ac a mwynhâd eí gariad; yn oeſtadol wedi eu difyrru â thra-hyfryd a chyttûnol gymdeithas Angylion a Seintiau: A cheraint anwŷl a chyfeillion ni wahenir byth mwy oddïwrth eu gilydd, pan gyfarfyddant unwaith yn y Nef. Nid oes gan Farwolaeth ddim gallu arnynt mwy. Maent wedi dyfod mewn rhyw feſur megis Chriſt ei hûn, ac yno cânt hwy ei weled ef megis ag y mae yn ei holl ogoniant, <hi>Phil.</hi> 3.21. 1 <hi>Ioa</hi> 3.2.</p>
+               <p>Ond pa beth yw cael ein gwneuthur yn debyg i Griſt, gweled Duw a'i fwynhâu, nid allwn ni vn gyflawn na'i adrodd na'i ddîrnad tra y bôm ni ymma yn y Corph: eu lleihau a'u hammherchu yn ddirfawr, a fyddai i ni gyfflybu gogoniantau y Nefoedd i hôll olud ac anrhydedd Llyſoedd a Phalaſau ymma ar y Ddaiar. Y gogoniant a'r gorfoledd nefol hynny ſydd cymmaint ag nad ellir fyth mo'u heglur adnabod nes eu bod wedi eu mwynhâu: fel na ddichon Gwr dall fyth <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dywedyd yn iawn beth yw goleuni, hyd oni bô ei Lygaid yn agored i'w ddirnad. Mae'n ddigon i ni fôd gennym ſiccrwydd cyflawn gan addewidion yr Efengyl, fôd y cyfryw fywyd o anrhaethol ddedwyddwch wedi ei ddarparu i Ddynion da yn y Byd a ddaw. Ac fel yr aeth yr Arglwydd Ieſu o'r blaen i'w
+<pb n="27" facs="tcp:174199:14"/>
+barodtoi iddynt, felly yn awr y mae efe drwy ei Yſpryd ſanctaidd yn eu parodtoi hwynt i'r lle bendigedig hwnnw, drwy weithio ynddynt y grâs ſydd yn eu cymhwyſo hwynt i ogoniant, yr hwn yw ei wîr flaen-ffrwyth a'i ddechreuad yn eu Heneidiau hwynt. Gwîr ſancteidd<g ref="char:EOLhyphen"/>rwydd yw'r gwŷſtl ſiccraf o ddedwyddwch tragwyddol, ac ſydd yn ein gwneuthur ni yn addas iddo, <hi>Eph.</hi> 1.13, 14. <hi>Col.</hi> 1.12.</p>
+               <p>Gan hynny oblegid bôd y cyfryw orfoledd, o annher<g ref="char:EOLhyphen"/>fynol fawredd, mor ſiccr ac mor ddïogel, oni adawwn ni gyd ein cynghori i ymegnïo i'w geiſio ef, drwy rodio yn y ffyrdd ſanctaidd ſydd yn arwain atto? Siccr ydyw y gwneir felly, os oes gennym ddim crediniaeth yng-ngair Duw, ddim cyfrif o'n lles ein hunain. Ai rhaid i'n Heneidiau ni fyw tros byth mewn Byd arall, ac oni ymegnïwn ni hyd eithaf ein gallu a'n diwydrwydd i'w gwneu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hur hwynt yn ddedwŷdd tros byth yno? Ond ein Heneidiau ni ein hunain ydynt hwy? Ac onid ydynt hwy gan hynny yn haeddu ein gofal a'n cariad ni? <hi>Os byddwn ni ſynhwyrol</hi> a da, <hi>ond er ein mwyn ein hunain y mae,</hi> er ein dedwyddwch ein hunain? Ac oes un ffordd arall i ni i'n gwneuthur ein hunain yn ddedwŷdd ond drwy ennill cariad Duw a bywyd tragwyddol? Onid ydym ni yn gweled fôd pôb cyſſur bydol yn fyr ac yn anſiccr? maent yn diflannu yn ein dwylo, ac yn darfod wrth eu harferu. Y mae ein Cymmydogion a'n cydnabod yn meirw beunydd o'n hamgylch; llawer o'n Ceraint anwŷl a'n Perthynas a aethant o'n blaen ni yn barod, a ninnau ein hunain ydym yn bryſſur yn eu dilyn hwynt. Yr ydym ni yn union ar derfynau Tragwyddoldeb, yn ogwyddedig i filoedd o glefydau a drwg ddamweiniau y rhai a allant attal ein hanadlau ni yn ddiſymmwth, ac yna fe dderfydd am danom. Gan hynny o herwŷdd nad all fôd gennym ſiccrwydd o'r bywŷd hwn nac o'i feddiannau: O gadewch i ni edrych am ſiccrwydd go<g ref="char:EOLhyphen"/>goniant tragwyddol; yr hyn drwy gynnorthwy. Duw a allwn ni ei wneuthur, hyd yn oed y tlottaf ar y Ddaiar, os daw i fôd yn wir dduwiol ac un dda. Canys nid ydyw Duw dderbyniwr wyneb. Fe fu Chriſt farw yn gyſtal
+<pb n="28" facs="tcp:174199:15"/>
+dros dlodion a chyfoethogion, a'r rhai nid oes ganddynt etifeddiaeth ar y Ddaiar a allant fôd yn Etifeddion Teyr<g ref="char:EOLhyphen"/>nas Nef, os byddant gyfoethogion o ffydd a chariad tuag<g ref="char:EOLhyphen"/>at Dduw, <hi>Iago</hi> 2.5. Ac i'm tŷb i fe ddylai y rhai ſydd yn cael cymmaint o helbul a thriſtwch yn y bywyd hwn, gynhyrfu i ymgais ar ôl golud a gogoniant yn y bywyd a ddaw. Yno y ceiff y <hi>Lazarus</hi> tlottaf fîl o weithiau fŵy o ddifyrrwch a gorfoledd, nag y mae un <hi>Difes</hi> balch, neu y Glythion goludog, a'r Epicuriaid yn ei gael yr awr hon yn eu danteithion blaſus a'u Gwiſgoedd gogoneddus. Ac etto, fe all gwîr obaith o'r gogoniant hwn lenwi meddwl Gŵr daa chymmaint o orfoledd, ag yr anghofia efe ei dlodi, ac ni wnâ gyfrif fôd mo'i ddioddefiadau yn haeddu eu cyfflybu i'r dedwyddwch y mae efe mewn gobaith am dano, ac ni newidiai efe mo'i helynt a'r Tywyſog mwyaf ar y Ddaiar, yr hwn ſydd ddïeithr i'r gobaith hwnnw. Fel hyn yr oedd gyda'r Apoſtolion Sanctaidd a'u dilynwŷr, 2 <hi>Cor.</hi> 6.10. 1 <hi>Pet.</hi> 1.6, 7, 8.</p>
+               <p>Fel hyn y darfu i mi ar fyr adrodd i chwi beth o dded<g ref="char:EOLhyphen"/>wyddwch y duwiol yn y Bŷd a ddaw: Ond ar y llaw arall yſtyriwch beth a fydd rhan y drygionus, yr hwn ſydd yn diyſtyru trugareddau Duw, a chynnygion ac addewid <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on yr Efengyl: y rhai hyn o'r diwedd a gwympant dan ei drwm Ddigofaint ef a'i Ddîaledd, ac yno y bydd rhaid iddynt aros yn dragywŷdd mewn tra-anoddef boenau Eniad a Chorph, a oſodir allan drwy y pethau mwyaf ofnadwy, megis Tân a Brwmſtan, a'r Prŷf ni bydd marw bŷth, yr hwn ſydd yn cnoi ac yn brathu eu calonnau yn dragwyddol. Hwy a deflir i'r tywyllwch eithaf, lle mae wylofain, griddfan, a rhingcian dannedd, heb y llêwyrch llaiâf o obaith neu gyſſur hyd bôb tragwyddoldeb. <hi>Mat</hi> 25.30, 41, 46. <hi>Marc<g ref="char:punc">▪</g>
+                  </hi> 9.43. hyd ddïwedd y bennod; 2 <hi>Theſ.</hi> 1.7, 8, 9. Y rhai'n yw'r Geifr y rhai wedi eu goſod ar y llaw aſſwy ſydd raid iddynt wrando y farn doſturus honno <hi>Ewch oddiwrthif rai melltigedig i'r tan tragwyddol a barod'towyd i Ddiafol ac i'w Angylion.</hi> Barn drom, ac etto yn dra-chyfiawn. Canys hwy <hi>a giliaſont</hi> oddïwrth Dduw, ac a e<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ceuluſſaſont ei waſanaeth ef yma ar y ddaiar, ac am hynny rhaid iddynt yn awr <hi>giſio</hi> o'i breſenoldeb ef,
+<pb n="29" facs="tcp:174199:15"/>
+ym mha ûn ni ddichon eu meddyliau llygredig hwynt gymmeryd dim difyrrwch. Hwy a wnaethont fwy cyfrif o'r Dafarn nag o Dŷ Dduw; ac a gymmeroſant fwy difyrrwch yn Gwledda ac yn Yfed, yn Rhuo ac yn Glodd<g ref="char:EOLhyphen"/>eſt ym myſg eu Cyfeillion drygionus, nag yn addoli Duw yng-hymmunded y Saint; ni chargſont hwy na gweddïau na moliant yng Nghymanfeydd ei Bobl, ac nid oedd dim meddwl ganddynt ar ddyfod i Fwrdd yr Arglwydd, er ei mynych wahodd atto; ac am hynny rhaid ydyw yn awr eu cau hwynt allan o'r fâth gynlleidfa Sanctaidd, ac oddi<g ref="char:EOLhyphen"/>wrth y fâth oruchel a nefol orchwylion, i'r rhai y maent yn hollawl yn anghymmwys. Yr oedd llawer o honynt yn ymroi 'n fawr i <hi>felldithio,</hi> ac yn awr y daeth melldith arnynt: Y <hi>Felldith Dduw</hi> yr hon yn eu creulondeb a ddymunaſont hwy yn fynych i'w Cymmydog, a ſyrthiodd yn awr arnynt en hunain. Heb law hyn, oni ddarfu i lawer o'r Trueniaid halogedig hyn îe alw am y felldith hon areu pennau eu hunain, yn yr iaith Uffernol hono <hi>Mel<g ref="char:EOLhyphen"/>dith Dduw imi?</hi> Apha ryfeddod os caniatteir eu herfyniad, a'u bôd yn awr wedi eu barnu i'r Ddamnedigaeth yr oeddynt hwy fel hyn yn galw am dani? Gan <hi>Ddiafol</hi> yr arweinwyd ac yr hyfforddwyd hwynt, a chan ei Offer drygionus ef a'u trachwantau anifeiliaidd eu hunain; ac am hynny yn awr mae yn rhaid iddynt gael <hi>diafol a'i Angylion,</hi> a phechaduriaid damnedig fel nhŵy eu hunain i fôd yn gyfeillion iddynt mewn poenau, y rhai ydynt cyn belled oddiwrth doſturio neu gyſſuro y naill y llall, a'u bôd yn hytrrach yn melldithio eu gilydd yn awr yn eu trueni, y rhai o'r blaen oeddynt yn temptio eu gilydd i bechu. Oh ymgyfarfod greſynol? Pan ddêl y Meddwon, y Putteinwŷr a'r Putteiniaid yno ynghŷd i'r ffaglau poethion hynny. Lle bydd ofer llefain am ddefnyn o ddwfr i oeri'r Tafod. Ni cheir mo honaw: eu hôll bethau da a aethant herbio ac a ddarfuant; a choffadwriaeth eu hôll gyfeddach a'u trythyllwch nid yw 'n gwaſnaethu ond i 'chwanegu eu poenau. Ac yr awr hon hefyd hwy a allant gofio fel y darfu i Dduw drachefn a thrachefn alw arnynt, ond ni wrandawent; ni wrendŷ ynteu yn awr gan hynny mo'u llefain hwynt, wedi dyfod ing a chyfyngder arnynt, <hi>Dih.</hi> 1, 24. hyd y diwedd. Ac er iddynt grîo allan yn
+<pb n="30" facs="tcp:174199:16"/>
+erbyn eu cyfeillion a chyhuddo y Cythraul, ac yn eu cynddaredd gablu Duw ei hûn, etto eu Cydwybodau hwynt a ddymchwelant yn y creulondeb mwyaf arnynt eu hunain, y rhai heb yn waetha i'r hôll rybuddiau a gawſont, a ddarfu iddynt drwy eu parhâd gwîrfodd ac anedifeiriol mewn pechod, eu foddi eu hunain yn y trueni hwn, o ba ûn ni chânt hwy fŷth ollyngdod. O ai<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ofnadwy, <hi>Tân tragwyddoll! Poenau tragwyddol!</hi> O fel y mae meddwl am hyn yn ſuddo ac yn torri eu calonnau, ac yn eu llenwi hwynt a'r erchyllrwydd a'r anobaith dyfnaf. <hi>Pwy a all drigo mewn lloſgfeydd tragwyddol? Pwy a all?</hi> Ac etto i'r pechadur damnedig <hi>y mae'n rhaid,</hi> er mai yn y modd gerwinaf ac anoddefgaraf. Wedi iddynt orwedd fîl myrddiwn o flynyddoedd yn y lle poenedig hwnnw, etto nid oes un moment llai i ddyfod, mae tragwyddoldeb cyfan etto yn ôl. Y Prŷf ni fydd <hi>byth</hi> ma<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> y fflam dân ni ddiffodir <hi>byth.</hi> Nid ydyw Duw <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> i'w gyhuddo o doſtrwydd yn hyn ei gŷd, o <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> mai gwaith y pechadur ei hun ydoedd, ffrwyth <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ei hun: Oblegid hwy a wyddaſant y ſoddai pec<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> hwynt i Uffern, ac etto hwy a anturient arno. Ac yn ddi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> mae efe yn eu ſuddo hwynt yno mor nattu<g ref="char:EOLhyphen"/>rio<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ag y ſyrth y garreg ar y ddaiar. Ie ymma yn y bŷd y Balch a'r Cybydd, y Cenfigennus a'r dïalgar, yr halogedig a'r trythyll ydynt yn ennyn peth o gynnyd uffern yn eu Heneidiau eu hunain; a thra bônt yn dŵyn gyda hwynt yr unrhyw dymmer meddwl drygionus, rhaid i hynny etto eu gwneuthur hwynt yn dra-gofidus a thruain mewn Bŷd arall, bŷth cyhŷd ag y bo byw eu Heneidiau hwynt, a'r camweddau hyn yn glynu wrthynt, hynny ydyw, hyd bôb tragwyddoldeb. Na feied yr hwn ſydd yn dwyn tân yn ei fynwes ar Ragluniaeth Duw am wneuthur y tân yn boeth, pan ymdeimlo a'i loſgfa, ond beied ar ei ynfydrwydd a'i afreol ei hûn: Ac felly y mae yn rhaid i bechaduriaid ſydd yn eu barnu eu hunain wneuthur o'u hanfodd.</p>
+               <p>Ac yn awr mynegwch i mi yn rhodd, Oni ddylech chwi gyda phob rheſwm yn y byd edifarhau allan o law am eich pechodau, a'u taflu oddïwrthych drwy eu cash <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u
+<pb n="31" facs="tcp:174199:16"/>
+a'u ffieiddio, ac o hyn allan ymoſſod at yrfa o Sanc<g ref="char:EOLhyphen"/>teiddrwydd difrifol, fel felly y dïangoch o'r holl drueni hwn a fygythir ar y rhai drygionus, ac y byddoch cyfran<g ref="char:EOLhyphen"/>nog o'r gogoniant a addewir i'r duwiol a'rda. Onid ydyw mîl o bunnoedd yn y flwyddyn yn haeddu llafur un dydd? Ac oni wna holl lawenydd y Nef yr hwn a bery byth bythoedd, gyflawn wobrwy am ein diwydrwydd ni yng ngwaſanaeth Duw am fyr amſer y bywŷd hwn? Ac onid ydyw tragwyddol boenau Uffern yn ddigon er attal Dynion oddïwrth fuchedd anllywodraethus a phecha<g ref="char:EOLhyphen"/>durus, er iddo fod yn fuddiol ac yn hyfryd iawn ymma dros ennyd fechan? Ond chwi a glywſoch o'r blaen brofiad helaeth, fôd Buchedd Sanctaidd îe yn y Bŷd preſennol ym mhob modd yn fwyaf bûdd a hyfrydwch i ni. Yn ddïammau gan hynny y mae Gwr da yn cael mwy melyſder a bodlondeb yn y ffordd i'r Nefoedd, nag y mae pechaduriaid yn y ffordd i Uffern. Ein Duw gra<g ref="char:EOLhyphen"/>ſuſol ni ſydd yn trefnu i ni waſanaeth eſmwyth ac a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rhy<g ref="char:EOLhyphen"/>deddus, ac yn rhoi gwobrwyon gogonedd<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Cythra<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l ſydd Feiſtr creulon erchyll, ac y<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> gaethweiſion ar y drygwaith gwaelaf, ac we<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> talu iddynt gyflogau tra greſynol, <hi>Rhuf.</hi> 6.<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Pa un gan hynny a fyddwch chwi ai gwŷr rhy<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Griſt, ynteu caethweiſion i'r Cythraul? Pa un a wnewch chwi, a'i rhodio yn ffyrdd daionus Duw, y rhai a ddy<g ref="char:EOLhyphen"/>gan heddwch a chyſſur ymma ar y Ddaiar, a <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<g ref="char:EOLhyphen"/>gwyddol ogoniant yn y Nefoedd; ai yn llwybrau ceimion pechod, y rhai yn awr a ddygant driſtwch a chwilydd a phoen, ac yn ôl hyn a'ch boddant chwi mewn trueni tra<g ref="char:EOLhyphen"/>gwyddol a phoen yn Uffern? Fel hyn y goſſodwyd o'ch blaen chwi fywyd a marwolaeth, dedwyddwch a thrue<g ref="char:EOLhyphen"/>ni; Pa ddewis gan hynny a wnewch chwi? Fe debygai <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> nad oes fawr anhawſder yn yr achos i ŵr a defnydd ei reſwm ganddo, os gwna efe hefyd ddefnydd o honaw yn y pethau a berthynant i'w Enaid. Ychydig fyfyrio a waſnaetha 'r tro i ddwyn ar ddeall i ddynion, nad oes un rheſwm o herwŷdd pa ham y dylent hwy ddewis tlodi a gwradwydd, penyd a charchar (os gallant drwy oneſt<g ref="char:EOLhyphen"/>rwydd eu gochel) yn hyttrach na Golud ac Anrhydedd, Eſmwythder a Rhydd did. Ond mae yn ſccr gennif fôd
+<pb n="30" facs="tcp:174199:17"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="31" facs="tcp:174199:17"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="32" facs="tcp:174199:18"/>
+fîl o weithiau lai rheſwm i ddŷn, <hi>i</hi> anufuddhâu i Dduw ac i ddamnio ei Enaid ei hun bŷth, yn hyttrach na'i fod<g ref="char:EOLhyphen"/>loni a'i waſnaethu ef, ac felly gwneuthur ſiccrwydd o iechydwriaeth dragwyddol. Gan hynny gadewch i mi etto attolygu arnoch gymmeryd y peth hyn i'ch yſtyriaeth, a meddwl yn ddifrifol beth ſydd fwyaf rheſymmol a mwyaf lleſol i chwi eich hunain, ac yna dewiſwch yn gyfartebol. Ac mi a attolygaf i Dduw hyfforddi eich calonnau i wneuthur dewis mor bwyllog ag na bo i chwi fŷth achosi edifarhau o'i blegid, ymma nag yn y Bŷd a ddaw. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="chapter">
+               <pb n="33" facs="tcp:174199:18"/>
+               <head>
+                  <hi>PEN. II.</hi> Portreiad byr o fuchedd Sanctaidd, gyda rhai Hyfforddiadau byrrion tuag-at yr unrhyw</head>
+               <p>OS gofynnwch chwi i mi yr awr hon ym mha beth y mae y Sancteiddrwydd hwn o'n buchedd yn gynwyſedig, i ba un y bûm i trwy 'r amſer yn eich annog, hynny yr wyf yn gobeithio a ellwch chwi mewn peth meſur ei ddeall wrth edrych yn ôl ar y peth a ddywedais yn y dechreu, ac wrth ddal ſulw ar y peth a adroddais i ar hŷd fy ymadrodd oll. Etto er mwyn cynnorthwy i chwi, mi a'i goſodaf ger eich bronnau yn beth eglurach, er mai ar fyrr eiri<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, fel nad ellir diſgwil amgen yn y Pappur bychan hwn.</p>
+               <p>Yn gyffredinol gan hynny (fel yr adroddais i y peth o'r blaen) Eich annog chwi yn unig yr ydwyf i fyw fel y gweddai i wîr Griſtnogion, yn ôl eich Addunned yn eich Bedydd, yn cadw pa un y mae eich Chriſtnogeiddrwydd chwi yn gynnwyſedig. Yn awr wrth eich Bedydd yr ydych chwi yn rhwym i gredu yn Nuw Tad ac i ufuddhau iddo, a'r Mâb a'r Yſpryd glân. Rhaid i chwi gydnabod yn ddiffuant ac yn ddiragrith mai Duw 'r. Tad a'ch
+<pb n="34" facs="tcp:174199:19"/>
+gwnaeth ac ſŷ'n eich cadw chwi, mai Mab Duw yw eich Prynnwr, a'r Yſpryd glan yw eich Sancteiddiwr, Arweiniwr a'ch Diddanwr. Ac yn gyttunol a hyn y mae 'n rhaid i chwi ymddwyn eich hunain yn gyſtal yn eich calon ac yn eich buchedd. Gan hynny rhaid i chwi ymwrthod a Diafol, y Bŷd a'r Cnawd, y rhai a fynnent eich tynnu chwi ymmaith oddiwrth Dduw, a rhaid i chwi yn ddiyſ<g ref="char:EOLhyphen"/>gog gredu pyngciau eich Ffydd Griſtnogawl, ac yn ofalus gadw gwynfydedig Ewyllys Duw a'u Orchmynnion holl ddyddiau eich bywyd. Eich ffydd a ofynnir mewn trefn i ufudd-dod. Canys onid ydych yn credu Efengyl Chriſt, <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>id ydych chwi debyg i ufuddhau iddo. Yn y ddau beth hyn gan hynny y mae Crefydd Chriſtion yn gynnwyſedig, i'r hyn y mae efe yn rhwym wrth ei Fedydd, <hi>ſef,</hi> yn Credu y peth a ddatgyddiodd Ieſu Griſt, ac yn gwneuthur yr hyn a orchmynnodd. Ar fyr, Chriſtion da yw efe yr hwn ſŷ'n credu yn ddïyſgog ei Gredo, ac yn ofalus yn cadw y Gorchmynnion.</p>
+               <p>Yr Ath<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>awiaethau yr ydym ni i'w credu ydynt yn ddïau yn gyflawnach ac yn helaethach wedi eu rhoddi i lawr yn yr Yſgrythyrau ſanctaidd y rhai a'ſgrifennwyd gan wŷr wedi eu hyſprydoliaethu gan yr Yſpryd glan, ac felly a ddyleid eu derbyn megis Gair Duw, a'u darllain yn ddiwyd a'u credu yn ddiſgl. Ond prif Byngciau y Ffydd Griſtnogawl a grynhoir ar fyr yn yr hwn a elwir Credo yr Apoſtolion, <hi>Credaf yn Nuw y Tâd,</hi> &amp;c. Hwn yr wyf yn gobeithio eich bôd yn gydnabyddus iawn ag e gan ei fôd mor fyr ac eglur, ac a addrodir beunydd yng ngwaſanaeth yr Eglwys; ac am hynny ni oſodaf fi mo'naw yn ehang ar lawr. A hwn hefyd yr wyf yn gobeithio eich bôd yn credu ei fôd yn dra gwîr. Chwi a'i cymrech yn ddrwg, pe'r amheuwn i eich crediniaeth o'r Credo, heb yr hwn nid ydych i'ch cyfrif yn Griſtnogion. Ond gadew<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h i mi eich cynghori chwi i yſtyried yn fynych ac yn ddifrifol y gwirioneddau mawr cynwyſedig yn y Credo, fel y galloch eu deall yn eglurach a'u hoffi hwynt yn guach. Ac attolwg drychwch ar fôd eich crediniaeth o honynt yn gadarn iawn ac wedi ei dyfn-wreiddio yn eich Eneidiau, fel fell<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ymddanghoſo ffrwyth eich Ffydd
+<pb n="35" facs="tcp:174199:19"/>
+yn Sancteiddrwydd eich Buchedd. Heb hyn, gwybo<g ref="char:EOLhyphen"/>daeth noeth o'r Credo, a'i adrodd yn fynych iawn ni thâl faw i ni. Canys, fel y dywedais i chwi, Ufudd-dod yw diben Ffydd. Ac y mae holl byngciau ein Ffydd ni yn dra eglur yn tueddu i'n gwneuthur ni yn Sanctaidd ac yn dda, os gwnawn nî ond eu dyfal Synnied, a'u hyſtyried yn dda. I ddangos hynny ar fyrr eiriau, <hi>Os credwn ni mai Duw y Tad holl-alluog a'n gwnaeth ni a'r holl fyd;</hi> Yna'r ydym ni yn rhwym i'w garu a'i anrhydeddu ef, î'w addoli ac ufuddhâu iddo, megis ein gwneuthurwr, a'n Cyn<g ref="char:EOLhyphen"/>haliwr, yr hwn ſydd Holl-alluog mewn Nerth, Diddiben mewn Doethineb, Daioni, a phôb mâth ar Berffeithrwydd. Os credwn ni mai <hi>Ieſu Griſt yw mab Duw, a Phrynnwr dynol ryw, yr hwn a fu farw droſom ac a gyfododd drachefn, ac a dderchafodd i'r Nefoedd, ac a ddaw oddiyno i farnu 'r byw a'r meirw,</hi> ac a ganiatta i'r holl Ffyddloniaid edifeiriol ac ufudd, <hi>faddeuant o'u pechodau, a bywyd tragwyddol,</hi> ond a farn y rhai drygionus i drueni tragwyddol: Rhaid i'n crediniaeth ni o hyn, ein harwain ni i wîr Edifeirwch a gwellhâd Buchedd, ac i ufudd roi ein pwys ar drugaredd<g ref="char:EOLhyphen"/>au Duw, a haeddedigaethau Chriſt, am fad<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>uant ac iechydwriaeth. Ac os credwn ni, <hi>mai ſwydd yr Yſpryd Glan yw ein Sancteiddio ni, a holl etholedigion Bob'l Dduw;</hi> yna ni a ddylem weddïo ar Dduw am ei Yſpryd Sanctaidd, a rhaid i ni ymroi ein hunain i'w gynhyrfiadau da ef, ac ymoſtwng i'w weithrediad ar ein heneidiau, fel y bo iddo ein Sancteiddio ni a'n gwneuthur yn dduwiol, fel felly y byddom Aelodau bywiol <hi>o Eglwys lân Gatholic</hi> Chriſt. Ac yn yr Eglwys hon yr ydym ni yn rhwym i aros, fel felly <hi>Yng-nghymmun y Sainct,</hi> y gallom fwynhau budd y Gair, y Sacramentau, a'r Gweddïau, drwy ba foddion y mae 'r Yſpryd glân yn gweithio grâs ynom, ac yn 'chwanegu yr unrhyw, hyd oni pherphei<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hier o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> mewn Gogoniant tragwyddol, i'r hwn y ceiff Gwŷr da eu derchafu, Enaid a Chorph, yn yr Adgyfodia<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> fel y câdd eu Heneidiau hwynt afael arno yn ebrwyddi yn ôl eu marwolaeth.</p>
+               <p>Fel hyn y gwelwch pa fodd y mae gwîr Grediniaeth yn arwain Dŷn i Sancteiddrwydd Buchedd. Ac am hynny
+<pb n="36" facs="tcp:174199:20"/>
+yn yr Yſgrythyr ân yr ydym ni yn cael fôd cymmaint o grybwyll wedi <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i wneuthur am Ffydd, neu am gredini<g ref="char:EOLhyphen"/>aeth yn Nuw a Chriſt. Hyn mewn llawer o leoedd ſydd wedi ei ardd<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rchafu yn uchel, ac a ofynnir yn gaeth gennym, megis gwir ſylwedd ein Dledſwydd; yn gym<g ref="char:EOLhyphen"/>maint ag y dywedir yn <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ynych ein bôd ni i'n cyfiawnhâu neu i gael maddeuant ar gyfrif ein Ffydd, ac i gael iechydwriaeth drwy Ffydd, a hyn ei gŷd yn bennaf fel yr wyf yn meddwl, oblegid mai gwîr Ffydd ſydd yn dwyn allad Ufudd-dod, ac yn dyfod ag un i fôd yn Ddiſgybl ufudd, cywîr i Ieſu Griſt, ac felly mae yn ein gwneuthur ni yn addas i drugareddau Duw yn a thrwy ein Hiachawd<g ref="char:EOLhyphen"/>wr bendigedig. Ond pan nad yw Ffydd yn dwyn allan ffrwyth Sancteiddrwydd a Gweithredoedd da, nid yw o gyfrif yn y bŷd gyda Duw, ac ni leſia i ni, fel y gellwch chwi weled yn helaeth yn yr all bennod o St. <hi>Iago,</hi> heb henwi un lle arall-Gan hynny chwi a wyddoch ein bod yn rhwym with ein Bedydd, nid yn unig i gredu holl Byngciau y Ffydd Griſtnogawl ond hefyd i gadw Gorchmynion Duw, y rhai yr wyf i ſon am danynt yn neſſa<g ref="char:punc">▪</g>
+               </p>
+               <p>Yn awr, y Gorchmynion hyn hefyd a gynhwyſir yn eg<g ref="char:EOLhyphen"/>yn lur yr Yſgrythyrau Sanctaidd; ac am hynny m<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e mwy o reſwm etto pa ham y dylech yn ddïwyd eu dai<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> a'u ſtudio, fel y gwypoch ewy<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lys Duw ac y gwnelo<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ef. A'r hyn oll ſydd i ni i'w wneuthur, yr wyf fi yn bwrw'ei fôd yn gynnwyſedig yn y deg Gorchymmyn, fel yr egluri<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> hwynt i ni, ac y cymhellir arnom, gan y Prophwydi yn yr hên Deſtament, a chan ein Hiachawdwr a'i Apoſtolion yn y Newŷdd. Yn enwedig ym-Mhregeth ein Hiachawdwr ar y Mynydd, yn y 5. 6. a'r 7. Bennodau o St. <hi>Matthew<g ref="char:punc">▪</g>
+                  </hi> Ac am hynny darllennwch yn fynych y Pennodau hyn droſtynt. Yno y cewch weled pa fath ddynion y dylai Diſgyblion yr Ieſu fod, ſef fel eu Meiſtr, o Yſpryd addfwyn <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> goſtyngedig, llariaidd a llednais, pur a heddy<g ref="char:EOLhyphen"/>chol, truga<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>og ac ymmyneddgar a'r cyffelyb. Y cyfryw rai a'r rhai n y mae efe yn eu galw yn wynfydedig yn nechreu y Breg<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th Nefol honno, a'r rhai'n yn unig yd ynt hwy y rhai a wna efe yn dra-bendigedig gyd-ag ef ei
+<pb n="37" facs="tcp:174199:20"/>
+hunan byth. Ond os mynnwch chwi gael Swm eich Dylêd tuag-at Dduw a'ch Cymmydog, fel y gofynnir yn y dêg Gorchymmyn, wedi ei oſod allan ar fyr, cymmerwch hi yng-ngwîr eiriau Catechiſm yr Eglwys.</p>
+               <p>
+                  <hi rend="margQuotes">Fy nyled tuag at Dduw yw credu ynddo, ei ofni, a'i garu a'm holl Galon, a'm holl feddwl, a'm holl Enaid, ac a'm holl nerth; ei addoli; diolch iddo; rhoi fy holl ymddiried ynddo; galw arno; anrhydeddu ei Sanctaidd <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ef a'i Air, a'ï waſnaethu yn gywir holl ddyddiau fy mywyd.</hi>
+               </p>
+               <p>
+                  <hi rend="margQuotes">Fy nylêd tuag at fy Nghymmydog yw, ei garu fel fi fy h<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>, a gwneuthur i bôb Dyn megis y chwennychwn iddo wneuthur i minneu. Caru o honof, anrhydeddu, a chymmorth fy Nhad a'm Mam. Anrhydeddu ac ufudd<g ref="char:EOLhyphen"/>hau i'r Brenin a'i Swyddogion<g ref="char:punc">▪</g> Ymddaroſtwng i'm holl Lywiawdwyr, Dyſgawdwyr, Bugeiliaid yſprydol, ac Athrawon. Ymddwyn o honof yn oſtyngedig, gan berchu pawb o'm gwell. Na wnelwyf niwed i nêb ar air na gweithred. Bôd yn gywir ac yn union yn mhôb peth a wnelwyf. Na bo na chas na digaſedd yn fy nghalon i nêb. Cadw fy nwylo rhag chwilenna a lledratta; fy nhafod rhag dywedyd celwydd, cabl eiriau na drwg-abſen.</hi>
+               </p>
+               <p>
+                  <hi rend="margQuotes">Cadw fy nghorph mewn cymmedroldeb, ſobrwydd a diweirdeb. Na chybyddwyf ac na ddeiſyf wyf dda na golud neb arall; eithr dyſgu, a llafurio yn gywir, i ennill fy mywyd, a gwneuthur a ddylwyf ymmha fuchedd by nnag y rhyngo bodd i Dduw fy ngalw.</hi>
+               </p>
+               <p>Dymma eich Dledſwydd i chwi mewn lle cynnwys, yr hon a ellwch chwi yn hawdd ei chofio; ond yn enwedig crfynniwch ar Dduw 'ſgrifennu ei Gyfreithiau yn eich calon, fel y galloch yn ewyllyſgar ac yn gyſſurus ufuddhau iddynt yn eich Buchedd a'ch Ymarweddiad. Ac er cymmorth pellach i chwi, mi a helaethaf ychydig ar y pennaf o'r Dledſwyddau hyn, yn enwedig hwnnw o garu Duw a'ch Cymmydog, ac felly y diweddaf â rhai hyffordd<g ref="char:EOLhyphen"/>iadau byrrion a chyffredinol er mwyn cyfarwyddo eich
+<pb n="38" facs="tcp:174199:21"/>
+camrau yn barottach ac yn ddïanwadalach yn ffyrdd Sancteiddrwydd holl ddyddiau eich Bywyd.</p>
+               <p>Caru Duw a'ch holl Galon a'ch Enaid, yw'r cyntaf a'r Gorchymmyn mawr; megis y mae ein Hiachawdwr ei hun yn dyſgu i ni, <hi>Matth.</hi> 22.37, 38. Hyn a wnâ i ni ufuddhau yn haws i'w holl Orchymynnion eraill ef. Canys os gwîr-garu Duw a wnawn, ni a fyddwn ofnus iawn rhag ei anfodloni ef, a gofalus iawn i'w fodloni ef yn ein holl ffyrdd. Ac yna 'r ydym ni yn gwîr-garu Duw a'n holl Galon, pan garom ni ef yn fwy na'r holl bethau eraill yn y Bŷd, yn fwy na Chyfoeth, Difyrrwch, Anrhydedd, Ceraint, na dim arall yr ydym ni yn ei fwynhau, ïe, yn fwy na 'n Heinioes; yn gymmaint ag yr ymadawwn ni a'r cwbl oll, yn hyttrach na cholli ffafr Duw, ym mha un yr ydym ni yn cyfrif fôd ein dedwyddwch pennaf yn gynnwyſedig. Hyn yr ydwyf yn cymryd ei fod yn wîr Han<g ref="char:EOLhyphen"/>fod Crefydd, ac ydyw'r peth, heb pa un mae ein Hiachawd<g ref="char:EOLhyphen"/>wr yn dywedyd i ni, na allwn ni fôd yn Ddiſgyblion iddo ef, <hi>Matth.</hi> 10.37, 38. Ond pan ddelom ni unwaith i'r dymmer fendigedig hon, ni chawn ni mo'no yn beth anhawdd iawn i ni i'n gwadu ein hunain, a chymmeryd i fynu ein Croes, a dilyn ein Harglwydd a'n Hathro gan wneuthur yn dda a goddef yn ammyneddgar.</p>
+               <p>Gan hynny gadewch i ni erfyn yn ddifrifol ar Dduw drwy ei Yſpryd Sanctaidd ar weithio o hono y cariad hwn yn ein Calonnau. Ac at ein Gweddiau gadewch i ni 'chwanegu ein hymegnîad dïwŷd ein hunain; yn enwedig gadewch i ni fôd yn myfyrio yn fynych iawn ar holl ddaioni Duw a'i drugaredd, a amlygwyd i ni ac i'r holl Fŷd. Gadewch i ni yſtyried beth a wnaeth efe droſom ni yn barod, dros yr Enaid a'r Corph, a pha beth a addawodd efe ei wneuthur yn y Bywyd ſydd i ddyfod. Ac na rown i'n calonnau fŷth eſmwythdra, nes eu cyfan-gyſylltu a'r bŷth-fendigedig Dduw megis ein dai<g ref="char:EOLhyphen"/>oni pennaf, a'n hunig ddigonol Gyfran. A cheiſiwn yn ddifrifol ei ffafr ef drwy'r Arglwydd Ieſu, y Cyfryngwr, yr hwn yn yn-ſwydd a ddaeth i'r Bŷd, i'n dŵyn ni i fuchedd o gyfeillach á Duw, fel y carem ef, ac y cäem ein caru ganddo, a byw bŷth gydag ef mewn cariad a
+<pb n="39" facs="tcp:174199:21"/>
+gorfoledd. Ond cofiwch yn oeſtad mai ufudd-dod i Dduw, yw'r unig ſiccr eglurdeb o wîr Gariad cadwedigol. Yr hwn a gâr Dduw, a gashâ Bechod a Drygioni. Gwnaed y Mab y lliw a fynno o gariad ac anrhydedd i'w Dad, nid ydyw efe yn gwir-garu mo honaw, oni chymmer efe bôb gofal dledus <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'w fodloni ef.</p>
+               <p>Ac os ydych chwi fel hyn yn ddiragrith yn caru Duw megis eich Tâd, yna chwi a ellwch bôb amſer ymddiried yn gyſſurus ynddo, a rhoi eich pwys a'ch hyder arno, yr hon ſydd Ddledſwydd fawr arall, ac a ddŵg heddwch mawr a llonyddwch i'n meddyliau. <hi>Eſay</hi> 26, 3, 4, Tra byddoch chwi byw mewn ufudd-dod i orchymmynion Duw, mae i chwi hawl ſiccr yn ei Addewidion ef, ac chwi a ellwch yn ddiogel roi eich pwys ar ei ddaionus Rag<g ref="char:EOLhyphen"/>luniaeth ef, am gyflownder o honynt. Gan hynny beth bynnag yw eich anghennion, eich peryglon, neu eich dioddefiadau, nac amheuwch Ragluniaeth Duw, ond diſgwiliwch yn ymarhous, a gwnewch eich dledſwydd eich hunan, a byddwch ſiccr, y bydd Duw yn ei amſer da, i'ch cynnorthwyo ac i'ch gwared chwi; efe a'ch hyffordda, a'ch cyſſura ac a'ch cadarnhâ chwi. Gadewch i'r holl brawf a gawſoch chwi hyd yn hyn o'i dirion dru<g ref="char:EOLhyphen"/>garedd ef, eich rhwymo chwi i ymddiried ynddo cyhyd ag y byddoch byw. A chymmerwch ofal mawr, na bo i chwi fyth rwgnach na thuchan yn erbyn Duw mewn un helbul yn y byd; pan gyfarfyddoch chwi a'r croeſau neu'r colledion trymmaf, neu golloch eich Ceraint a'ch Cyfeillion anwylaf, dywedwch gyd-a <hi>Job</hi> Sanctaidd, <hi>Yr Arglwydd ſydd yn rhoddi, a'r Arglwydd ſy'n dwyn ymmaith, bendigedig fyddo Enw'r Arglwydd.</hi> Attolygwch i Dduw ddyſgu i chwi y we<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s ragorawl honno o Fodlondeb ym<g ref="char:EOLhyphen"/>mhôb Cyflwr, <hi>Phil.</hi> 4.11, 12, 13. Er y gellwch chwi fôd yn iſel ac yn dlawd yn y Byd, etto yſtyriwch, mae i chwi bob amſer achos i fôd yn ddïolchgar, ond nid oes un amſer achos i chwi i gwyno. Duw a ŵyr <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a gyflwr ſydd orau i ni, a gadewch i ni ado iddo ef dd<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wis beth a gawn ni. Nyni y rhai nid ŷm yn haeddu dim ond digo<g ref="char:EOLhyphen"/>faint a thrueni, a ddylem gydnabod mawr ddaioni Duw, ein bôd ni y tu ymma i Uffern. <hi>Trugareddau'r Arglwydd ydyw na ddarfu am danom,</hi> a'n bôd ni yn mwynhau y tipp<g ref="char:EOLhyphen"/>lleiaf
+<pb n="40" facs="tcp:174199:22"/>
+o gyſſur. Meddyliwch mor dlawd a fu yr Arglwydd Ieſu er ein mŵyn ni, yr hwn nid oedd ganddo le i roddi ei Ben, ac a gadd a'i waſnaethodd o eiddo eraill; ac yn yr unrhyw Gyflwr gwael y bu 'r Apoſtolion fyw. Mae eich Cyflwr ſâl chwi yn eich rhyddhau oddiwrth lawer o faglau a phrofed gaethau, ac oddïwrth lawer o ofalon a chriſtwch y rhai nid eill y Cyfaethogion mo'u go<g ref="char:EOLhyphen"/>chel. Os ydych chwi yn gwîr-garu Duw, a chennych dryſor yn y Nef, yr ydych chwi yn oludog iawn, er nad oes gennych nac Aur nac Arian. Nac ofnwch, na ddyry Duw i chwi ac i'r eiddoch Ymborth a Dillad, a thra bo hynny gennym, byddwn fodlon a dïolchgar. Ie, bwriwn y gwaethaf, ſef y gallwn ni feirw o newŷn ac eiſiau bara (yr hyn ni ddigwydd i un ymmyſg Cant yn amſer heddwch a llawnder) etto os ein Heneidiau ni a fyddant wedi eu parottoi i fynd i'r Nefoedd, ac a gânt eu dwyn yno, ni chawn ni achos yn y bŷd i gwyno ymmha f<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dd, neu o ba Angau y byddom feirw. Mi a fûm y<g ref="char:EOLhyphen"/>chydig helaethach yn hyn, er mŵyn Pobl dlodion, y rhai ydynt ry barod i fôd yn anfodlongar, ac i rwgnach o herwŷdd eu Cyflwr; er eu bôd yſowaeth yn ddigon mynych yn eu dŵyn eu hunain iddo, neu yn ei wneuthur yn waeth o lawer drwy eu bucheddau dïofal anllywod<g ref="char:EOLhyphen"/>raethus eu hunain, fel y crybwyllwyd o'r blaen.</p>
+               <p>Ac etto cyn i mi fyned rhagof at eich Dylêd chwi tuag<g ref="char:EOLhyphen"/>at eich Cymmydog, gadewch i mi ar ychydig eiriau, eich hyfforddi chwi tuag at Addoliad Duw mewn Gweddi<g ref="char:EOLhyphen"/>au a Mawl. Hon ſydd ddledſwydd a gymmhellir arnom ni yn dra mynych yn yr Yſgrythyr, ac a arferir gan bob gwr da, a goleuni nattur ei hun a ddichon ein hyfforddi ni atti. Mae arnom eiſiau beunyddiol am drugaredd Dduw, ac 'r ŷm ni beunydd yn archwaethu o honi, ac am hynny i'n dyſgir <hi>i weddio bob amſer, ac ym mhob peth <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> roddi diolch.</hi> I Dduw yn unig y mae yn rhaid i ni aberthu ein Gweddïau a'n Moliantau yn Enw Chriſt Ieſu, megis y mae efe ei hun yn dyſgu i ni, <hi>Matth.</hi> 4.10. <hi>Ioan</hi> 16.23. Nid rhaid i ni weddïo ar Angylion na Seintiau, gan eu gwneuthur megis yn Gyfryngwŷr i ni, canys hon yw ſwydd neilltuol Chriſt, yr hwn a fu farw droſom, ac ſydd yn awr ar ddeheulaw Duw yn eiriol droſom, 1 <hi>Tim.</hi> 2.5.
+<pb n="41" facs="tcp:174199:22"/>
+                  <hi>Heb.</hi> 7.25. Gan hynny rhaid i ni greaduriaid gwaelion, pechadurus, ddyfod yn oeſtad at Dduw yn Enw Chriſt, ac er ei fŵyn ef yn unig, gobeithio cael ffafr Duw a maddeuant pechodau, bôd yn gymmeradwy ganddo ein perſonau ni a'n gwaſanaeth, a chael o honom Iechyd<g ref="char:EOLhyphen"/>wriaeth i'n Heneidiau,</p>
+               <p>A'n Hiachawdwr ſydd yn ein dyſgu ni i addoli Duw mewn môdd pûr ac Yſprydol â'n Calonnau a'n Heneidiau, oblegid mai Yſpryd yw efe, a'i fôd yn chwilio calonnau Dynion, <hi>Ioan</hi> 4.24. Am hynny nid allwn ni mewn un môdd, wneuthur Delw neu Lûn Duw, na rhoi Addoliad Crefyddol i Ddelw, yr hyn ſydd yn union yngwrthwyneb i'r ail Gorchymmyn. Nid allwn ni'ch waith ffurfio yn ein meddyliau un mâth ar lûn corphorol o Dduw pan weddï<g ref="char:EOLhyphen"/>om arno, ond rhaid i ni feddwl o honaw megis Yſpryd tra-phûr a gogoneddus, tra-galluog, doeth, a daionus, yr hwn ſydd yn llenwi yr holl Fŷd â'i Breſennoldeb, a phob amſer yn agos attom, er nas gwelir a Golygon Corphorol; ac yn clywed ein Gweddïau, ac a ŵyr ein hanghennion, ac ſydd yn alluog ac yn ewyllyſgar i'n cymmorth ni.</p>
+               <p>Ein Hiachawdwr a orchymynnodd i ni weddïo yn y dirgel, pan ſôm ni yn unig, <hi>Matth.</hi> 6.6. Ac yno y dyſ<g ref="char:EOLhyphen"/>godd efe i'w Ddiſgyblion pa fôdd y gweddïent, ac a roddes i ni y Ffurf dra-rhagorawl honno, yr ydym ni yn ei galw Gweddi yr Arglwydd, <hi>Ein Tad yr hwn wyt yn y Nefoedd,</hi> &amp;c. Yr hyn ar y ffordd, a ddichon ein ſiccrhâu ni, fôd Ffurfiau o Weddïau yn gyfreithlon iawn, ac fe all Gweddi yr Arglwydd waſnaethu am gynllun neu batrwm i'n hyfforddi ni yn ein holl Weddïau, ac ſydd ei hunan hefyd yn dra addas i'w harferu ac i'w chyſſylltu at ein Gweddîau eraill, Eithr nid yw gymmwys arfer y Credo a'r Dêg Gorchymmyn am Weddïau, megis y mae pobl druain anwybodol yn gynnefin o wneuthur; er bôd yn ddledus arnom eu mynych gofio, a'u hadrodd, er mŵyn bywioccau ein Ffŷdd, ac hyfforddi ein Bucheddau.</p>
+               <p>Ar bob achoſion, ac ymmhôb blinderau a thrallodion,
+<pb n="42" facs="tcp:174199:23"/>
+gadewch i ni weddïo yn ddyfal ar Dduw, ac yn oeſtad Ymbilio arno am drugaredd a chyſſur, yr hwn ſydd bob amſer yn agos at y rhai a alwant arno mewn gwirionedd a phurdeb. Pe bae y Gŵr tlawd yn ceiſio ymwared gan Dduw, mor ddifrifol ag y mae efe gan ei Gymmydog <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oludog, dyna 'r ffordd ſiccraf y cai efe gyflawnu ei anghennion. A gadewch i ni hefyd dderchafel yn fynych ein Calonnau i fynu at Dduw mewn Dïolchgarwch a Moliant, am ei holl drugareddau a'i ddaioni y mae efe yn ei ganiattau i ni. Fel hyn y gall y Dyn tlottaf yn fynych roi ei feddwl ar waith pan fyddo ef gyd a'i orch<g ref="char:EOLhyphen"/>wyl yn y Gweithdŷ, neu yn y maes, neu pan fo efe yn ymdaith ar y ffordd, neu yn hwylio ar y môr, ac ni rwyſtra hynny mo'i lafur, eithr ei oſod ym mlaen, ac a'i gwna yn eſmwy thach ac yn ddifyrrach. Ond bydd<g ref="char:EOLhyphen"/>wch ſiccr o naîlltuo rhyw amſer bob dydd tuag-at weddi arferedig.</p>
+               <p>Mae'n addas iawn dechreu y diwrnod a Gweddi at Dduw, cyn gynted ac y cyfodom ni o'n gwlau; gan fendithio ei enw ef am ein cadwraeth a'n gorphwyſtra llonydd, gan erfyn ei raſuſol Breſennoldeb ef gyd-a ni yr holl ddiwrnod, fel i'n cadwer oddïwrth bob drwg, yn enwedig oddiwrth bechod, y gwaethaf oll. Ac yn yr Hŵyr, gwnawn hyn yn orchwyl diwaethaf i ni cyn i ni orwedd i lawr i gyſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u, ſef gorchmynnwn ein hunain yn oſtyngedig i Dduw drwy Weddi, <hi>Pſal.</hi> 92.1, 2.</p>
+               <p>Y mae hi 'n dra-defnyddiol i'r rhai ſydd a Theuluoedd ganddy<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t, i gyſſylltu y ghŷd Forau a Hŵyr mewn gweddi at Dduw, gan ddarllen <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hyw gyfran o'i Air Sanctaidd; er mwyn pa amcan y mae llawer o Lyfrau da o Grefydd: ac er na bô ganddynt yr ûn o honynt, etto hwy a allant arfer y cyfryw ai o Wed<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ïau yr Eglwys ag a fônt cyfaddas iddynt, ac a geir yn y Boreuol a'r Prydnhawnol Waſanaeth, ac mewn lleoedd eraill.</p>
+               <p>Cyn eiſtedd o honoch i fwytta, erfyniwch fendith Duw arno, a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> wedi i chwi ddarfod, telwch ddïolch am dano.</p>
+               <p>
+                  <pb n="43" facs="tcp:174199:23"/>Ond heb law ein gwîr addoliad ymmyſg y Teulu neu yn yr yſtafell, ein Dledſwydd fawr ni yw addoli Duw yng Nghymanfeydd cyhoeddus ei Bobl ef, y rhai ni ddy<g ref="char:EOLhyphen"/>lem ni mewn un modd ymwrthod a hwynt, <hi>Heb.</hi> 10.25. Na oddefwch gan hynny mo'ch tynnu eich hunain ym<g ref="char:EOLhyphen"/>maith tan liw yn y bŷd, naill ai gan Bapiſtiaid neu Wahanwŷr, oddïwrth gyhoeddus addoliad Duw, megis y mae yn awr wedi ei ſefydlu drwy Gyfraith yn Eglwys <hi>Loegr.</hi> Ond edrychwch ar gyrchu o honoch yn ddigell<g ref="char:EOLhyphen"/>wair i'ch Eglwyſi plwyfol, a hynny nid yn unig ar Ddyddiau gwylion, ond ar ddyddiau gwaith hefyd, pan gaffoch gyfle ac ennyd. Yn fwy enwedig, edrychwch ar ddyfal gyrchu o honoch i'r Eglwys ar Ddŷdd yr Arglwydd, oni bydd rhwyſtr clefyd, neu ryw achos mawr iawn arall yn eich cymmell. Na adewch i'r eſgus hwnnw mo'ch cadw o'r Eglwys, yr hwn ni chadwai mo'noch o'r Farchnad. Deuwch a chynnifer o'ch Teulu gyd-a chwi, ag a fo poſſibl eu hepcor. Deuwch erbyn dechreu 'r Gwaſanaeth, ac arhowch yn llonydd hyd ei ddiwedd, heb redeg ymmaith cyn y Fendith, fel y mae llawer o bobl ddïofal yn wrthun yn gwneuthur, fel p<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> bae yn llawen ganthynt ddïangc allan, megis o Garchar Ym<g ref="char:EOLhyphen"/>ddygwch eich hunain a phob parch dledus, mewn corph a meddwl, gan yſtyried Mawrhydi y Duw hwnnw, ym mhreſennoldeb pa un yr ydych yn ſefyll, yng ngŵydd pa un y mae'r Angylion yn cuddio eu hwynebau Goſtyng<g ref="char:EOLhyphen"/>wch ar eich gliniau bob amſer ar eich gweddïau, o bydd cyfleuſdra, neu ſefwch o'r lleiaf. <hi>Pſâl.</hi> 95.6. Uwch law 'r cwbl, edrychwch yn ofalus at dymmer eich Eneidiau, a chynnheliwch Synniad arſwydus o'r Duw mawr ar ba un yr ydych yn gweddïo, a deliwch ſulw ar bob peth a ddywedir, fel yr eloch ym mlaen gyda'r Gweddïau, ac offrymmwch eich dymuniadau i Dduw; os amgen, er dywedyd o honoch lawer, etto nid ydych yn gweddio dim. Gochelwch bob gwâg feddyliau gwibgrwydrus, hyd y bô poſſibl: Pan fyddoch yn uno yn y Gyffes o bechodau, cofiwch eich beiau neilltuol eich hunain, ac ymddaroſtyng<g ref="char:EOLhyphen"/>wch yn iſel o'u herwŷdd: a byddwch yn ddiff<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ant yn ddîolchgar am holl drugareddau Duw, tra bôch yn moliannu ei enw; ac hiraethwch yn ddifrifol am y Grâs
+<pb n="44" facs="tcp:174199:24"/>
+yr ydych yn gweddïo am dani. Yſtyriwch Air Duw gyd a gofal a pharch pan ddarllenner ef o eiſteddle 'r Gweini<g ref="char:EOLhyphen"/>dog, ac hefyd pan bregether a phan eglurer ef o'r Pulpud, fel y byddoch wrandawŷr dyfal, a gwneuthur-wŷr ffyddlon y Gair. Na eſceuluſwch yr Eglwys Brŷdnhawn, er byw o honoch lle na bo Pregeth. Gatecheiſio a ddichon fôd mor ddefnyddiol i chwi, a hynny a ddylai fod ymm<g ref="char:EOLhyphen"/>hôolle. Ac heb law hynny, chwi a glywch ddarllain yr Yſgrythyrau Sanctaidd, ac a gewch fudd y Gweddïau cyhoeddus.</p>
+               <p>Pan ddeloch o'r Eglwys, na threuliwch mo weddill y diwrnod mewn difyrrwch a ſeguryd, llai o lawer mewn meddwdod a chwaryddiaeth, megis y mae gormod yn gwneuthur. Ond os oes Teulu gennych, treuliwch beth amſer gyda hwynt, yn gweddïo, yn darllen Gair Duw, a rhyw Lyfr da; a bydded i Blant a Gwaſanaeth-ddynion gael eu haddylgu yn eu Catechiſm. Holwch hwynt yng<g ref="char:EOLhyphen"/>nghylch y peth a glywſont, fel felly y gwneler hwynt yn wrandawŷr mwy gwiliadwrus; a myfyriwch chwithau ar yr un peth, fel y byddai iddo dreiglo i'ch Calonnau. Gweithredoedd o drugaredd ac angenrhaid a ellir eu gwneuthur ar ddydd yr Arglwydd; ond er dim ar y fo na chynnhwyſwch mo'noch eich hunain mewn dim Gorchwylion afraid, nac yn ymdaith ar y Brif-ffordd, nac yn crwydro oddïamgylch i wneuthur ymweliadau ofer. Mae Duw yn caniattâu i ni chwe diwrnod yn yr Wythnos i'n gwaith ein hunain, gadewch i ni yn barod, ac yn ewyllyſgar, gyſſegru Dydd yr Arglwydd i'w waſanaeth ef.</p>
+               <p>Pan weinydder Sacrament y Bedydd, dyfal-yſtyriwch ef. Cofiwch eich rhwymedigaeth eich hun wrth gael ei dderbyn yn eich Mebyd, ac ymrowch i fy wyn gyfattebol iddi. Unwch mewn gweddi am fendith Duw ar y Plant a dderbynier i'r Eglwys y pryd hynny. A phan ddeloch a'ch Plant eich hun i'w bedyddio, edrychwch ar i chwi yn ddiragrith eu rhoddi hwynt i fynu i Dduw; a chyflwynwch hwynt i'w Waſanaeth ef, gan ymroi yn gadarn i'w dwyn hwynt i fynu yn ei ofn ef, os eiriach Duw eich einioes chwi a'r eiddynt hwythau, a gweddiwch yn ddifrifol ar
+<pb n="45" facs="tcp:174199:24"/>
+dywallt o hono ei râs ef i'w Heneidiau. A'r rhei'ni y ſafoch chwi megis mechnïafon droſtynt, chwi a ddylech wneuthur eich gorau tuag-at-eu hadeiladaeth hwynt yng<g ref="char:EOLhyphen"/>ngwybodaeth Duw a chrefydd, yn ôl y Gorchymmyn a roddwyd arnoch, yn enwedig o bydd meirw y Rhïeni, neu fyned o honynt yn eſgeulus. Ac yn rhodd gochel<g ref="char:EOLhyphen"/>wch yr arfer ddrygionus ſydd gyffredinol mewn rhai mannau, <hi>ſef,</hi> yn ol bed<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ddio y Plentyn, y Cymmydogion a wahoddir, a dreuliant y rhan arall o'r diwrnod mewn Cyfeddach a Meddwdod; gan anghofio, ddarfod iddynt ond chwennyg yr awr hon ŷmwrthod â Chwantau y Cnawd, a bod y rhai a <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>afaſant wrth y Bedyddfaen, a'r lleill oll, dan yr un rhwymedigaeth.</p>
+               <p>Pa bryd bynnag y gwahoddir chwi gan y Gweinidog i'r Cymmun ſanctaidd, na eſgeuluſwch yn ewyllyſgar n o'r Gwahoddiad: ond deuwch â Chalon ddïolchgar i gadw cof am gariad Chriſt yn marw dros bechaduriaid, yn ol ei Orchymmyn eglur, <hi>Luc.</hi> 22.19 Cymmerwch ofal am eich parottoi eich hunain drwy wîr edifeirwch am eich holl bechodau a aethant heibio, a llawnfwriadau dïyſgog drwy râs Duw ar ymwrthod yn llwyr-gwbl â'r unrhyw. Ac edrychwch ar fod o honoch mewn Cariad perffaith a phob Dyn, gan faddeu yn rhwydd i'r rhai a wnaethant ar fai i'ch erbyn, a chynnyg bodlondeb i'r rhai y gwnaethoch chwithau eich hunain i'w herbyn. Os yn ol hyn, ni byddant hwy wedi eu cymmodi, nid eich bai chwi, ond yr eiddynt hwy ydyw, am hynny ni's dichon mo'ch cadw oddïwrth y Sacrament. Na arhoſwch ymmaith drwy wneuthur lliw, fod arnoch eiſiau amſer i'ch parottoi eich hun. Canys Buchedd Sanctaidd gwaſtadol, yw y Parotto<g ref="char:EOLhyphen"/>ad gorau. Os ydych chwi yn deilwng i weddïo, yr ydvch chwi hefyd i Gymmuno. Na thybiwch mai i'r Cyfoetho<g ref="char:EOLhyphen"/>gion yn unig y mae Cymmuno. Mae Eneidiau 'r tlodion mor werthfawr a'r cyfoethogion, a marwolaeth Chriſt mor berthynaſol iddynt; ac mae iddynt gymmaint achos i'w gofio, ac i ymgeiſio y Lleſau o hono. Onid oes gennych arian i'w offrwm gydag craill, nac eſgeuluſwch eich offrymmu eich hunain i fynu i Dduw, ac fe fydd hynny yn werthfawroccach. Na chwynwch fod arnoch eiſiau Dillad,
+<pb n="46" facs="tcp:174199:25"/>
+ac am hynny eich bod yn abſennol, o'r Eglwys ac o'r Cymmun hefyd: Ond edrychwch ar i chwi ddyfod yn y Wiſg-Brïodas a orchmynnir yn yr Efengyl, ſef, â Chalon<g ref="char:EOLhyphen"/>nau goſtyngedig, edifeiriol, a dïolchgar, ac yna y byddwch Wahoddedigion a chroeſo iddynt i fwrdd yr Arglwydd. Er mwyn hyfforddiant i chwi, os nid oes gennych Lyfrau ar y Teſtyn hwn, etto darllenwch yn ddifrifol y Gwaſanaeth am y Cymmun yn y llyfr Gweddi gyffredin, ac chwi a ellwch gael cymmorth mawr oddiwrtho. Mae'n addas iawn hefyd ymgynghori a'ch Gweinidog, yn <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nwedig y waith gyntaf y derbynioch chwi 'r Cymmun. Bid ſiccr gennych, mai pechod tra-echrvſlon ydyw, i chwi fyw y naill flwyddyn yn ol y llall, mewn eſgeuluſdra o'r Ddled<g ref="char:EOLhyphen"/>ſwydd bwysfawr hon, ac mae yn arwyddo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>câu dirmyg dirfawr ar Awdurdod ein Hiachawdwr, ac ar ei gariad annherfynol a'i addfwynder ef.</p>
+               <p>Cyn peidio o honof a chrybwyll am eich Dledſwydd tuag-at Dduw, gadewch i mi erfyn arnoch ymgadw yn ofalus oddïwrth y pechod cyffredin echryſlon hwnnw o Dyng<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Cyfran o ddrygioni tra-amhwyllus ydyw, yr hwn nid yw 'n dwyn na difyrrwch na bûdd gyd-ag ê. Pan alwer chwi ger bron ſwyddog mewn achos pwysfawr, Chwi a ellwch yn gyfreithlon dyngu, <hi>Heb.</hi> 6.16. Eithr cymmerwch ofal mawr ar dyngu y Gwîr, a dim ond y Gwîr; Os amgen, galw yr ydych y Gwîr Dduw i dyſtio Celwŷdd, ac yr ydych megis yn galw am ei ddïaledd ef arnoch eich hunain. Yn eich ymddiddan cyfredin, gochelwch bob mâ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h ar dyngu, pa un bynnag ai i enw Sanctaïdd Duw, ai i un Creadur yn y byd. <hi>Matth.</hi> 5.34. <hi>Iago</hi> 5.12. Na arferwch ddywedyd fel hyn, <hi>Ar fy Enaid,</hi> neu <hi>Ar 'y Nghydwybod,</hi> a'r cyffelyb, y rhai ydynt Lyfon mawrion, er bôd rhai yn eu mynych-arfer ar bôbachos coeg a ſâl. Na wnewch gymmaint a chrybwyll heb achos nac yſtyr am enw Sanctaidd Duw neu Griſt: ond gadewch i'ch parch oddimewn gael ei wneuthur yn hyſpys yn eich ymadraddion oddiallan.</p>
+               <p>Ac at hyn mi a allwn gyſſylltu Cyfarchwyl difrîfol yn erbyn y pechod o Regu, ymmha un y dianrhydeddir Enw Duw yn fynych, pan fo Dynion yn dymuno i Felldith
+<pb n="47" facs="tcp:174199:25"/>
+Dduw ddiſgyn ar eraill, weithiau ar eu Plant a'u Ceraint neſſaf, weithiau ar eu Cymmydogion, ac weithiau ar eu hanifeiliaid. Rhai Coeg-ddynion halogedig a ddymunant ddamnedigaeth i'r rhai y maent yn ſyrthio allan a hwynt, ïe, iddynt eu hunain. Ac ai nid cyffredinol ydyw clywed dynion yn eu llid, yn dymuno 'r Frêch, neu'r Plâ, neu gebyſtr i'w Cymmydog, ueu 'n peri i Ddiafol eu cym'ryd. Yn ddïau maent eu hunain yn ymddangos fel pe baent yn gythreulig, tra byddont yn chwythu 'r Iath Uffernol hon, ac maent yn cymmeryd y ffordd union i ddwyn pob mâth ar Felldith ar eu Heneidiau a'u Cyrph eu hunain, <hi>Pſal.</hi> 109.17, 18. Yr arfer ddrygionus hon ſŷdd yn deilliaw o ddiffyg gwîr ofn Duw yng-Nghalonnau Dynion, ac hefyd o eiſiau addfwynder a chariad y naill tuag-at y llall, ynghylch pa un yr wyf yn neſaf i adrodd ychydig eiriau.</p>
+               <p>Yn neſaf at garu Duw uwch law pob peth, caru ein Cymmydog fel ni ein hunain, yw Dledſwydd fawr Chriſtion, fel y mae ein Hiachawdwr yn dyſgu yn yr un lle hwnnw. <hi>Matth.</hi> 22.39, 40. A <hi>Chariad</hi> a ddywedir <hi>ei fod yn gyflawnder y gyfraith.</hi> Rhuf. 13.8, 9, 10. Nid oes dim mwy addas i Ddiſgyblion Ieſu Griſt, na byw mewn ſerch a chariad gydâ phob Dyn, gan wneuthur i eraill bob daioni ar a allom, eithr heb wneuthur mâth yn y byd ar ddrwg î neb, Darllenwch 1 <hi>Cor.</hi> 13. Hyn a orchymmynnir yn dra-mynych, ac yn gaeth iawn yn yr Efengyl, ac ſydd yn nôd wrth ba un yr hyſpyſir pob Chriſtion, <hi>Ioan.</hi> 13.34, 35. Hyn a'n gwna ni yn dra<g ref="char:EOLhyphen"/>thebyg i'n Harglwydd a'n Hathro bendigedig, yr hwn a aeth o amgylch yn oeſtadol gan wneuthur daioni, i Eneidiau a Chyrph Dynion; ie i'r rhai gwaethaf o Ddynion, ac i'w Elynion chwerwaf, y dangoſodd efe gariad mawr ac addfwynder. Ac yn hyn byddwn aſtud ar debygu iddo ef hyd eithafein gallu.</p>
+               <p>Os oes gennym wîr gariad i bôb Dŷn, yna y cyflownwn ni yn rhwydd ac yn barod yr holl Ddledſwyddau hynny ſydd arnom iddynt yn yr amryw leoedd a'r perthynaſau ymm<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a rai yr ydym yn ſefyll: y rhai nid ydwyf i fyned
+<pb n="48" facs="tcp:174199:26"/>
+yma o amgylch i roi cyfrif neilltuol o honynt. Ond yn gyffredinol, Gwŷr a Gwragedd a ddylent garu eu gilydd yn dra-anwyl, a ſtudio ar wneuthur Einioes y naill y llall yn ddedwyddol ymma, a'u Heneidiau yn ôl hyn. Canys os ydynt yn byw mewn anghyttundeb a llidiawg<g ref="char:EOLhyphen"/>rwydd, mae ganthynt Uffern ar y Ddaiar cŷd ag y bont byw, ac mae'n rheſwm iddynt ddiſgwil poena<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> tragwyddol yn Uffern pan fyddont feirw. Rhïeni a ddylent garu eu plant, a chymeryd gofal am danynt, yn gyſtadl Enaid a Chorph: a Phlant a ddylent anrhydeddu ac ufuddhâu i'w Rhïeni, a gwneuthur ymwared iddynt o byddant mewn angen. Rhaid i Feiſtred fod yn rhywiog ac yn addfwyn tuag-at ei Gweiſion; a rhaid i Weiſion fod yn ffyddlon ac yn ufudd i'w Meiſtred, ïe i'r rhai ang<g ref="char:EOLhyphen"/>hyweithas a ſarrug Rhaid i Ddeiliaid roddi ufudd-dod i hôll Orchmynion cyfreithlon eu Rheolwŷr, ac ym<g ref="char:EOLhyphen"/>ddaroſtwng yn ymmyneddgar i'r goſpedigaetb a wnelont; ac nid oes iddynt mo'r gwrthryfela i'w herbyn mewn modd yn y byd: canys mae wedi ei wahardd yn dra<g ref="char:EOLhyphen"/>amlwg yn yr Yſgrythŷr, a damnedigaeth wedi ei fwgwth i'r rhai euog, <hi>Rhuf.</hi> 13.1, 2. Ac yn gyffredinol nid yw Teyrn-frad a Gwrthryfel, yn dwyn dim ond diniſtr a thrueni yn y Bŷd hwn, yn gyſtadl a'r hwn ſydd i ddyfod. Y Bobl a ddylent berchi a charu eu Gweinidogion, dilyn eu Cynghorion duwiol a'u heſamplau, ac edfryd iddynt Gynhaliaeth dyledus.</p>
+               <p>Ar fyr, rhaid i ni fôd yn ofalus ar ymgadw rhag gwneu<g ref="char:EOLhyphen"/>thur cam a neb, o ba râdd neu gyflwr bynnag y byddo, naill ai yn ei Enaid neu yn ei Gorph, yn ei Olud neu yn ei Enw da: ond rhaid i ni fôd bob amſer yn barod i wneuthur pob mâth ar ddaioni i bob dyn yn ôl ein gallu a'n cyfleuſdra. A thrwy hyn y mae i ni ddangos, ein bôd yn caru ein Cymmydogion fel ni ein hunain, drwy wneuthur a phob dŷn mor union ac mor gyfion, mor drugarog ac mor garedig, ag y mynem ni wneuthur a ni ein hunain. Hon yw Rheol fawr yr Efengyl, <hi>Matth.</hi> 7.12. Ac wrth y Rheol hon y dylem ni ein llywodraethu ein hunain yn ein holl ymmddygiad tuag-at eraill, wrrh brynnu a gwerthu, ac yn ein holl Ymarweddiad. Hon
+<pb n="49" facs="tcp:174199:26"/>
+ſydd Reol eglur a hawdd i rodio wrthi, ac ſydd gyfiawn ac uniawn, chang iawn ac o fawr amgyffred; fel os deil dyn ſulw arni yn oneſt ac yn ffyddlon, nid rhaid iddo mor mynd ymmhell i geiſio cyfarwyddyd pa fodd i'w ym<g ref="char:EOLhyphen"/>ddwyn ei hun yn y rhan fwyaf o achoſion, rhyngddo ef a'i Gymmydog. A fynnwn i fy enllibio a'ni difenwi, fy nhwyllo a'm ſommi, fy nghuro a'm briwo, neu mewn un<g ref="char:EOLhyphen"/>modd arall fy ammherchi? Onid ê, na atto Duw i minneu wneuthur felly a neb arall. A fynnwn ni fy nïyſtym a'm gwatwor am fy meiau, neu am fy nhlodi a'm haflwydd? Oni byddai well gennif mewn rheſwm fy hyfforddi yn ga<g ref="char:EOLhyphen"/>redig, fy nghynnorthwyo a'm dïanghenu? Fel hyn gan hynny, Bydded i mi wneuthur i'm Cymmydog; ac yn ôl fy ngallu, mewn addfwynder a gwîr garedigrwydd, hyfforddi yr aneallus, gwrthwynebu y drygionus a'r beius, cyſſuro 'r athriſt, rhoi ymwared i'r gorthrymmedig, a'r newynog, a dilladu 'r noeth. le rhaid i'r rhai ydynt mewn helynt wael, fôd yn barod i gymmorth y cyfryw ag a fyddont mewn mwy angen na hwynt eu hunain. Nid yw'r Gwr ſydd yn byw wrth ei lafur wedi ei lwyr eſguſodi oddîwrth weithredoedd Cariad <hi>Eph.</hi> 4.28. Mae hatling y wraig weddw yn gymmeradwy iawn gan Dduw; a chwpaned o ddwfr oer ni chyll mo'i wobr. Meddwl ewyll<g ref="char:EOLhyphen"/>yſgar cariadus yw'r peth y mae Duw yn edrych arno yn bennaf, ac yn galw am dano, a hyn all fod gan y tlottaf, oni bydd ar ei fai ei hunan.</p>
+               <p>Ac nid yw ein Cariad a'n haddfwynder i'w ddangos tuag-at ein Cyfeillion yn unig, ond i'n gwîr Elynion eu hunain hefyd. Ni waſnaetha i ni dalu am ddrwg, eichr bod yn aſtûd i orchfygu drygioni drwy ddaioni. Os tarewin ni, nid oes i ni mor taro drachefn; os ymſennir a ni, a'n difenwi, nid oes i ni roi 'n ôl mo'r un drwg dafod drachefn, eithr naill ai drwy dewi, ai drwy attebion addfwyn ac arafedd ceiſio heddychu eu llidiawgrydd. Canys nid yw y Rheol, i wneuthur ag eraill, megis y gwnelont a minneu, eithr fel yr ewyllyſiwn iddynt mewn rheſwm wneuthur a minneu; ac nid bai un arall am heſcuſoda i. Os gwna efe gam a myfi, nid oes i mi mo'r <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ôd yn farnwr yn f' achos fy hun, na chymmeryd arnaf ei ddïal, ond mewn achoſion pwysfawr, y gallaf ffoi at
+<pb n="50" facs="tcp:174199:27"/>
+y Swyddog am ymwared. Ond nid allwn ni mewn modd yn y byd ddŵyn câs na digaſedd yn ein Calonnau yn er<g ref="char:EOLhyphen"/>byn neb, er maint a fo ei ddrygioni, a'i elyniaeth tuag attom eithr rhaid i ni doſturio wrtho a gweddïo droſto, ar i Dduw wellhâu ei feddwl ef. Os oes gennym fyth obaith trugaredd gyd a Duw, a chael meddeuant o'n dledion, rhaid i ni faddeu i'r rhai a wnânt gam a ni, fel yr ydym yn dyſgu yng-ngweddi 'r Arglwydd ac mewn amryw leoedd tra-eglur o'r Yſgrythyr. Da<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>llennwch <hi>Matth.</hi> 5.44, &amp;c. <hi>Matth.</hi> 18.21. hyd ddiwedd y bennod. <hi>Rhuf.</hi> 12.14. hyd y diwedd. Rhaid i ni ddangos addfwynder a llarieidd dra tuag-at b<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>b dyn, a pheidio dywedyd na gwneuthur dim o'n gwirfodd i gyffroi un arall i ddigofaint: ac ni ddylem ninneu yn hawdd mo'r cyffroi, ond yn hawdd iawn heddychu a chymmodi. Gre<g ref="char:EOLhyphen"/>ſynol iawn yw yſtyried, pa Fywoliaeth ofidus a thruenus y mae llawer o'r fath dlottaf o bobl yn ei harwain, drwy en bonllefain a'u hymſennu, ymgynhennu ac ymryſon y naill a'r llall: ac weithiau pan ni bo ganthynt ond yn brin Arian i brynnu Bara, hwy a'i taflant ymmaith mewn <hi>bolion</hi> Cyfraith a helbul, yn unig o ran Croeſineb ac ymddïal.</p>
+               <p>A phobl o'r radd ymma a ddylent yn enwedig ochel cenfigennu y rhai a fônt mewn gwell Cyflwr na hwynt eu hunain. Fe ddylai fôd gennym ni y fath wïr garedigr<g ref="char:EOLhyphen"/>awydd ac ewyllys da i bob dyn, fel y byddai i ni orfoleddu oblegid eu hawddfyd hwynt, er ein bod ni ein honain mewn adfyd; fel o'r tu arall y dylai fod gennym reſyn<g ref="char:EOLhyphen"/>dod mawr dros y rhai a fônt mewn blin-fyd, er ein bôd ni ein hunain mewn eſmwyth-fyd.</p>
+               <p>A gwilied y rhai fyddont mewn eiſiau, rhag i'w hangen eu rhoi hwynt ar un ffordd anghyfreithlon i'w cymmorth eu hunain. Yn Bendifaddeu, gochelwch ledratta dim er lleied a dalo. O feſur ychydig, mae'n beth i'w of<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i y dygwch chwi bethau mŵy, yn ol y Ddihareb, <hi>a ddycco'r wy a ddwg a fo mwy,</hi> ac felly y dygwch chwi eich hunain i gwilydd a choſpedigaeth yn y Bŷd hwn, yn gyſtad<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a'r hwn a ddaw. Y ffordd orau i ochel hyn, yw bod yn
+<pb n="51" facs="tcp:174199:27"/>
+oeſtad yn ddïwyd yn eich galwedigaeth cyfreithlon, me<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> y mae 'r Apoſtol yn dyſgu yn y lle a henwyd o'r blaon, ief, <hi>Eph.</hi> 4.28. Onid ellwch chwi weithio, mae 'n gyfreithlon cardotra. Eithr n<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ymrowch mewn môdd yn y bŷd i'r fuchedd ddïog, ſwrth, anfuddiol hon o gar<g ref="char:EOLhyphen"/>dotta, os gellwch chwi gael bŷwoliaeth drwy neb rhyw ffordd gyfreithlon arall. Yr hwn ni weithio tra y gallo, nid yw deilwng iddo fwytta. Eithr yn hyttrach na lle<g ref="char:EOLhyphen"/>dratra na newynu, chwi a ellwch geiſio eluſen gan eich Cymmydog. Ond na cheiſiwch mo'i dwyllo, gan fen<g ref="char:EOLhyphen"/>thyccio yr <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yn y gwyddoch na byddwch chwi fŷth debyg i'w da<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u: Canys hyn ſydd ſommedigaeth eglur. Yn hyttrach gwnewch uniondeb, gan wneuthur eich angen yn gydnabyddus. Os ydych chwi yn ymddiried yn Nuw, ac yn gwneuthur eich dledſwydd, efe a ofala droſoch: Ac er eich bod weithiau mewn cyfyngder, etto eich angen a geiff yn oeſtad ei gyflownu. Ac i ragachub eich tlodi; gadewch i mi yn enwedig eich rhybuddio chwi yn erbyn y pechod cyffredin ac a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ifeiliaidd o Feddwdod, yr hwn ſydd yn dwyn yr aflwydd hwn a llawer eraill gyd ag ê, fel yr adroddais i chwi o'r blaen. Yn ddïau mae yn rhwyſtr pob daioni, ac yn arwain dynion i bob mâ<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ar bechod a thrueni. Y drygioni hyn ſydd yn gwneuthur mwy o Gardottion nag un achos arall. Gan hynny, os oes gennych ddarbod yn y bŷd dros ei<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Teuluoedd, dim cariad i Enaid na Chorph, gocheiwch bob glothineb a gormodedd. Bwyttewch ac yfwch yn gymhedrol, fel y bo gorau ar lês eich iechyd, ac yn eich gwneuthur yn gymhwyſach i waſanaeth Duw, ac i'ch galwedigaethau eich hunain.</p>
+               <p>Ac yn ddiwaethaf, gochelwch y pechod ffïaidd o Butteïn<g ref="char:EOLhyphen"/>dra, yr hwn yn fynych iawn ſy'n cadw cwmni â meddw<g ref="char:EOLhyphen"/>dod, ac mor fynych yn dwyn melldith Dduw, ar Gyrph dynion ac ar a feddont hefyd. Ac i'ch cadw eich hunain mewn diweirdeb, gochelwch <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eguryd, yn gyſtadl ag anghymedroldeb. A ffowch oddïwrth gyfeillach ddrwg ac anllywodraethus, lle 'r ydych yn debyg i gael eich hudo a'ch maglu: ac na wnewch cymmaint a'ch cynnwys eich hunain mewn neb rhyw feddyliau a dymuniadau aflan,
+<pb n="52" facs="tcp:174199:28"/>
+nac yn ſiarad diflaſrwydd nac mewn un math ar ymar<g ref="char:EOLhyphen"/>weddiad ac ymddygiad gwammal. Er mwyn rhagflaenu pob drygioni o'r fâth hyn, Duw a gynhwyſodd Briodas, yr hon a ddywedir ei bod yn anrhydeddus ym mhawb<g ref="char:EOLhyphen"/>eithr Putteinwŷr a Godinebwŷr a farna Duw, <hi>Heb.</hi> 13.4. Gan hynny y rhai ydynt yn y cyflwr hwnnw, ymgadwant yn gaeth ac yn gywir i'w hadduned-Brïodas: A'r holl rai priodol ac ammhrïodol, ymgadwant mewn Corph ac enaid mor ddiwair ac mor bur ag y gallo Yſpryd Sanctaidd Duw gyfanneddu yn awr yn eu calonnau, ac y byddont hwythau addas i gyfanneddu ym mhreſenoldeb y Duw tra Sanctaidd byth.</p>
+               <p>Ac fel hyn y darfu i mi ar fyr roi cyfrif i chwi ym mha beth y mae Buch<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dd Sanctaidd yn gynnwyſedig, yr hon y mae yr holl Griſtnogion yn rhwym i'w dilyn yn ôl Athrawiaethau ein Hiâchawdwr Bendigedig, ac yn ôl eu hadduned yn eu Bedydd, yr hon ſydd yn eu rhwymo hwynt i gadw ei Ath<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>awiaethau, ac i ddilyn ei Eſampl ef, yr hwn ei hun a fu fyw yn yr unrhyw fodd Sanctaidd ag y dyſgodd; ag a orchmynnodd i'r rhai oll <hi>a ddywedont eu bôd yn aros ynddo ef, rodio megis ag y rhodiodd ef.</hi> 1 Ioan. 2.6. Mae gennych mewn ychydig eiriau ſwm y cwbl y un<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e 'r Efengyl, yn ei ddyſgu, ſef y dylem ni <hi>wadu annuwioldeb a chwantau hydol, a byw yn ſobr, ac yn gyfiawn, ac yn dduwiol, yn y byd ſydd yr awr bon.</hi> Tit. 2.11, 12.</p>
+               <p>Ac yn awr gadewch i mi etto ddymuno arnoch yſtyri<g ref="char:EOLhyphen"/>ed yn ddifrifol, a fu eich gofal chwi i fyw yn y cyfryw Sanctaidd a daionus fuchedd, ai nad dô. Ac ym mha beth bynnag y bo eich Cydwybod yn eich cyhuddo ddar<g ref="char:EOLhyphen"/>fod i chwi eſceuluſo y dledſwyddau a orchymmynnodd Duw, neu wneuthur o honoch y pechodau a waharddodd ef, cydnabyddwch a chyffeſſwch yr unrhyw yn oſtyngedig o flaen yr holl alluog Dduw, gyda gwîr driſtwch duwiol am danynt, gan erfyn yn oſtyngedig am Drugaredd a Maddeuant er mwyn Chriſt, yr hwn a fu farw ar y Groes dros bechaduriaid, a thrwy ba un y caiff pawb ar a gyffeſſant eu pechodau ac a ymwrthodant â hwynt, dru<g ref="char:EOLhyphen"/>g<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>dd. Am hynny ymrowch chwi o hyn allan drwy <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i
+<pb n="53" facs="tcp:174199:28"/>
+râs ef i ymwrthod a'ch pechodau ac i wellhâu eich bu<g ref="char:EOLhyphen"/>cheddau, a gwnewch eich gorau ar gadw Cydwybodau didramgwydd tuag-at Dduw a Dŷn, heb eich cynnwys eich hunain mewn neb rhyw bechod gwybyddus, nac mewn eſgeuluſdra gwirfodd o neb rhyw wybŷddus ddledſwydd. Na wrthddadleuwch yn erbyn hyn, gan ddywedyd, fôd yn ammhoſſibl arwain y cyfryw Fuchedd Sanctaidd: Canys miloedd yn y Bŷd, o bôb Gradd a Chyflwr, a wnaethant hynny ym mhôb Oeſoedd, drwy gynnorthwy Grâs Duw, yr hwn ni bydd fyth mo'i eiſiau arnoch, os chwi a'i ceiſiwch yn ddïfrifol, ac a wnewch y gorau o honaw drwy ddïwydrwydd. Ac er y gall fôd yn y cyntaf beth anhawſder yn ymadel a ffordd ddrwg, etto bob ychydig yr eiff yn haws, ac yna ni chewch chwi ddim mor felys ac mor hyfryd a Chrefydd a Rhinwedd.</p>
+               <p>Ac na thybiwch, attolwg, na pherthyn i Bobl Dlodion feddwl am fod mor grefyddol a duwiol; a bod hyn yn unig i'r rhai Goludog, y rhai nid oes ganthynt, ond ychydig arall i'w wneuthur. P'am, oni ofelwch chwi ſydd Dlodion gymmaint am eich Eneidiau eich hunain a'r Cyfoethogion, ac aſtudio i fôd yn ddedwŷdd yn gyſtadl a nhwythau? Fel hyn y byddwch chwi megis yn gyd-radd a hwynt, ïe yn ddedwyddach o lawer nag hwynt-hwy yn y byd hwn, oni bydd Daioni ynddynt yn gyſtal a Mawredd. Beth ſydd yn yr hyn oll a ddywedais i, nad all, ïe, y tlottaf ei gyflawnu o' bydd meddwl ewyllyſgar ganddo. Onid ellwch chwi garu Duw a'ch Cymmydog, a bôd yn ſobr ac yn ddiwair, yn addfwyn ac yn oſtyngedig, a gweddïo ar Dduw a moliannu ei Enw, <hi>&amp;c.</hi> Pa beth? ond dyma'r ffordd orau o lawer i'ch cadw rhag Tlodl, neu i'ch gwared allan o honaw? Onid ydyw hi yn rhattach o lawer i fyw yn ſobr ac yn oneſt, na byw mewn meddwdod a phutteindra a'r cyfryw bechodau Difrodus? Oni chŷſt i chwi fwy o lawer fyned i'r Gyfraith o ran Ymddïal, na maddeu cam? Mwy a gŷſt cynnal un drygioni na dêg o Rinweddau. Ac mae 'n hygoel gennif fôd mwy o Deuluoedd yn cael eu dwyn i Dlodi wrth ryngu bôdd i'w Trachwantau, nag wrth ddarparu i'w Plant, pa nifer
+<pb n="54" facs="tcp:174199:29"/>
+bynnag a fyddont. Onid yw 'n well o lawer dybygech chw<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> chwi eich hunain a'ch Teuluoedd dreulio Dydd yr <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>glwydd yng-ngwaſanaeth Duw yn gyhoedd ac yn ddl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gel, neg yn afradloni eich amſer a'ch arian yn y Tŷ cwrw<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>: <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>awf beunyddiol a ddengys nad Crefydd, eithr diffyg o <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on. ſydd yn gwneuther Dynion yn dlodion ac yn re<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ynol eu helynt. Heb law fod gan y cyfryw Bobl dda <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>endith a ffafor Duw, fel y dangoſais i yn ba<g ref="char:EOLhyphen"/>rod, a chan hynny fe fydd ef yn ſicc<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> o ofalu droſtynt hwy a thros yr eiddynt.</p>
+               <p>Ac attolwg na thybiwch y byddwch chwi cadwedig yn unig o herwŷdd eich bod yn dlodion: Canys os drygio<g ref="char:EOLhyphen"/>nus ac annuwiol ydych, chwi a fyddwch yn ſiccr yn druenus a greſynol yn y Bŷd neſſaf yn gyſtadl ac yn hwn. Nid oblegid ei fôd yn dlawd y bu <hi>Lazarus</hi> cadwedig, eithr oblegid ei fôd yn ŵ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> da a duwiol: Ac o'r tu arall, ni ddamnwyd <hi>Diſes</hi> am ei fod yn oludog, ond o herwŷdd ei fod yn rhy drythyll ac yn falch, ac wedi ymroi yn hollawl i beſgu ac i ymdrwſſio ei Gorphyn gwael.</p>
+               <p>Gadewch i mi ym mhellach eich rhybuddio chwi yn erbyn dau neu dri o gamgymmeriadau peryglus, y rhai ydynt yn caledu nifer mawr o Ddynion yn eu pechodau. Gochelwch dybio mai dîgon i Ddyn fod wedi ei fedyddio a chawdw ei Eglwys, a myned i'r Gweddiau a'r Pregethau, ac weithiau i'r Cymmun, a dywedyd ei Weddïau yn ddirgel, fod hyn yn ddigon i'w brofi ef yn Griſtion da ac i'w wneuthur yn ſiccr o Iechydwriaeth. Hyn oll ſydd dda iaw<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, ond ni waſnaetha hyn mo'r trô, oni bydd ein calonnau ni felly wedi eu cwbl-Sanctciddio drwy Ras Duw fel y bo i ni garu Duw uwchlaw 'r cwbl oll, a goſod ein calonnau ar orfoledd y Nefoedd, a charu ein Cymmy<g ref="char:EOLhyphen"/>dogion, a b<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d yn gywir ac yn union ym mhob peth a wnelom, b<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d yn gymhedrol ac yn ddiwalr yn ein hymarweddiad, fel y mynegwyd o'r blaen. A hyn yw diben mawr Gweddïau, Pregethau a Sacramentau, ſef ein gwneuthur ni fwy-fwy yn Sanctaidd mewn calon a bu<g ref="char:EOLhyphen"/>chedd: Heb pa un y bŷddwn ni yn hyttrach yn waeth nag yn well o'u plegid. <hi>Matth.</hi> 7.21, 22, 23.</p>
+               <p>
+                  <pb n="55" facs="tcp:174199:29"/>Na fyddwch cyn wanned a thybio y gellwch-chwi fod yn gadwedig drwy grediniaeth dda yn unig, drwy eich Ffydd yng Nghriſt, ac ymddiried yn Nuw, heb Ufudd<g ref="char:EOLhyphen"/>dod i'w orchmynnion. Er mŵyn Chriſt yn unig y bydd<g ref="char:EOLhyphen"/>wch chwi cadwedig, eithr ni cheidw ef neb ond y rhai a ufuddhânt iddo. <hi>Heb.</hi> 5.9. A'r wîr ffydd gadwedigol yn unig, yw 'r hon ſydd yn puro'r galon, ac yn dwyn allan Ufudd-dod, fel y clywſoch chwi o'r blaen. A chan ddywedyd o Dduw i ni yn eglur nad allwn ni mo'r bôd yn gadwedig heb Sancteiddrwydd, Os byddwn ni mor ffôl neu ynfyd a choelio y gallwn ni fôd yn gadwedig hebddi, nid ymddiried yn Nuw yw hynny, eithr yn ein drwg-dyb ein hunain a thwyll y Cythraul. Ni a allwn ymddiried yn ddîogel yn addewidion Duw, eithr yna edrychwn ar i ni gyflawnu 'r ammodau, a dyfod i fôd yn gyfryw bobl oſtyngedig, Sanctaidd, ag yr addawodd efe er mŵyn Chriſt eu cydnabod a'u hachub.</p>
+               <p>Gochelwch hefyd gam-gymmeryd natturiaeth edifeir<g ref="char:EOLhyphen"/>wch, fel pe byddai hi ddim ond ein bod ni yn ychydig yn drwm ac yn driſt o herwŷdd ein pechodau, a chrïo ar Dduw am drugaredd, ac yna fôd pob peth yn dda, er i ni barhau i fyned rhagom yn ein hên ffyrdd. Eithr hwn ſydd gam-gymeriad tra-pheryglus. Canys nid yw dŷn fyth yn gwîr-edifarh<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u hyd oni ymwrthodo ef a'i bechod a chyfnewid ei fuchedd: Pan ddêl y Meddwyn i fod yn ſobr, a'r Gŵr halogedig yn ddefoſionol Addolwr Duw, a pharhau felly. Gwir Edifeirwch ſydd yn newid calon a buchedd y pechadur.</p>
+               <p>Ac yn ddiweddaf, na thybiwch mai digon yw ymwr<g ref="char:EOLhyphen"/>thod a rhai pechodau a chadw eraill; gwneuthur rhai dledſwyddau da ac eſgeuluſo eraill, ac yna eich eſguſodi eich hunain gan ddywedyd mai <hi>eich gwe<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>id</hi> chwi ydŷw. <hi>Nid oes neb heb ei wendid, a hwn yw fy un<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</hi> Felly y dywed y Meddwŷn a'r Putteiniwr, ac felly y dywed y Gwr digllon pan dyngo neu rego, neu pan roddo efe Dafod drwg. Eithr y cyfryw bechodau ag a wneir yn erbyn gwybodaeth <hi>a</hi> Chydwybod, ac y parhaer ynddynt o amſer i amſer, pan gaffom egwyl i feddwl ym mlaen llaw
+<pb n="56" facs="tcp:174199:30"/>
+ac i'w rhagflaenu hwynt, mae y rhai'n i'w cyfrif megis pechodau gwirfodd, ac nid megis gwendid. Yn en<g ref="char:EOLhyphen"/>wedig y cyfryw bechodau dirfawr a Meddwdod, Puttein<g ref="char:EOLhyphen"/>dra, mynych-dyngu neu ddywedyd celwydd a'r cyffelyb, nid ydynt i'w cyfrif megis gwendid. Yn ddiau pa be<g ref="char:EOLhyphen"/>chod bynnag y bo dŷn yn ei garu ac yn dadleu droſto, ac hefyd yn ei gynnwys ei hun ynddo, nid gwendid pur ydyw eithr troſeddiad gwirfodd Mae Gwr da yn cashâu pob pechod megis clefyd, ac yn ymegnio, yn gwilio ac yn gweddïo, yn ei erbyn. Mae efe yn cashâu pob gau lwybr, a chantho barch i holl Orchmynnion Duw. Rhaid i wir Griſtion fod yn wr da didwn, yn gyfan-gwbl oll. Mi a welaf mai peth mawr ydyw hi gyda nifer o bobl, nad ydynt yn gwneuthur cam â neb, ac nad oes gaſneb yn eu calonnau, gan hynny maent yn eu tybied eu hunain mewn cyflwr da tuag-at Dduw. Ond er bod hyn yn un rhan dda o'n dledſwydd ni, etto nid yw ond rhan o honi. Rhaid i ni hefyd edrych rhag i ni wneuthur cam a'r Holl-alluog Dduw ac a'n Heneidiau ein hunain, gan oſod ein calonnau yn bennaf ar y Byd hwn, drwy eſgeuluſo ei Addoliad a'i Waſanaeth, drwy fyw mewn gormodedd neu aflendid neu neb rhyw bechod gwybydd<g ref="char:EOLhyphen"/>us arall. Rhaid i ni fod yn dduwiol tuag-at Dduw, yn gywir i'n Tywyſog, yn gyfiawn ac yn gariadus tuag-at ein Cymmydog, yn oſtyngedig ac yn ſobr, ym mhob modd yn ſanctaidd ac yn dda, os profwn ni ein bod ein hunain yn Griſtnogion mewn gwirionedd. Yr hwn o'i wirfodd a droſeddo mewn un Pwngc ac a'i cynhwyſo ei hun yn hynny, ſydd mewn effaith yn euog o dorri 'r holl Gy<g ref="char:EOLhyphen"/>fraith: Canys mae efe yn dirmygu awdurdod Duw; ac os cyferfydd ef â'r un brofedigaeth, efe a wnâ neb rhyw bechod arall. Ac fel y dywedir yn wîr ac yn gyffredinol yn yr achos yma, un brâth er na bo ond â chyllell Pin<g ref="char:EOLhyphen"/>yſgrifennu a all archolli dŷn mor farwol, a phe gwneid ef ugeinwaith a Chleddyf; felly caru un pechod ac ymhyfrydu ynddo a all ddamnio Enaid Dŷn cyſtadl a mîl. <hi>Iago</hi> 2.10.</p>
+               <p>Wedi i mi fel hyn ar fyr ymegnïo i ſymmud eich gwrth<g ref="char:EOLhyphen"/>ddadleuon a'ch Camgymmeriadau, Yr wyf fi yr awr hon
+<pb n="57" facs="tcp:174199:30"/>
+etto yn y lle diwaethaf, yn dyfod i daer gymmell fy Annogaeth, ar ymroi o honoch yn ddifrifol ac yn ddiyſgog i daflu ymmaith bob pechod, a'ch cyflwyno eich hunain yn gwbl i arwain y cyfryw Fuchedd dduwiol, gyfiawn, a ſobr, ag yr ydych chwi yn rhwym iddi wrth eich Bedydd Chriſtnogawl. Os ydych chwi mewn ymdrech a chwi eich hunain, pa un a wnewch chwi ai ymroi yn gwbl at hynny, ai peidio, edrychwch attolwg dros y Rheſymmau a oſodwyd ar lawr o'r blaen, a dwys-yſtyriwch hwynt yn eich meddyliau; ac yna ſiccr ydyw na ellwch na chydna<g ref="char:EOLhyphen"/>byddoch, Nad ydwyf yn annog mo'noch i ddim, ond yr hyn ſydd dra-uniawn a rheſymol, ac ym mhob ffordd er y daioni mwyaf i chwi eich hunain. Ac os gorfuwyd chwi fod y peth hvn felly yna ewch rhagoch allan o law i'r llawn-fryd Duwiol hwn, heb odechial nac oedi. Pwy cyntaf y gwneloch hyn, dïogelaf ydyw, a gorau ar eich llês. Nad ewch ym mlaen mewn pechod yr amſer preſennol, drwy wneuthur lliw o edifarhau yn ol hyn, pan eloch yn hŷn, neu yn glaf, ac agos i farw. Na oedwch mo achos mawr eich Bywyd hyd ddiwedd eich dyddiau, pan nid ydych chwi yn ſiccr o amſer neu allu, neu o gynnorthwy Duw, neu o fod yn gymeradwy ganddo. Na ddadleuwch mo eſampl y Lleidr ar y Groes: canys nid oedd ei gyflwr ef debyg i'r eiddoch chwi, y rhai a gaw<g ref="char:EOLhyphen"/>ſoch hîr fwynhad cynnygion gras a thrugaredd. Os yn awr o'r amſer preſennol ymma allan y trowch chwi at Dduw yn gyfan gwbl ac yn ddiragrith, nid oes mo'r achos i chwi i anobeithio am ei drugareddau, pa nifer neu faintioli bynnag a fu eich pechodau: ond os chwi a barhewch etto mewn pechod, gan ryfygu ar drugaredd Dduw rhag llaw, mae i chwi achos cyfiawn i ofni, y gall y rhyfyg anturus hwn, a'r camarfer ofnadwy o ras Duw, ddibennu yn eich tragwyddol ddiniſtr chwi a'ch damnedigaeth.</p>
+               <p>Eithr os ydych chwi yn ewyllyſgar yr awr hon i gym<g ref="char:EOLhyphen"/>meryd yn bryſſur yr Ymroad a'r Llawnfryd hwn mewn llaw, gadewch i mi ar ychydig eiriau, eich hyfforddi chwi ym mhellach, pa fôdd y mae i chwi ei wneuthur
+<pb n="58" facs="tcp:174199:31"/>
+yn ga<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>n ac yn barhaus, ac y bo i chwi gael eich nerthu yn <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> gyflawnu yr unrhyw.</p>
+               <p n="1">(1.) Ac yn gyntaf, mi a'ch cynghorwn chwi i gym<g ref="char:EOLhyphen"/>meryd yr odfa gyfleus neſſaf i gadarnhau y Llawnfryd Sanctaidd hwn wrth fwrdd yr Arglwydd. Yno parchus<g ref="char:EOLhyphen"/>adnewyddwch eich Adduned fedyddiol. Cyflwynwch a rhowch chwy-chwi eich hunain i fynu i Dduw 'r Tâd, y Mâb, a'r Yſpryd glan; gan ymwrthod a Diafol, y Bŷd, a'r Cnawd, ac a'r holl ffyrdd drygionus y mynnent hwy eich tynnu chwi iddynt, yn fwy enwedigol y pechodau hynny, y rhai y buoch chwi o'r blaen euoccaf o honynt. O hyn allan, Cymerwch yr Arglwydd Ieſu a'ch prynnodd chwi â i waed, am eich unig Arglwydd a'ch Athro, i'ch llywodraethu drwy ei Yſpryd a'i Gyfreithiau, fel yr ydych chwi fŷth yn dymmuno ac yn go<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eithio cael bod yn gadwedig drwy ei Farwolaeth a'i Adgyfodiad ef. Ac arferwch yn fynych gofio Rhwymedigaeth parchus hwn, cyn gynted ag y darfu i chwi ei wneuther: fel y bo iddo gael ei rym a'i waith dledus arnoch, pan fydd<g ref="char:EOLhyphen"/>och dan brofedigaeth i ŵyro ar neb rhyw arfer ddrygio<g ref="char:EOLhyphen"/>nus drachefn. Ail ſiccrhewch yn aml y rhwym hwnnw rhwng Duw a'ch Enaid eich hun; ac yn enwedig adnewyddwch ef drwy fynych ddiſgwil wrth Dduw yn y Cymmun <gap reason="illegible" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>aidd, gan geiſio yno râs a nerth ganddo ef, i rodio yn ddiyſgog ac yn ddïanwadal yn ei ffyrdd Sanctaidd ef.</p>
+               <p n="2">(2.) Eithr hynny a'm dŵg i at ail hyfforddiad, na ddylech chwi mo'r ymroi i hyn oll, gan hyderu ar eich nerth eich hun, eithr mewn goſtyngeiddrwydd rhoddi eich pwys ar râs Duw, yr hwn y mae efe bob amſer yn ewyllyſgar i'w gyfrannu i'r cyfryw rai ag a'i ceiſio yn ddifrifol yn y ffordd a oſododd efe, drwy ddledus ddiſ<g ref="char:EOLhyphen"/>gwil wrth foddion Gras, y Gair, Gweddi, a'r Sacramentau. Gan hynny fel y bo amſer cyfaddas gennych, deliwch ſulw yn ddyfal ar ddarllain a gwrando ei Air ef, <hi>a chuddi<g ref="char:EOLhyphen"/>wch ef yn eich Calon, fel na phechoch i'w erbyn.</hi> A byddwch fawr frydig mewn Gweddi ar Dduw ar roddi ei Yſpryd Sanctaidd i chwi, drwy ei fab Ieſu, yr hwn yn nerthol
+<pb n="59" facs="tcp:174199:31"/>
+a eiriol droſoch, ac a wna 'n dda ei Addewidion, i Ymbilwŷr goſtyngedig a defoſionol, Luc 11, 13. <hi>Ioan</hi> 16.23, 24. Pa bryd bynnag y byddoch mewn perygl, ac yn cael goſod arnoch gan neb rhyw brofedigaet<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> i be<g ref="char:EOLhyphen"/>chu, neu eich bod yn hŵyrfrydig i'r hyn ſydd dda, y pryd hwnnw yn enwedig gweddiwch am fywiol a nerthol Ras, a'ch Gweddiau ni byddant ofer.</p>
+               <p n="3">(3.) At eich Gweddïau, angwhanegwch ddyfal wiliadwiaeth droſoch eich hun bob amſer, ym mhob lle, ac ym mhob Cyfeillach. Gwiliwch ar eich meddy<g ref="char:EOLhyphen"/>liau, eich geiriau, a'ch gweithredoedd. Mae Satan yn oeſt<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d yn diſgwil in twyllo ni, ac mae llawer o faglau a pheryglon yn ein holl ffyrdd ni, ac <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e gennym Naturia<g ref="char:EOLhyphen"/>thau llygredig a Chalonnau twyllodrus, ac am hynny anghenhaid i ni fod yn wiliadwrus iawn, i ochel po<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> achlyſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r o bechod, hyd y bo poſſibl, ac i'w gyfar<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ngi yn y dechreuad cyntaf. Yſtyriwch ymmlaen llaw pa brofedi<g ref="char:EOLhyphen"/>gaethau yr ydych yn debyg i gyfarfod a hwynt, ac ymar<g ref="char:EOLhyphen"/>fogwch yn erbyn y rhai nid alloch eu gochel. Na red<g ref="char:EOLhyphen"/>wch <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o'ch gwirfodd i Berygl, yn enwedig, gochelwch Gyfei<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>c<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> d<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rwg, drwy ba un y tyn<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ir llawer yn ôl i'<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> hanlly wodraeth cynnefin. Na arweinier chwi ymmaith drwy eu Cyngor neu 'u Heſamplau, ac na lwfrhaer chwi drwy eu barn a'u gwatwor hwynt. Y<gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>erwch yn fynych o edrych yn ôl, ar eich Gweith<gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>edd, ac os tynnwyd chwi i neb rhyw bechod gwirfodd, na wnewch Yſgafn-beth o honaw, nac etto anobei<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hio o Faddeuant, os gwîr edif<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r h<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wch. Gan hynny, yn bryſſur ac yn, dd<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ifo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> y <gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>wch a Duw drwy <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> edifeirwch, gan er<g ref="char:EOLhyphen"/>fyn <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>iant er mwyn Chriſt, ac ychwaneg o Ras i'ch cadarnhau a'ch cynnorthwyo<g ref="char:punc">▪</g> Adnewyddwch eich Am<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nion o wellhad Buchedd, a goſodwch eich Gwiliad<g ref="char:EOLhyphen"/>wriaeth yn gaethach o hyn allan.</p>
+               <p n="4">(4.) I'ch bywioccau ac i'ch rhwymo i'r Willadwriaeth hon, Cofiwch fod yn holl-alluog Dduw yn ouſtad yn bre<g ref="char:EOLhyphen"/>ſenol gydua chwi, ac yn craffu ar eich holl ffyrdd, ac yn ymhyfrydu yn fawr yn eich Duwioldeb a'ch Sancteidd rwydd, ond ſydd o olygon purach nag yr edrych a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="60" facs="tcp:174199:32"/>
+yr anwiredd lleiaf drwy ddim bodlonrwydd. Gan hynny, rhodiwch yn oeſtadol megis ym mhreſennoldeb y Duw Sanctaidd hwn, pa un bynnag ai ar eich pen eich hun ni mewn Cyfeillach y byddoch.</p>
+               <p n="5">(5.) Cofiwch yn fynych, pa mor agos î Fŷd arall yr ydych yn ſefyll, a pha gyfrif a fydd raid i chwi ei roddi i Dduw, o'ch holl Weithredoedd a wnaethpwyd yn y Corph; a byddwch fyw felly yr awr hon, fel y bo mwyaf cyſſurus i chwi yn amſer Marwolaeth a Barn. Pan fo difyrrwch a mwyniant pechod yn eich llithio, cyfelyb<g ref="char:EOLhyphen"/>wch hwynt â'r Gorfoledd tragwyddol y difuddiant hwy chwi o honaw, ac a'r Penyd tragwyddol y maent yn eich arw<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n iddo, Myfyriwch a ddarfu i neb rhyw ddyn eri<g ref="char:EOLhyphen"/>oed wrth bechu yn erbyn Duw, ennill rhyw beth ſydd well na'r Nef, neu a dâl fyned i Uffern am dano. Bydded Tragwyddoldeb yn fawr iawn yn eich meddyliau, a Gwagedd diflannedig y Byd a fydd o gyfrif bychan gyd a chwi. Dŵys-yſtyriwch yn fynych y Geiriau pwys-fawr hynny o'r eiddo ein Hiachawdwr Bendigedig, <hi>Pa leſhad i Ddyn os en<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ill yr <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ll Fyd a ch<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>l ei En<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>id ei h<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n? Neu pa b<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>th a rydd Dyn yn gyf<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>wid am <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Enaid?</hi> Marc 8.36, 37.</p>
+               <p>Yn ddiwe<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>f, yn lle chwaneg o Hyfforddiadau, gad<g ref="char:EOLhyphen"/>ewch i mi eic<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nghori chwi i'ch. gwneuthur eich hun yn gydnabyddus a'ch Gweinidog; ac i ymgynghori ag ef ym Mherthynaſau mawrion eich Enaid, fel y mae Gwŷr yn gynnefin o wneuthur a'r Cyfreithiwr a'r Phyſſygwr, mewn achoſion perthy<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l i'w Cyrph a'u Meddiannau. Na thy<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ich mai digon yw gwrando ei Bregethau ef ar gyhoedd; eithr cymmerwch Gyngor ganddo ef yn ddirgel, ac agorwch iddo ef gyflwr a helynt eich Enaid, cyn belled ag y gallo efe roddi i chwi y cyfryw Hyfforddiadau ag ydynt fwyaf cyfaddas i'ch Cyflwr. Hyn yn enwedig a ddylech chwi ei wneuthur, pan eloch chwi gyntaf i gychwyn ar Fuchedd Sanctaidd, a phan ddyneſoch chwi <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> hun gyn<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>af i'r Cymmun Sanctaidd; neu pan fyddoch dan neb rhyw amheuaeth ddirfawr, ac aflony<g ref="char:EOLhyphen"/>ddwch meddwl; neu yn cael eich cythryblu gan brofedi<g ref="char:EOLhyphen"/>gaethau blinion, o'r naill fath neu 'r llall; neu pan oſoder
+<pb n="61" facs="tcp:174199:32"/>
+a<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>och gan y cyfryw rai ag a fynnent eich tyn<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ch<g ref="char:EOLhyphen"/>wi oddiw<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th ein Heglwys ni, naill ai i Babyddia<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>, <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eu i neb rhyw Sect arall yn ein plith ni. Yna yn ebrwydd ymgeiſiwch a'ch Gweinidog; ac yn yr Achoſion hyn neu'r cyfryw, cymmerwch eich hyfforddi ganddo ef, a byddwch ſiccr o ddilyn ei Gyngor iachus, a dymunwch ei Weddïau ef ar Dduw droſoch. Mi a wn mewn Plwyfi mawrion, na ddichon Gweinidogion gael hyſpyſrwydd neilltuol o bob Dyn; etto y rhai oll a wyddant faint a dal Eneidiau, a'r pridwerth a roddwyd droſtynt, a fyddant barod i edrych at y rhai gwaelaf o'u Pobl, ar a'u dyneſſant eu hunain attynt am Gyngor a Chyſſur, ac a ymorfoleddant o herwŷdd pob Cyfleuſdra a gaffont i dderchafu Anrhydedd a Hawl eu Hiachawdwr, a daioni yr Eneidiau gwerthfawr a orchmynnwyd dan eu Gofal hwynt.</p>
+               <p>Ac fel hyn y darfu i mi mor eglur ac mor gyflawn ag y gallwn ni yn iawn mewn lle mor gynnwys, eich hyfforddi chwi yn y ffordd Sanctaidd honno ſydd yn arwain i ogoniant tragwyddol; ac a ddangoſais i chwi pa Reſwm mawr ſydd i chwi i rodio yn y ffordd honno, ac i barhau ynddi hyd y diwedd. Ac i'r rhai a ddymunent Hyfforddiadau helaethach, yn neſſaf at y<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Yſgrythyrau Sanctaidd (yr rhai yr ydwyf yn dymuno arnoch eu darllain yn aml gyd-a goſtyngeiddrwydd <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ifrifwch, yn enwedig y Teſtament Newŷdd) yn neſſaf attynt, me<g ref="char:EOLhyphen"/>ddaf, mi a'ch cyfeiriaf yn unig at y Llyfr duwiol tra<g ref="char:EOLhyphen"/>defnyddiol, a elwir, <hi>Holl Ddledſwydd Dyn.</hi> Ac mi a ddymunwn o ddifrif calon, fod pob Teulu tlawd yn y Deyrnas, wedi darparu iddynt un o'r Llyf<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>u hynny, ynghyd a Bibl a Llyfr Gweddi Cyffredin, y rhai oll a ellid eu cael er ychydig arian; gan hynny greſyndodd mawr a fyddai eu bod yn un lle yn ddeffygiol. Er yſywaeth, y gwn i, fod llawer Teulu o Bobl dlodion, lle na fedr neb o honynt ddarllain, ac felly Llyfrau ydynt annefnyddiol iddynt. Eluſendod-mawr gan hynny a fyddai h<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> i Feiſtred tiroedd goludog ac i Fonneddigion, edrych a roddi plant eu Tenantiaid a'u Cymmydogion <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>od <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> allan i'r Yſgol, ac wedi hynny rhoi iddynt o'r hyn lleiaf
+<pb n="62" facs="tcp:174199:33"/>
+Fiblau yn rhâd, fel y derchafer gwybodaeth o Dduw a Chrefydd yn eu myſg; yr hyn a fyddai er mawr ddaioni a llês i'r Eglwys a'r Deyrnas. Canys er gwneuthur o opiniwnau ymmennyddgla' a gau Egwyddorion, Ddynion yn feilchion ac yn wargaledion, ac yn drafferthus i'w Llywiawdwŷr, etto Gwybodaeth iachus, a gwîr Dduw<g ref="char:EOLhyphen"/>ioldeb, a wneiff Ddynion yn oſtyngedig ac yn addfwyn, yn llonydd ac yn dangnheddyfol; yn Ufudd i Swyddogi<g ref="char:EOLhyphen"/>on, yn llawn Cariad. i'w Cymmydogion, ac yn barod i bob Gweithred dda. Ac mae yn ddïogel gennif mai cyn<g ref="char:EOLhyphen"/>nydd y Dymmer wîr Grefyddol hon, a fyddai un o'r Ben<g ref="char:EOLhyphen"/>dithion mwyaf a ellid ei rhoddi ymma ar y Ddaiar, ac a ſefydlai Deyrnaſoedd ac Eglwyſi, Trefydd a Theuluoedd mewn Tangnheddyf a Chyttundeb, y rhai ydynt ym mhob lle agos wedi ymrannu yn eu myſg en hunain, yn gyſtadl ac yn erbyn y naill y llall: A thrwy y cyfryw effeithiau bendigedig o wîr Grefydd, y dygid peth o'r Nefoedd i lawr ar y Ddaiar, ac y gwir-gymhwyſid ein Heneidiau ni i'r Nefoedd, pan alwer ni ymmaith o'r Ddaiar hon, i'r Preſwylfeydd dedwyddol hynny uchod, lle nid oes dim arall ond Tangnheddyf a Sancteiddrwydd, a Chariad a Gorfoledd. Ac rhynged bôdd i Dduw fendi<g ref="char:EOLhyphen"/>thio 'r Athrawiaethau eglur byrrion hyn er goleuo neb rhyw feddyliau â'r <hi>Docthineb hwnnw oddiuchod,</hi> yr hwn ſydd fel hyn <hi>yn bûr ac yn heddychol:</hi> yna y câf fwynhau fy amcan, ac achos mawr i fôd yn ddiolchgar. Ac fel y bo i'r Darllenydd uno a myfi yn y Dymuniadau hyn, Mi a gyſſylltais at hyn ymma Weddi am Râs. i arwain Buchedd Sanctaidd. Ac os gwna efe ond 'chwanegu diwŷd ym<g ref="char:EOLhyphen"/>egnïadau at aml a gwreſog Weddïau, ni bydd na'i Lafur ef na 'm un innau yn anfuddiol, trwy Râs a Bendith yr Holl-alluog Dduw, oddïwrth ba un y daw pob rhoddiad daionus a phob rhodd berffaith, i'r hwn y traddoder yr holl Anrhydedd a'r Gogoniant, yr awr hon ac yn dragy<g ref="char:EOLhyphen"/>wydd. <hi>Amen.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="prayer">
+            <pb n="63" facs="tcp:174199:33"/>
+            <head>
+               <hi>GWEDDI,</hi> Yn bennaf am gynnorth<g ref="char:EOLhyphen"/>wy gras Duw mewn trefn i arwain <hi>Buchedd</hi> Sanctaidd.</head>
+            <p>
+               <hi rend="margQuotes">O Sancteiddiaf, a bŷth fendigedig Arglwydd Dduw, yr wy'n oſtyngedig yn fy nhaflu fy hun ger dy fron, gan gydnabod a galaru am fy mhechodau, ac erfyn yn ddifrifol dy râs di a'th drugaredd trwy 'r Arglwydd Ieſu, ein hunig Gyfryngwr a'n Dadleuwr. Yr wyf yn cyffeſſu, o Dduw, fy mod yn bechadur gwael, wedi fy halogi o'r Grôth: eithr er pan ddaethym i wneuthur defnydd o'm Rheſwm, mi a'm halogais fy hun a llawer o droſſeddiadau gwirfodd ac echryſlon, Mi a eſgeuluſais yn reſynol dy Wa<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>anaeth di, ac a ddïanrhydedd<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is
+<pb n="64" facs="tcp:174199:34"/>
+dy Enw, ac a fûm yn fawr-ddeffygiol yn y Dledſwydd<g ref="char:EOLhyphen"/>au hynny ſydd arnaf i ti fy Nuw, i'm Cymmydog, ac i'm Henaid fy hun; ac ni ddarfu i mi fyw yn y cyfryw fodd duwiol, cyfiawn, a chariadus, ag y dylaſwn: Eithr mi a aml weithredais yng ngwrthwyneb i'm Rheſwm a'm Cydwybod fy hun, ac i Athrawiaethau eglur dy Air, ac yng ngwrthwyneb i'm Haddewidion a'm Haddunedau fy hun, o Ufudd-dod gwell. O Ar<g ref="char:EOLhyphen"/>glwydd dyro i mi olwg eglur o'm pechodau, a'r cyfryw ddwys ymſynniad o ddrygioni fy ffyrdd, fel y bo fy Nghalon yn wîr ddaroſtyngedig, ac yn ddrylliedig yn y goffadwriaeth o honynt. Ac er mwyn yr Arglwydd Ieſu, yr hwn a fu farw dros Bechaduriaid, bydd drugarog wrthif, O Dad y Trugareddau, maddeu fy hôll Anwireddau, ac na choffer hwynt i'm herbyn er fy Namnedigaeth, naill ai yn y Bŷd hwn, ai 'r hwn ſydd i ddyfod, Ac nid maddeuant yn unig yw 'r hyn yr wyf yn ei erfyn, eithr yr wyf yn dra difrifol yn attolwg i ti trwy dy lan Yſpryd, Sancteiddio o honot fi yng Nghorph ac Enaid, fel gan fod wedi fy ngwneuthur yn bûr ac yn Sanctaidd mewn Calon a Buchedd, y bo i mi dy waſnaethu di yn ddïwyd dros fy holl ddyddiau ar y Dd <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iar, ac felly eacl dy fwynhau di yn dragwyddol yn y Nefoedd. Yr wyf wedi fy nghwbl orfod, Mai fy nled<g ref="char:EOLhyphen"/>ſwydd i a'm dedwyddwch hefyd yw dy ofni a'th waſ<g ref="char:EOLhyphen"/>naethu di, y Duw mawr gogoneddus, yr hwn a'm gwnaethoſt i ac a'm prynnaiſt, ac hyd yn hyn yn raſu<g ref="char:EOLhyphen"/>ſol a'm cedwaiſt. 'Rwy 'n cynabod mai dy Waſanaeth di yw 'r gwîr fraint, a bod dy holl Ddeddfau yn Sanc<g ref="char:EOLhyphen"/>taidd, yn gyfiawn ac yn dda. Gan hynny 'rwy 'n dei<g ref="char:EOLhyphen"/>ſyfu yn hollawl ymwrthod ac ymadel a phob ffordd ddrwg, ac yn fy nghyflwyno fy hun yn gwbl-oll, i'th waſnaethu a'th fodloni di mewn newydddeb Buchedd. Eithr tydi, O Arglwydd, a wyddoſt wendid a llygredi<g ref="char:EOLhyphen"/>gaeth fy Naturiaeth i: a pha fodd y darfu i mi drwy fy arferion drygionus, fy ngwneuthur fy hun yn fwy gogwy<g ref="char:EOLhyphen"/>ddedig i bechu, yn gyndynnach at yr hyn ſydd dda. O newid ti fy Naturiaeth i yn hollawl drwy dy Râs, fel y cashawyf ac y ffïeiddiwyf bob drygioni, ac fel y cymmerwyf ddifyrrwch yn ffyrdd Duwioldeb a Sanc<g ref="char:EOLhyphen"/>teiddrwydd.
+<pb n="65" facs="tcp:174199:34"/>
+Na letteued un trachwant yn fy enaid i heb ei farw<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>aethu: eithr bydded i ti fy mhuro i a'm glanhau o<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> wrth Falchder a Chybydddod, oddïwrth Genfigen a Digaſedd, ac oddïwrth bob ſerch a deiſyfiadau ammhur ac anniwair, a chyfoethoga fi â holl Radau dy Yſpryd Sanctaidd. Dyro i mi y cyfryw eglur wybodaeth o'th anfeidrol ddaioni, ac o'th holl berffeithrwydd gogo<g ref="char:EOLhyphen"/>neddus, fel y gallwyf yn oſtyngedig, dy ryfeddu a'th a<g ref="char:EOLhyphen"/>ddoli di bŷth, a'th garu di a'm holl Galon ac a'm holl Enaid, a glynu wrthit megis fy unig gyfran, gan gyfrif dy ffafor di o flaen holl fwynlant y Byd hwn. Cyn<g ref="char:EOLhyphen"/>northwya fi yn oeſtad i gadarn-ymddiriedd ynot ti, ac i ado fy holl negeſeuau yn gwbl i'th-ddoeth a'th raſuſol Ragluniaeth di, gan roi i fynu fy Ewyllys fy hun yn llwy r-gwbl i'th Sanctaidd Ewyllys di ym mhob peth. Gwna fi yn wîr ddïolchgar am dy holl drugareddau, ac yn ddioddefgar dan flinderau. Drwy dy addyſg di, dyſg i mi fôd yn fodlon ym mhob Helynt a Chyflwr. Ac o Dduw daionus, na ad i mi yn y rhwyſtrau a'r peryglon mwyaf, anymddiried yn dy drugareddau di, na chym<g ref="char:EOLhyphen"/>meryd neb rhywffordd anghyfreithlon i'm gwared fy hun. 'Rwy yn erfyn gennit fy Mara beunyddiol, ac yn attolwg i ti roi i mi Galon gwbl-fodlon i ymddigonoli ar yr hyn a welych di yn gymmhwyſaf i mi. Dod i mi y cyfryw Yſpryd o Dduwioldeb a Defoſiwn, fel y cymmerwyf ddiddanwch ma<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r yn dy Addoliad a'th Waſanaeth, yn gyhoedd ac yn ddirgel. Llanw fi a'r cyfryw gariad i'm Hiachawdr Bendigedig, ac a'r cyfryw ddiolchgarwch am ei gariad ef yn marw dros Bechaduriaid, fel y bo hyfryd<g ref="char:EOLhyphen"/>ach gennif fyned i'r Cymmun Sanctaidd, er daioni i'm Enaid, nag i'r Wledd wer<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hfawrocc<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f a wneler i'm Corph.</hi>
+            </p>
+            <p>
+               <hi rend="margQuotes">Cymorth fi, o Dduw, i ddangos fy nghariad at dy fendigedig ddaioni di dy hun, drwy ddwyn gwîr gariad ac ewyllys da i'm Cymmydogion. Gwna fi yn hywedd ac yn ufudd i'm Lly<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iawdwŷr yn yr Eglwys a'r Deyrnas, heddychol ac yn addfwyn tuag at bob Dyn, gan wneu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a hwynt mor gyfiawn ac mor uniawn, ag yr ydwyf finnau fy hun yn chwennych gwneuthur a mi. Gwn<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="66" facs="tcp:174199:35"/>
+fi yn dyner ac yn doſturiol, ac yn barod i wneuthur i eraill bob daioni a allwyf; a bydded i'th Râs di fy nghym<g ref="char:EOLhyphen"/>morth i faddeu yn rhwydd i'r rhai a wnant ddrwg i mi, megis ag yr ydwyf finnau fy hun yn gobeithio am dru<g ref="char:EOLhyphen"/>garedd a maddeuant oddïwrthit ti, fy Nuw. A chyn<g ref="char:EOLhyphen"/>northwya fi yn oeſtad i fyw yn ſobr ac yn gymhedrol, yn bur ac yn ddiwair o Galon a Buchedd; ac mewn mawr addfwynder a goſtyngeiddrwydd gan ymſynnied a'm hannheilyngdod a'm haml a'm hamryw ammher<g ref="char:EOLhyphen"/>ffeithrwydd fy hun.</hi>
+            </p>
+            <p>
+               <hi rend="margQuotes">O Arglwydd, caniattâ i'm Calon i fod wedi ei llenwi a hiraeth ac a dymuniadau difrifol ar ôl y Rhadau hynny yr wy fi 'r awr hon a'm gwefuſau yn gweddïo am danynt a chynnorthwya fi i ddangos fy niragrithrwydd, drwy w<g ref="char:EOLhyphen"/>neuthur beunydd fy ngorau ar gynnyddu ym mhob Grâs a daioni, ac mewn perffaith Sancteiddrwydd yn dy Ofn di. Gwna fi 'n wiliadwrus droſof fy hun, a thros fy holl ffyrdd, fel y gallwyf yn ofalus ochel pob achlyſur o be<g ref="char:EOLhyphen"/>chod, a cheryddu ei gynhyrfiadau cyntaf yn fy Nghalon fy hun. Cadw fi yn oeſtad mewn dwys ymſynniad o'th Breſennoldeb, fel y gallwyf rodio yn oſtyngedig gyd-a thydi fy Naw, a rhyngu bôdd i ti gan wneuthur yn dda. Diddyfna fy Nghalon oddïwrth bob peth ymma iſod, a pharottoa fi i'm hymydawiad oddïymma, i Fyd gwell. Cynnorthwya fi yn oeſtad i fyw yn y cyfryw fodd crefy<g ref="char:EOLhyphen"/>ddol a Sanctaidd, ag y bo mwya<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> cyſſurus i mi yn amſer Marwolaeth a barn. Cadarnha fy Nghrediniaeth o Addewidion gwarthfawr, a Bygythion ofnadwy yr Efengyl, a bydded i'r Grediniaeth hon fy rheoli a'm llywodraethu i yn fy holl Ymarweddiad. O na bydded i mi fyth fod yn euog o gymmaint o ynfy drwydd ac am<g ref="char:EOLhyphen"/>mhwyll, a cholli y tragwyddol a'r anrhaethol orfoledd yn y Nefoedd, a'm taflu fy hun i drrgwyddol boenau U<g ref="char:EOLhyphen"/>ffern, et mwyn neb rhyw fudd neu ddifyrrwch pechod, yr hwn mewn moment a dderfydd. Cadw di bŷth, o Arglwydd, d<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wy dy Yſpryd Sanctaidd, y cyfryw ne<g ref="char:EOLhyphen"/>wŷdd a bywiol ymſynnied ar fy meddwl i o Reſymol<g ref="char:EOLhyphen"/>rwydd Crefydd, ac o fowr-ddrwg ac ynfydrwydd pob pechod a drygioni, fel na bo i'r un o brofedïgaethau Satan, yr un o hudoliaethau y Bŷd na'r Cnawd, fy rhwyſtro i yn fy Nledſwydd, na'm tynnu i un pechod
+<pb n="67" facs="tcp:174199:35"/>
+gwybyddus: eithr bydded i ti yn oeſtad fy nghryſhau a'm cynnorthwyo i drwy dy Ras, a'm cyfarwyddo i drwy dy Gyngor, hyd om ddygi di fi attat dy hun i Ogo<g ref="char:EOLhyphen"/>niant.</hi>
+            </p>
+            <p>
+               <hi rend="margQuotes">Ac nid ydwyf yn gweddïo droſof fy hun yn unig ond dros holl Ddynol ryw, gan attolygu i <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i anfon Goleuni dy Efengyl i holl dywyll Gonglau y Ddaiar, a chaniatta, fod i'r rhai ſydd yn ei fwynhau, rodio ym mhob ufudd-dod ſanctaidd i'r unrhyw. Bydd drugarog wrth y Teyrna<g ref="char:EOLhyphen"/>ſoedd hyn, maddeu ein pechodau, a dïwygla ni oddïwrchynt. Gwnïa i fynu ein holl rwygiadau ni, parhaed dy drug<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>reddau tuag-attom, a gwna ni yn wîr<g ref="char:EOLhyphen"/>ddïolchgar am danynt. Bendithia Fawrhydi y Brenin, gyda'r Brenhinol Deulu, a'r holl rai ſydd mewn awdur<g ref="char:EOLhyphen"/>dod tano, a chaniatta i mi, ac i'w holl Ddeiliaid ef, ras i arwain Bucheddau llonydd a heddychol, ym mhob Duwioldeb a goneſtrwydd. Bendithia Weinidogion dy Sanctaidd Air a'th Sacramentau,</hi> a gwna hwynt yn dra<g ref="char:EOLhyphen"/>diwyd ac yn dra-llwyddiannus yn eu Llafur oll; cynnorthwya ni i ddwyn y cyfryw Ffrwyth o'r Bendithion <hi rend="margQuotes">yr ydym ni yn eu mwynhau, fel y bo i'th Efengyl di a'i Hordinhadau barhau i ni, ac i'r Cenedlaethau ar ein hôl ni. Dangos drugaredd i'r rhai oll ſydd yn orthrymmedig, pa un bynnag ai yng Nghorph neu Enaid, a chadw y rhai ſydd yn ymdaith ar eu Hachoſion cyfreithlon ar Fôr neu Dîr. Bendithia fy holl Geraint a'm Cyfneſaf, yn bendifaddeu, y rhai oll ſydd yn perthyn i'r Teulu hwn, a chynnorthwya ni oll i fyw yn'dy ofn a'th gariad ti ein Duw, ac mewn heddwch a chariad y naill tuag-at y llall. Bydded dy fendith a'th ddaionus breſennoldeb gyda mi dy Was annheilwng, yr awr hon a phob amſer, yn fy ngorweddiad a'm cyfodiad, yn fy mynediad allan a'm dyfodiad i mewn, bydd di yn Dduw ac yn Arweinydd i mi, ie hyd Farwolaeth, ac yn rhan dragwyddol i mi, pan na byddo amſer mwy.</hi>
+            </p>
+            <p>
+               <hi rend="margQuotes">A bydded yn gymmeradwy gennit ti, o Dduw, fy niffuant ddymuniadau, i fendithio ac i foli dy Enw bendigedig, am dy holl Drugareddau a'th Ffafor i mi fy
+<pb n="68" facs="tcp:174199:36" rendition="simple:additions"/>
+hun, ac i bob Dŷn. 'Rwy 'n dy fendithio di am fy Rheſwm a'm Synhwyrau, fy lechyd a'm Cryfder, Ym<g ref="char:EOLhyphen"/>borth a Dillad, ac am holl Gyſſurau y Bywyd hwn; eithr uwchlaw pob peth, 'rwy 'n dy foliannu di am dy anfei<g ref="char:EOLhyphen"/>drol gariad ym Mhrynedigaeth y Byd drwy ein Har<g ref="char:EOLhyphen"/>wydd Ieſu Griſt, am holl foddion G<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s, ac am obaith Gogoniant. Ac mi a attolygafi ti, roddi i mi y cyfryw ddwys ac iawn ymſynnied ar dy holl Drugared dau, fel y bo fy Nghalon i yn ddiffuant yn ddiolchgar ac y myneg<g ref="char:EOLhyphen"/>wyf dy Foliant, nid a'm gwefuſau yn unig, ond yn fy muche<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>wy ym<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oddi i'th waſanaeth, a thrwy rodio ger dy fron <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ewn Sancteiddrwydd ac Uniondeb holl ddyddiau fy Mywyd.</hi> trwy Ieſu Griſt ein Harglwydd, yn ſancteiddiaf Enw a Geiriau pa un, yr wyf yn parhau i weddïo megis ag y dyſgodd efe i ni yn ei Efengyl, gan ddywedyd.</p>
+            <p>
+               <hi>Ein Tad yr hwn wyt yn y Nefoedd,</hi> &amp;c.</p>
+            <p>
+               <hi>Rhad ein Harglwydd Ieſu Griſt, a ſerch Duw, <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> chymdei<g ref="char:EOLhyphen"/>thas yr Yſpryd glan, a fo gyda myfi yr awr ho<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ac yn dra<g ref="char:EOLhyphen"/>gywydd,</hi> Amên.</p>
+            <trailer>TERFYN.</trailer>
+            <pb facs="tcp:174199:36" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
